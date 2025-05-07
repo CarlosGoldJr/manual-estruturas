@@ -5,9 +5,10 @@
 project = 'Manual de Estruturas Organizacionais'
 copyright = '2025, Demor'
 author = 'Diretoria de Modelos Organizacionais'
+project_copyright = 'Manual de Estruturas Organizacionais'
 
-release = '0.2'
-version = '0.2.1'
+release = ''
+version = '0.2'
 
 # -- General configuration
 
@@ -29,7 +30,19 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'furo'
+html_title = ""
+html_logo = 'pen_logo_sem_fundo.png'
+html_theme_options = {
+    'navigation_depth': 5,
+    
+}
+
+html_favicon = 'icone_principal.png'
+
+
+
+# --html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
