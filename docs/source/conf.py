@@ -6,8 +6,8 @@ project = 'Manual de Estruturas Organizacionais'
 copyright = '2025, Demor'
 author = 'Diretoria de Modelos Organizacionais'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.2'
+version = '0.2.1'
 
 # -- General configuration
 
