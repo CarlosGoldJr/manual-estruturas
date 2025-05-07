@@ -1,4 +1,4 @@
-OS SISTEMAS ESTRUTURADORES DO PODER EXECUTIVO FEDERAL
+Sistemas Estruturadores do Poder Executivo Federal
 =====================================================
 
 Os sistemas estruturadores são aqueles instituídos com base no art. 30 do Decreto-Lei

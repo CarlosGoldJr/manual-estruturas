@@ -1,4 +1,4 @@
-HISTÓRICO DE EDIÇÕES
+Histórico de Edições
 ====================
 
 A 1ª edição do Manual de Estruturas Organizacionais do Poder Executivo Federal foi publicada em 18/05/2108, sendo aprovado pela Instrução Normativa nº 4/2018-SEGES/MP. Este manual pode ser acessada clicando `aqui <https://www.gov.br/gestao/pt-br/assuntos/estruturas-organizacionais/consulta/legislacao/in4-2018/versoes-anteriores/manual-de-estruturas-2018.pdf/view>`_.

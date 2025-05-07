@@ -33,10 +33,24 @@ templates_path = ['_templates']
 html_theme = 'furo'
 html_title = ""
 # -- html_logo = 'pen_logo_sem_fundo.png'
+
 html_theme_options = {
     'navigation_depth': 5,
-    
+    "light_css_variables": {
+        "color-brand-primary": "#004080",
+        "color-brand-content": "#0066cc",
+        "color-admonition-background": "#e6f0ff",
+    },
+    "dark_css_variables": {
+        "color-brand-primary": "#66ccff",
+        "color-brand-content": "#3399ff",
+        "color-admonition-background": "#002233",
+    },
+    "navigation_with_keys": True,
 }
+
+
+
 
 html_favicon = 'icone_principal.png'
 

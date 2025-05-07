@@ -1,4 +1,4 @@
-CONCEITOS RELACIONADOS A ESTRUTURAS E ARRANJOS INSTITUCIONAIS
+Conceitos relacionados a estruturas e arranjos institucionais
 =============================================================
 
 2.1 Administração federal
