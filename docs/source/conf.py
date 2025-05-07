@@ -30,8 +30,8 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-# -- html_theme = 'furo'
-# -- html_title = ""
+html_theme = 'furo'
+html_title = ""
 # -- html_logo = 'pen_logo_sem_fundo.png'
 html_theme_options = {
     'navigation_depth': 5,
