@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Manual de Estruturas Organizacionais'
+copyright = '2025, Demor'
+author = 'Diretoria de Modelos Organizacionais'
 
 release = '0.1'
 version = '0.1.0'
