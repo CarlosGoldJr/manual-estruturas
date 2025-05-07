@@ -18,3 +18,5 @@ Conteúdo
 
    Historico
    Introducao
+   Sistemas_Estruturadores
+   Conceitos
