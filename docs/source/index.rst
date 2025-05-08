@@ -1,6 +1,8 @@
 Manual de Estruturas Organizacionais
 ====================================
 
+.. figure:: _static/images/banner_inicial.png
+
 Seja bem vindo à página que compila as principais informações sobre o processo de revisão das estruturas organizacionais dos ministérios e entidades, desde sua concepção até o cadastro no sistema informatizado do SIORG!
 
 **O que é uma estrutura organizacional?**
