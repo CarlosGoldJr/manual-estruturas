@@ -1,7 +1,7 @@
 Conceitos relacionados a estruturas e arranjos institucionais
 =============================================================
 
-2.1 Administração federal
+Administração federal
 -------------------------
 
 Segundo o Decreto-Lei nº 200, de 1967, a Administração Federal compreende:
@@ -15,7 +15,7 @@ II. A Administração Indireta, que compreende as seguintes categorias de entida
      d) Fundações Públicas.
 
 
-2.2 Administração direta
+Administração direta
 -------------------------
 
 Na organização da administração pública federal direta, a Presidência da República é o órgão independente do Poder Executivo da União, reunindo todas as atividades administrativas superiores de âmbito federal, de política, planejamento, coordenação e controle do desenvolvimento sócio econômico do País e da segurança nacional (MEIRELLES, 1990, p. 647).

@@ -13,12 +13,12 @@ nº 200, de 25 de fevereiro de 1967:
 
 Importa registrar que o conceito de sistema estruturador remete ao conjunto de atividades comuns a todos os órgãos/entidades, que, para sua melhor execução, necessitam ser organizadas na forma de um sistema com coordenação central. Assim, deve-se evitar confundir os órgãos designados como responsáveis pelas atividades de coordenação central, setorial ou seccional de um sistema, como unidades organizacionais finais e estanques desse sistema.
 
-1.1 Sistema de Organização e Inovação Institucional do Governo Federal (SIORG)
+Sistema de Organização e Inovação Institucional do Governo Federal (SIORG)
 ------------------------------------------------------------------------------
 
 As atividades de desenvolvimento organizacional dos órgãos e entidades da administração direta, autárquica e fundacional do Poder Executivo federal foram estruturadas sob a forma de sistema originalmente por meio do Decreto nº 6.944, de 21 de agosto de 2009, revogado pelo Decreto nº 9.739, de 28 de março de 2019, a partir de 1º de junho de 2019.
 
-1.1.1 Órgão central
+Órgão central
 +++++++++++++++++++
 
 A Secretaria de Gestão da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia é o Órgão Central do SIORG.
