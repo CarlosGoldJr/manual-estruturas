@@ -8,8 +8,10 @@ Manual de Estruturas
 
 .. admonition:: Saiba Mais
 
-   Teste de caixa de diálogo. \\
-   Teste de linha.
+   .. line-block::
+
+      Teste de caixa de diálogo.
+      Teste de linha.
 
 Aqui encontraremos o manual hierarquizado.
 
