@@ -9,8 +9,6 @@ Como resultado dessa diretriz foram publicadas, dentre outros atos, a Medida Pro
 
 .. figure:: _static/images/tabela_nutricional.jpeg
 
-tabela_nutricional
-
 Primeira Hierarquia
 -------------------
 
