@@ -60,3 +60,10 @@ html_favicon = 'icone_principal.png'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+
+latex_elements = {
+    'papersize': 'a4paper',
+    'pointsize': '10pt',
+    'secnumdepth': '5',  # Permite numeração até subsubsubsection
+}
