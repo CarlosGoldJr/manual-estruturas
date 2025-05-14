@@ -27,7 +27,7 @@ Tabela de teste com texto:
    :header-rows: 1
    :widths: 15 35
 
-   - * Ícones
+   - * Teste2
      * Descrição
    - * *Visualização detalhada*
      * Possibilita uma visualização mais detalhada dos processos na tela. O usuário poderá configurar essa opção clicando no link “Visualização detalhada” e, em seguida, no link “Configurar nível de detalhe”.
