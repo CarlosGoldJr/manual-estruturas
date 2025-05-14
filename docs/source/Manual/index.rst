@@ -15,7 +15,8 @@ Manual de Estruturas
 
 Aqui encontraremos o manual hierarquizado.
 
-**Contexto Geral**
+Contexto Geral
+++++++++++++++
 
 No contexto da necessidade de ajuste fiscal, intensificado a partir de 2015, o Poder Executivo Federal tem se empenhado em reduzir despesas com cargos em comissão e funções de confiança, profissionalizar e modernizar a gestão pública.
 
@@ -28,7 +29,7 @@ Como resultado dessa diretriz foram publicadas, dentre outros atos, a Medida Pro
 .. toctree::
 
    :titlesonly:
-   :maxdepth: 3
+   :maxdepth: 5
 
    Historico
    Contextualizacao
