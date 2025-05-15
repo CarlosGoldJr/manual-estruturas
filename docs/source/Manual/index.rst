@@ -27,8 +27,6 @@ Como resultado dessa diretriz foram publicadas, dentre outros atos, a Medida Pro
 **Apresentaremos os tópicos deste manual:**
 
 .. toctree::
-
-   :titlesonly:
    :maxdepth: 5
 
    Historico

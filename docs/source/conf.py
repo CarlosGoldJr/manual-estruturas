@@ -10,6 +10,8 @@ project_copyright = 'Manual de Estruturas Organizacionais'
 release = ''
 version = '0.2'
 
+language = 'pt_BR'
+
 # -- General configuration
 
 extensions = [
@@ -27,6 +29,8 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+
+numfig = True
 
 # -- Options for HTML output
 
@@ -61,9 +65,12 @@ html_favicon = 'icone_principal.png'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-
 latex_elements = {
+    'babel': '\\usepackage[brazil]{babel}',
     'papersize': 'a4paper',
     'pointsize': '10pt',
-    'secnumdepth': '5',  # Permite numeração até subsubsubsection
+    'preamble': r'''
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{2}
+''',
 }
