@@ -12,17 +12,17 @@ sphinx-build -b latex source build/latex
 
 echo.
 echo === [3] Gerando PDF com pdflatex ===
-if exist build\latex\manualdeestruturasorganizacionais.tex (
+if exist build\latex\estruturasorganizacionais.tex (
     cd build\latex
     echo Executando pdflatex 3x...
-    pdflatex manualdeestruturasorganizacionais.tex
-    pdflatex manualdeestruturasorganizacionais.tex
-    pdflatex manualdeestruturasorganizacionais.tex
+    pdflatex estruturasorganizacionais.tex
+    pdflatex estruturasorganizacionais.tex
+    pdflatex estruturasorganizacionais.tex
     echo PDF gerado com sucesso!
-    start manualdeestruturasorganizacionais.pdf
+    start estruturasorganizacionais.pdf
     cd ../..
 ) else (
-    echo ERRO: Arquivo manualdeestruturasorganizacionais.tex NAO encontrado!
+    echo ERRO: Arquivo estruturasorganizacionais.tex NAO encontrado!
 )
 
 echo.

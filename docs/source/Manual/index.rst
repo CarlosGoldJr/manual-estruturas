@@ -29,7 +29,10 @@ Como resultado dessa diretriz foram publicadas, dentre outros atos, a Medida Pro
 .. toctree::
    :maxdepth: 5
 
-   Historico
    Contextualizacao
+   Historico
    Sistemas_Estruturadores
    Conceitos
+
+.. include:: ../referencias.rst
+   :start-after: inicio-referencias

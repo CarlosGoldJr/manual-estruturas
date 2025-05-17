@@ -2,6 +2,8 @@ Estruturas Organizacionais
 ==========================
 
 .. figure:: _static/images/banner_inicial.png
+   
+   teste
 
 Seja bem vindo à página que compila as principais informações sobre o processo de revisão das estruturas organizacionais dos ministérios e entidades, desde sua concepção até o cadastro no sistema informatizado do SIORG!
 
@@ -20,10 +22,6 @@ No menu lateral você encontrará o Manual de Estruturas Organizacionais atualiz
    :hidden:
    :titlesonly:
 
-   Manual/index
-
-.. toctree::
-   :hidden:
-   :titlesonly:
-   
+   Introducao/index
    FAQ/index
+   Manual/index   

@@ -2,14 +2,14 @@ Sistemas Estruturadores do Poder Executivo Federal
 =====================================================
 
 Os sistemas estruturadores são aqueles instituídos com base no art. 30 do Decreto-Lei
-nº 200, de 25 de fevereiro de 1967:
+nº 200, de 25 de fevereiro de 1967 [#]_:
 
 .. epigraph::
 	"Art. 30. Serão organizadas sob a forma de sistema as atividades de pessoal, orçamento, estatística, administração financeira, contabilidade e auditoria, e erviços gerais, além de outras atividades auxiliares comuns a todos os órgãos da dministração que, a critério do Poder Executivo, necessitem de coordenação central.
 	§ 1º Os serviços incumbidos do exercício das atividades de que trata este artigo consideram-se integrados no sistema respectivo e ficam, consequentemente, sujeitos à orientação normativa, à supervisão técnica e à fiscalização específica do órgão central do sistema, sem prejuízo da subordinação ao órgão em cuja estrutura administrativa estiverem integrados. 
 	§ 2º O chefe do órgão central do sistema é responsável pelo fiel cumprimento das leis e regulamentos pertinentes e pelo funcionamento eficiente e coordenado do sistema.
 	§ 3º É dever dos responsáveis pelos diversos órgãos competentes dos sistemas atuar de modo a imprimir o máximo rendimento e a reduzir os custos operacionais da Administração.
-	§ 4° Junto ao órgão central de cada sistema poderá funcionar uma Comissão de Coordenação, cujas atribuições e composição serão definidas em decreto." 
+	§ 4° Junto ao órgão central de cada sistema poderá funcionar uma Comissão de Coordenação, cujas atribuições e composição serão definidas em decreto. [#]_" 
 
 Importa registrar que o conceito de sistema estruturador remete ao conjunto de atividades comuns a todos os órgãos/entidades, que, para sua melhor execução, necessitam ser organizadas na forma de um sistema com coordenação central. Assim, deve-se evitar confundir os órgãos designados como responsáveis pelas atividades de coordenação central, setorial ou seccional de um sistema, como unidades organizacionais finais e estanques desse sistema.
 
@@ -35,3 +35,5 @@ extinção de órgãos e entidades.
 	IV. Teste	 
 
 
+.. [#] Teste3.
+.. [#] Teste4.
