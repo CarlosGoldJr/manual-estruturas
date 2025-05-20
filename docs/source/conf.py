@@ -100,5 +100,5 @@ latex_elements = {
 }
 
 bibtex_bibfiles = ['referencias.bib']
-bibtex_default_style = 'apa'
+bibtex_default_style = 'alpha'
 
