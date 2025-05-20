@@ -9,9 +9,9 @@ Consulte a Tabela :ref:`tabela_nivel_detalhe` para mais informações sobre nív
 Vc também pode ver a :numref:`tabela_nivel_detalhe`
 
 
-Veja o :ref:`banner_inicio` ou :numref:`banner_inicio` para mais detalhes.
+Veja o :ref:`banner_inicio` ou :numref:`banner_inicio` para mais detalhes :cite:`teste2`.
 
-Aqui você encontrará os principais questionamentos [meuteste1]_ sobre Estuturas Organizacionais.
+Aqui você encontrará os principais questionamentos sobre Estuturas Organizacionais.
 Você também pode acessar as `informações online <siorg.gov.br>`_.
 
 
@@ -27,5 +27,4 @@ Você também pode acessar as `informações online <siorg.gov.br>`_.
      * Possibilita uma visualização mais detalhada dos processos na tela. O usuário poderá configurar essa opção clicando no link “Visualização detalhada” e, em seguida, no link “Configurar nível de detalhe”.
    - * *Configurar nível de detalhe*
      * Esse link surge quando o usuário clica em “Visualização detalhada”. Ele permite a configuração do nível de detalhe a ser exibido em tela. O usuário poderá selecionar uma das seguintes opções a serem apresentadas na tela: Atribuição, Anotação, Tipo de processo, Especificação, Interessados, Observação, Controle de Prazo, Para Devolver, Aguardando Retorno, Última Movimentação na Unidade e Marcadores.
-
 

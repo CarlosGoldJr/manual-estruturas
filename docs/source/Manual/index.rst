@@ -34,5 +34,3 @@ Como resultado dessa diretriz foram publicadas, dentre outros atos, a Medida Pro
    Sistemas_Estruturadores
    Conceitos
 
-.. include:: ../referencias.rst
-   :start-after: inicio-referencias

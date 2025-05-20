@@ -20,8 +20,11 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-#    'sphinxcontrib.bibtex'
+    'sphinxcontrib.bibtex',
+    'sphinx.ext.viewcode',
+    
 ]
+
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
@@ -46,21 +49,6 @@ numfig_secnum_depth = 1
 
 html_theme = 'furo'
 html_title = ""
-
-# html_theme_options = {
-#     "light_css_variables": {
-#         "color-brand-primary": "#004080",
-#         "color-brand-content": "#0066cc",
-#         "color-admonition-background": "#e6f0ff",
-#     },
-#     "dark_css_variables": {
-#         "color-brand-primary": "#66ccff",
-#         "color-brand-content": "#3399ff",
-#         "color-admonition-background": "#002233",
-#     },
-#     "navigation_with_keys": True,
-# }
-
 
 html_theme_options = {
     "light_css_variables": {
@@ -110,3 +98,7 @@ latex_elements = {
 \setcounter{tocdepth}{2}
 ''',
 }
+
+bibtex_bibfiles = ['referencias.bib']
+bibtex_default_style = 'apa'
+

@@ -4,7 +4,9 @@ cd /d %~dp0
 
 echo === [1] Gerando HTML ===
 call make.bat html
-start build\html\index.html
+
+call build\html\index.html
+
 
 echo.
 echo === [2] Gerando LaTeX (.tex) ===

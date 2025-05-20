@@ -5,7 +5,7 @@ No contexto da necessidade de ajuste fiscal, intensificado a partir de 2015, o P
 
 
 Sobre o banner
-Veja o :ref:`banner_inicio` ou :numref:`banner_inicio` para mais detalhes.
+Veja o :ref:`banner_inicio` ou :numref:`banner_inicio` para mais detalhes .
 
 No atual governo foram robustecidas as diretrizes que orientam os processos de fortalecimento da capacidade institucional nas estruturas organizacionais, dentre as quais destacam-se aquelas com foco na organização da ação governamental por programas, eliminação de superposições e fragmentações das ações, aumento da eficiência, eficácia e efetividade do gasto público e da ação administrativa, racionalização de níveis hierárquicos e aumento da amplitude de comando, orientação para as prioridades de governo e alinhamento das medidas propostas com as competências da organização e os resultados pretendidos [#]_.
 
@@ -15,7 +15,7 @@ Como resultado dessa diretriz foram publicadas, dentre outros atos, a Medida Pro
 Primeira Hierarquia
 -------------------
 
-Como orientação geral é importante que quando detectada a necessidade de atualização de estruturas regimentais, deve ser perseguido o aprimoramento do desenho organizacional para o alcance das metas estabelecidas e melhoria do desempenho institucional, com foco no cidadão-usuário dos serviços públicos.
+Como orientação geral é importante que quando detectada a necessidade de atualização de estruturas regimentais, deve ser perseguido o aprimoramento do desenho organizacional para o alcance das metas estabelecidas e melhoria do desempenho institucional, com foco no cidadão-usuário dos serviços públicos :cite:`teste3`.
 
 Segunda Hierarquia 
 ++++++++++++++++++
@@ -25,10 +25,10 @@ Terceira Hierarquia
 
 Este documento mostra o processo descrito na :numref:`figura-fluxo`.
 
-Veja o :ref:`figura-fluxo` ou :numref:`figura-fluxo` para mais detalhes.
+Veja o :ref:`figura-fluxo` ou :numref:`figura-fluxo` para mais detalhes :cite:`teste1`.
 
 
-Para tanto as unidades deverão ter, no mínimo, um objetivo estratégico associado as suas competências e sob sua responsabilidade, sendo que as demais estruturas de linha dos órgãos e entidades da administração direta ou indireta deverão desenvolver atividades vinculadas aos objetivos de contribuição de seus níveis superiores. Nas propostas de fortalecimento é importante observar o quantitativo de servidores alocados em área finalística e área-meio, bem como evitar que haja mais de quatro níveis hierárquicos entre as unidades de linha. Recomenda-se que a proporção de profissionais por cargo de chefia não deverá ser inferior a sete servidores [meuteste2]_.
+Para tanto as unidades deverão ter, no mínimo, um objetivo estratégico associado as suas competências e sob sua responsabilidade, sendo que as demais estruturas de linha dos órgãos e entidades da administração direta ou indireta deverão desenvolver atividades vinculadas aos objetivos de contribuição de seus níveis superiores. Nas propostas de fortalecimento é importante observar o quantitativo de servidores alocados em área finalística e área-meio, bem como evitar que haja mais de quatro níveis hierárquicos entre as unidades de linha. Recomenda-se que a proporção de profissionais por cargo de chefia não deverá ser inferior a sete servidores.
 
 
 .. figure:: ../_static/images/fluxo_estrutura.png
