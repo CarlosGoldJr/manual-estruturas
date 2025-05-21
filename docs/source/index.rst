@@ -2,14 +2,13 @@ Estruturas Organizacionais
 ==========================
 
 .. figure:: _static/images/banner_inicial.png
-   
-   teste
+
 
 Seja bem vindo à página que compila as principais informações sobre o processo de revisão das estruturas organizacionais dos ministérios e entidades, desde sua concepção até o cadastro no sistema informatizado do SIORG!
 
 **O que é uma estrutura organizacional?**
 
-O poder executivo federal é dividido em administração direta (ministérios) e indireta (autarquias, fundações públicas e empresas estatais).
+O poder executivo federal é dividido em administração direta (ministérios) e indireta (autarquias, fundações públicas e empresas estatais) :cite:`teste2`.
 
 Em sua organização interna, essas instituições são divididas em subunidades, com competências próprias; essas subunidades são interligadas, formando uma estrutura hierárquica. A essa estrutura hierárquica de subunidades dá-se o nome de estrutura organizacional.
 
@@ -18,6 +17,12 @@ As atividades de desenvolvimento organizacional dos ministérios, das autarquias
 No menu lateral você encontrará o Manual de Estruturas Organizacionais atualizado e um FAQ com as principais dúvidas sobre Estruturas!
 
 
+.. only:: html
+   
+   .. admonition:: Bibliografia
+
+      Acesse :doc:`bibliografia` para ter acesso a todos os materiais e links utilizados neste documento.
+
 .. toctree::
    :hidden:
    :titlesonly:
@@ -25,3 +30,8 @@ No menu lateral você encontrará o Manual de Estruturas Organizacionais atualiz
    Introducao/index
    FAQ/index
    Manual/index   
+
+
+.. only:: latex
+
+   .. bibliography:: referencias.bib
