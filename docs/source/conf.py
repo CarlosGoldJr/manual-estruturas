@@ -1,11 +1,14 @@
 # Configuration file for the Sphinx documentation builder.
 
+
+
 # -- Project information
 
 project = 'Estruturas Organizacionais'
 copyright = '2025, Demor'
 author = 'Diretoria de Modelos Organizacionais'
 project_copyright = 'Estruturas Organizacionais'
+
 
 release = ''
 version = '0.2'
@@ -78,12 +81,7 @@ html_theme_options = {
     "navigation_with_keys": True,  # Permite navegação via teclas ← ↑ → ↓
 }
 
-
-
-
 html_static_path = ['_static']
-
-
 html_favicon = 'icone_principal.png'
 
 # -- Options for EPUB output
@@ -96,6 +94,63 @@ latex_elements = {
     'preamble': r'''
 \setcounter{secnumdepth}{4}
 \setcounter{tocdepth}{2}
+\usepackage{graphicx}
+\graphicspath{{_static/images/}}
+''',
+'maketitle': f'''
+\\begin{{titlepage}}
+\\thispagestyle{{empty}}
+\\vspace*{{1cm}}
+\\noindent\\rule{{\\textwidth}}{{0.4pt}}
+
+\\begin{{center}}
+\\includegraphics[width=14cm]{{banner_inicial.png}}
+\\end{{center}}
+
+\\vspace{{1cm}}
+\\begin{{flushright}}
+{{\\Huge \\bfseries {project}}}\\\\[2cm]
+{{\\LARGE \\bfseries {author}}}
+\\end{{flushright}}
+
+\\vfill
+\\hfill {{\\textbf{{\\today}}}}
+
+\\newpage
+\\thispagestyle{{empty}}
+\\raggedright
+
+\\noindent\\textbf{{Ministério da Economia}}\\\\
+Secretaria Especial de Desburocratização, Gestão e Governo Digital\\\\
+Secretaria de Gestão\\\\
+Departamento de Modelos Organizacionais\\\\[1cm]
+
+\\textbf{{Colaboraram com a 1ª edição:}}\\\\
+Juliana Akiko Noguchi Suzuki (Org.), Danyela de Oliveira Felix (Org.), Antonio Augusto Ignacio Amaral, Giovanna de Sá Lúcio, Christiano Perez de Resende, Eduardo Monteiro Pastore, Kaiser Freiras, Manuel Ferreira Filho.\\\\[0.5cm]
+
+\\textbf{{Colaboraram com a 2ª edição:}}\\\\
+Juliana Akiko Noguchi Suzuki, Danyela de Oliveira Felix, Frederico Porto de Souza, Marcos Santos Kroll, Giovanna de Sá Lúcio, Christiano Perez de Resende, Sheila Maria Reis Ribeiro, Eduardo Monteiro Pastore, Sylvia Helena Figueiredo Prata, Rodrigo Machado Bolina, Maria Beatriz Teixeira Barral Vidal, Iracema Pontes da Cruz.\\\\[0.5cm]
+
+\\textbf{{Assessoria Especial de Comunicação Social}}\\\\
+Supervisão: Letícia Barbosa\\\\
+Capa: Jamil Ghani\\\\
+Editoração: Rogério Fernandes Guimarães\\\\[0.5cm]
+
+Brasília (DF), 27 de maio de 2019\\\\[1cm]
+
+\\fbox{{
+  \\begin{{minipage}}{{0.9\\textwidth}}
+  \\small
+  B823m\\\\
+  Brasil. Ministério da Economia.\\\\[0.5em]
+  Manual de Estruturas Organizacionais do Poder Executivo Federal / Ministério da Economia, Secretaria de Gestão. – 2. ed. -- Brasília: Ministério da Economia, 2019.\\\\[0.5em]
+  100 p.: il.\\\\[0.5em]
+  1. Administração Pública 2. Estrutura Organizacional 3. Poder Executivo Federal\\\\
+  I. Título II. Secretaria Especial de Desburocratização, Gestão e Governo Digital.\\\\
+  CDU 351:005.72
+  \\end{{minipage}}
+}}
+\\end{{titlepage}}
 ''',
 }
 
