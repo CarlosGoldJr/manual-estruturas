@@ -1,7 +1,5 @@
 # Configuration file for the Sphinx documentation builder.
 
-
-
 # -- Project information
 
 project = 'Estruturas Organizacionais'
@@ -100,25 +98,24 @@ latex_elements = {
 'maketitle': f'''
 \\begin{{titlepage}}
 \\thispagestyle{{empty}}
-\\vspace*{{1cm}}
-\\noindent\\rule{{\\textwidth}}{{0.4pt}}
-
+\\vspace{{1cm}}
 \\begin{{center}}
-\\includegraphics[width=14cm]{{banner_inicial.png}}
+{{\\Large \\bfseries Ministério da Gestão e da Inovação em Serviços Públicos}}\\\\[0.5cm]
+{{\\large \\bfseries {author}}}
 \\end{{center}}
 
 \\vspace{{1cm}}
-\\begin{{flushright}}
-{{\\Huge \\bfseries {project}}}\\\\[2cm]
-{{\\LARGE \\bfseries {author}}}
-\\end{{flushright}}
+\\begin{{center}}
+\\includegraphics[width=5cm]{{capa_pdf.png}}
+\\end{{center}}
+
+
 
 \\vfill
 \\hfill {{\\textbf{{\\today}}}}
 
 \\newpage
 \\thispagestyle{{empty}}
-\\raggedright
 
 \\noindent\\textbf{{Ministério da Economia}}\\\\
 Secretaria Especial de Desburocratização, Gestão e Governo Digital\\\\
@@ -153,6 +150,8 @@ Brasília (DF), 27 de maio de 2019\\\\[1cm]
 \\end{{titlepage}}
 ''',
 }
+
+
 
 bibtex_bibfiles = ['referencias.bib']
 bibtex_default_style = 'apa'
