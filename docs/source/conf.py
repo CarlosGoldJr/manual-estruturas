@@ -106,7 +106,7 @@ latex_elements = {
 
 \\vspace{{1cm}}
 \\begin{{center}}
-\\includegraphics[width=5cm]{{capa_pdf.png}}
+\\includegraphics[width=5cm]{{banner_inicial.png}}
 \\end{{center}}
 
 
