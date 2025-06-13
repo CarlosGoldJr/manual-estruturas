@@ -14,6 +14,8 @@ Em sua organização interna, essas instituições são divididas em subunidades
 
 As atividades de desenvolvimento organizacional dos ministérios, das autarquias e das fundações públicas são, ainda, estruturadas sob a forma de sistema, denominado Sistema de Organização e Inovação Institucional do Governo Federal – SIORG. Como suporte às suas atividades, o SIORG conta com um sistema informatizado para o cadastro oficial das estruturas organizacionais dos ministérios e das entidades públicas. As empresas estatais tem um tratamento diferente, que é conduzido pela SEST.
 
+.. figure:: _static/images/capa_pdf.png
+
 No menu lateral você encontrará o Manual de Estruturas Organizacionais atualizado e um FAQ com as principais dúvidas sobre Estruturas!
 
 
