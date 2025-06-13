@@ -82,6 +82,8 @@ html_theme_options = {
 html_static_path = ['_static']
 html_favicon = 'icone_principal.png'
 
+latex_additional_files = ['_static/images/capa_pdf.png']
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
@@ -93,20 +95,21 @@ latex_elements = {
 \setcounter{secnumdepth}{4}
 \setcounter{tocdepth}{2}
 \usepackage{graphicx}
-\graphicspath{{_static/images/}}
+
 ''',
 'maketitle': f'''
 \\begin{{titlepage}}
 \\thispagestyle{{empty}}
 \\vspace{{1cm}}
 \\begin{{center}}
-{{\\Large \\bfseries Ministério da Gestão e da Inovação em Serviços Públicos}}\\\\[0.5cm]
+{{\\LARGE \\bfseries Ministério da Gestão e da Inovação em Serviços Públicos}}\\\\[0.2cm]
+{{\\Large \\bfseries Secretaria De Gestão e Inovação}}\\\\[0.2cm]
 {{\\large \\bfseries {author}}}
 \\end{{center}}
 
-\\vspace{{1cm}}
+\\vspace{{3cm}}
 \\begin{{center}}
-\\includegraphics[width=5cm]{{banner_inicial.png}}
+\\includegraphics[width=16cm]{{capa_pdf.png}}
 \\end{{center}}
 
 
