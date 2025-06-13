@@ -107,10 +107,7 @@ latex_elements = {
 {{\\large \\bfseries {author}}}
 \\end{{center}}
 
-\\vspace{{3cm}}
-\\begin{{center}}
-\\includegraphics[width=16cm]{{capa_pdf.png}}
-\\end{{center}}
+
 
 
 
