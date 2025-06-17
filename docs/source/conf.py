@@ -80,7 +80,7 @@ html_theme_options = {
 }
 
 html_static_path = ['_static']
-html_favicon = 'icone_principal.png'
+html_favicon = '_static/images/favicon.png'
 
 latex_additional_files = ['_static/images/capa_pdf.png']
 
@@ -107,9 +107,10 @@ latex_elements = {
 {{\\large \\bfseries {author}}}
 \\end{{center}}
 
-
-
-
+\\vspace{{3cm}}
+\\begin{{center}}
+\\includegraphics[width=16cm]{{capa_pdf.png}}
+\\end{{center}}
 
 \\vfill
 \\hfill {{\\textbf{{\\today}}}}

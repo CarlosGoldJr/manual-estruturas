@@ -28,10 +28,9 @@ No menu lateral você encontrará o Manual de Estruturas Organizacionais atualiz
    :hidden:
    :titlesonly:
 
-   Introducao/index
-   Manual/index   
-   FAQ/index
-
+   01_Introducao/index
+   02_Organizacao/index   
+   
 
 .. only:: latex
 
