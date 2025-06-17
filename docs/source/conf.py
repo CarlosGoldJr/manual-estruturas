@@ -81,6 +81,7 @@ html_theme_options = {
 
 html_static_path = ['_static']
 html_favicon = '_static/images/favicon.png'
+html_css_files = ['custom.css']
 
 latex_additional_files = ['_static/images/capa_pdf.png']
 
@@ -90,7 +91,7 @@ epub_show_urls = 'footnote'
 latex_elements = {
     'babel': '\\usepackage[brazil]{babel}',
     'papersize': 'a4paper',
-    'pointsize': '10pt',
+    'pointsize': '11pt',
     'preamble': r'''
 \setcounter{secnumdepth}{4}
 \setcounter{tocdepth}{2}
