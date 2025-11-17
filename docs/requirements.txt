@@ -6,3 +6,5 @@ sphinxcontrib-bibtex
 pybtex
 
 pybtex-apa-style>=1.0.1
+
+six
