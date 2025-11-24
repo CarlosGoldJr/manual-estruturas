@@ -1,4 +1,4 @@
-ORGANIZAÇÃO DA ADMINISTRAÇÃO PÚBLICA FEDERAL
+Organização da Administração Pública Federal
 ============================================
 
 O Estado é a instituição jurídica consubstanciada na Constituição e na regulamentação infraconstitucional. O Estado brasileiro é uma república democrática com organização federativa, integrado pelos Poderes Legislativo, Executivo e Judiciário, compreendendo a União, os Estados e o Distrito Federal, bem como os municípios.
