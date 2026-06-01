@@ -16,6 +16,8 @@ main.main article.main-article div.content p {
 body {
     /* Diminui a fonte de todo o site */
     font-size: 14px; 
+    /* Força a caixa de texto a ficar mais larga (o padrão é em torno de 40rem) */
+    --content-width: 65rem !important;   
     
 }
 

@@ -11,7 +11,7 @@ Permite:
 - Geração dos anexos ao decreto que aprova nova estrutura ou altera a vigente; e
 - Cálculo do impacto orçamentário anual da estrutura proposta.
 
-.. admonition:: Dica
+.. tip::
 
    .. line-block::
 
@@ -42,7 +42,7 @@ PASSO A PASSO
    Copiando as informações do Decreto.
 
 
-.. admonition:: Importante
+.. important::
 
    .. line-block::
 
@@ -83,7 +83,7 @@ PASSO A PASSO
 
 
 
-.. admonition:: Muito Importante
+.. caution::
 
    .. line-block::
 
@@ -124,7 +124,7 @@ A tabela deve ser idêntica àquela inserida como “Estrutura Proposta”, na a
 2) Após colar a tabela no documento word, apague as linhas em branco. 
 
 
-.. admonition:: Atenção!
+.. danger::
 
    .. line-block::
 
