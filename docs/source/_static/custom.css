@@ -12,23 +12,28 @@ main.main article.main-article div.content p {
     text-justify: inter-word;
 }
 
-
 body {
     /* Diminui a fonte de todo o site */
-    font-size: 14px; 
-    /* Força a caixa de texto a ficar mais larga (o padrão é em torno de 40rem) */
-    --content-width: 65rem !important;   
-    
+    font-size: 14px;
 }
 
 /* =========================================
-   4. FORMATAÇÃO DE LEGENDAS DE FIGURAS E TABELAS
+   AUMENTAR A ÁREA DE LEITURA
+   ========================================= */
+/* Força a caixa de texto a ficar mais larga (o padrão é em torno de 40rem) */
+.main .content,
+article.main-article {
+    max-width: 65rem !important; 
+}
+
+/* =========================================
+   FORMATAÇÃO DE LEGENDAS DE FIGURAS E TABELAS
    ========================================= */
 figure figcaption,
 .figure .caption,
 table caption {
     font-size: 12px !important; /* Como seu texto padrão é 14px, 12px fica ideal */
-    color: var(--color-foreground-muted) !important; /* Opcional: deixa a cor um cinza um pouquinho mais suave para dar contraste com o texto preto */
+    color: var(--color-foreground-muted) !important; /* Opcional: deixa a cor um cinza um pouquinho mais suave */
     line-height: 1.4;
 }
 
