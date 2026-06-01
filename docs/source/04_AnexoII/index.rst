@@ -38,6 +38,7 @@ PASSO A PASSO
    :alt: Animação mostrando a seleção do Anexo II no Decreto
    :align: center
    :name: gif-AnexoII_Decreto
+   
    Copiando as informações do Decreto.
 
 
@@ -53,6 +54,7 @@ PASSO A PASSO
    :alt: Imagem identificando cargos sem unidade
    :align: center
    :name: png-Cargos sem Unidade
+   
    Cargos sem Unidade.
 
 3) Abra a Planilha. **Você preencherá somente as informações que compõem a primeira aba (ComparativoEstruturas_AnexoIIa) e as demais informações serão preenchidas automaticamente.**  
@@ -64,6 +66,7 @@ PASSO A PASSO
    :alt: Animação colando a tabela do Decreto e excluindo o cabeçalho repetido
    :align: center
    :name: gif-Colar_AnexoII
+   
    Colando a tabela do Decreto e excluindo o cabeçalho repetido.
 
 5) Se necessário, exclua linhas da tabela que tragam informações revogadas (linhas riscadas no Decreto).
@@ -72,6 +75,7 @@ PASSO A PASSO
    :alt: Imagem identificando cargos revogados
    :align: center
    :name: png-Cargos Revogados
+   
    Exemplo de cargos/funções revogados em meio ao decreto vigente.
 
 
@@ -92,6 +96,7 @@ PASSO A PASSO
    :alt: Imagem mostrando o custo da proposta
    :align: center
    :name: png-Custo_Proposta
+   
    Custo da Proposta.
 
 Para que uma reestruturação não implique impacto orçamentário, o valor 0 ou negativo deve ser observado: (i) na diferença, em CCE-unitário, entre a situação atual e a proposta; e (ii) no impacto anualizado total (disponível na aba “Impacto”). 
@@ -113,6 +118,7 @@ A tabela deve ser idêntica àquela inserida como “Estrutura Proposta”, na a
    :alt: Animação mostrando como Copiar o conteúdo do Anexo IIb
    :align: center
    :name: gif-Copiar_AnexoIIb
+   
    Copiando conteúdo do Anexo IIb.
 
 2) Após colar a tabela no documento word, apague as linhas em branco. 
@@ -136,6 +142,7 @@ Na aba “Remanejamentos”, copie a tabela da esquerda, a partir da linha 8 (on
    :alt: Animação mostrando como Copiar o conteúdo do Anexo III
    :align: center
    :name: gif-Copiar_AnexoIII
+   
    Copiando Anexo III.
 
 
