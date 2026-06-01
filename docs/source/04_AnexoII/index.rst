@@ -49,12 +49,12 @@ PASSO A PASSO
       Para evitar erros na colagem da planilha, selecione a tabela desde o cabeçalho e, após a colagem, exclua o cabeçalho repetido.
       
 
-.. figure:: ../_static/images/Planilha/Cargos sem Unidade.*
-         :alt: Imagem identificando cargos sem unidade
-         :align: center
-         :name: png-Cargos sem Unidade
+.. figure:: ../_static/images/Planilha/Sem_unidade.*
+   :alt: Imagem identificando cargos sem unidade
+   :align: center
+   :name: png-Cargos sem Unidade
 
-         Cargos sem Unidade.
+   Cargos sem Unidade.
 
 3) Abra a Planilha. **Você preencherá somente as informações que compõem a primeira aba (ComparativoEstruturas_AnexoIIa) e as demais informações serão preenchidas automaticamente.**  
 
@@ -67,8 +67,8 @@ A estrutura organizacional refere-se à configuração pela qual uma organizaç�
 
 Vou fazer um teste com um gif.
 
-.. figure:: ../_static/images/Planilha/AnexoIII.*
-   :alt: Animação mostrando a seleção do Anexo III
+.. figure:: ../_static/images/Planilha/Anexo_III.*
+   :alt: Animação mostrando a seleção do Anexo_III
    :align: center
    :name: gif-preenchimento-1
 

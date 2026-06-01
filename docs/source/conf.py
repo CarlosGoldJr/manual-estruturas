@@ -51,6 +51,16 @@ numfig_secnum_depth = 1
 html_theme = 'furo'
 html_title = ""
 
+# -- Configuração para priorizar GIF no HTML (Truque do Asterisco)
+from sphinx.builders.html import StandaloneHTMLBuilder
+
+StandaloneHTMLBuilder.supported_image_types = [
+    'image/gif',
+    'image/png',
+    'image/jpeg',
+]
+
+
 html_theme_options = {
     "light_css_variables": {
         "color-brand-primary": "#006778",  # Títulos e links principais – teal escuro
