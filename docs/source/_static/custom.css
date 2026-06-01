@@ -11,3 +11,27 @@ main.main article.main-article div.content p {
     text-align: justify !important;
     text-justify: inter-word;
 }
+
+
+body {
+    /* Diminui a fonte de todo o site */
+    font-size: 14px; 
+    
+}
+
+/* =========================================
+   4. FORMATAÇÃO DE LEGENDAS DE FIGURAS E TABELAS
+   ========================================= */
+figure figcaption,
+.figure .caption,
+table caption {
+    font-size: 12px !important; /* Como seu texto padrão é 14px, 12px fica ideal */
+    color: var(--color-foreground-muted) !important; /* Opcional: deixa a cor um cinza um pouquinho mais suave para dar contraste com o texto preto */
+    line-height: 1.4;
+}
+
+/* Reduz também o tamanho do número da figura (ex: "Figura 4") caso o tema separe do texto */
+figure figcaption .caption-number,
+.figure .caption .caption-number {
+    font-size: 12px !important;
+}
