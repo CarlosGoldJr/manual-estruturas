@@ -3,12 +3,14 @@ Planilha Comparativa de Estruturas
 O QUE É E POR QUE USAR
 
 Planilha idealizada e desenvolvida pela equipe técnica da Diretoria de Modelos Organizacionais da Seges/MGI.
+
 Permite:
+
 - Cálculo e comparação de custos, em CCE-Unitários, entre a estrutura organizacional vigente e aquela que se pretende implementar, para órgãos e entidades federais;
 - Geração dos anexos ao decreto que aprova nova estrutura ou altera a vigente; e
 - Cálculo do impacto orçamentário anual da estrutura proposta.
 
-.. admonition:: DICA
+.. note:: DICA
 
    .. line-block::
 
@@ -19,7 +21,7 @@ PASSO A PASSO
 
 1) Localize a última versão publicada do Decreto de Estrutura Organizacional do seu órgão ou entidade.
    
- .. admonition:: NOTA
+.. note::
 
    .. line-block::
 
@@ -27,11 +29,11 @@ PASSO A PASSO
       a) Em consulta direta ao sítio planalto.gov.br;
       b) Por meio de pesquisa simples nos buscadores mais conhecidos, digitando “decreto de estrutura do [nome do órgão ou entidade]” – geralmente, o primeiro resultado já é a última versão do Decreto que aprovou a estrutura deste órgão ou entidade.
       c) Em consulta ao sítio de estruturas mantido pelo MGI: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/consulta/estruturas-e-estatutos 
-   
+    
 
 2) Com o Decreto localizado, procure e copie o Quadro demonstrativo dos cargos em comissão e das funções de confiança (Anexo IIa do Decreto que aprovou a estrutura vigente).  
 
-.. figure:: ../_static/images/AnexoII_Decreto.*
+.. figure:: ../_static/images/Planilha/AnexoII_Decreto.*
    :alt: Animação mostrando a seleção do Anexo II no Decreto
    :align: center
    :name: gif-AnexoII_Decreto
@@ -45,7 +47,7 @@ PASSO A PASSO
 
       Geralmente, a primeira linha de informações no Decreto traz cargo ou função ligado diretamente ao gabinete do dirigente máximo do órgão ou entidade. Assim, a coluna “Unidade” aparece em branco.
       Para evitar erros na colagem da planilha, selecione a tabela desde o cabeçalho e, após a colagem, exclua o cabeçalho repetido.
-      .. figure:: ../_static/images/Cargos sem Unidade.*
+      .. figure:: ../_static/images/Planilha/Cargos sem Unidade.*
          :alt: Imagem identificando cargos sem unidade
          :align: center
          :name: png-Cargos sem Unidade
@@ -64,7 +66,7 @@ A estrutura organizacional refere-se à configuração pela qual uma organizaç�
 
 Vou fazer um teste com um gif.
 
-.. figure:: ../_static/images/AnexoII_Decreto.*
+.. figure:: ../_static/images/Planilha/AnexoII_Decreto.*
    :alt: Animação mostrando a seleção do Anexo II no Decreto
    :align: center
    :name: gif-preenchimento-1
