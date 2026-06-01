@@ -18,12 +18,13 @@ body {
 }
 
 /* =========================================
-   AUMENTAR A ÁREA DE LEITURA
+   AUMENTAR A ÁREA DE LEITURA 
    ========================================= */
-/* Força a caixa de texto a ficar mais larga (o padrão é em torno de 40rem) */
+/* Ataca exatamente as classes que o Furo usa para limitar a largura */
+div.content,
 .main .content,
-article.main-article {
-    max-width: 65rem !important; 
+.article-container {
+    max-width: 65rem !important;
 }
 
 /* =========================================
