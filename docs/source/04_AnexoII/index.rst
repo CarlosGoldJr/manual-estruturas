@@ -7,10 +7,11 @@ Planilha idealizada e desenvolvida pela equipe técnica da Diretoria de Modelos 
 Permite:
 
 - Cálculo e comparação de custos, em CCE-Unitários, entre a estrutura organizacional vigente e aquela que se pretende implementar, para órgãos e entidades federais;
+
 - Geração dos anexos ao decreto que aprova nova estrutura ou altera a vigente; e
 - Cálculo do impacto orçamentário anual da estrutura proposta.
 
-.. admonition:: DICA
+.. admonition:: Dica
 
    .. line-block::
 
@@ -37,11 +38,10 @@ PASSO A PASSO
    :alt: Animação mostrando a seleção do Anexo II no Decreto
    :align: center
    :name: gif-AnexoII_Decreto
-
    Copiando as informações do Decreto.
 
 
-.. admonition:: IMPORTANTE
+.. admonition:: Importante
 
    .. line-block::
 
@@ -53,47 +53,108 @@ PASSO A PASSO
    :alt: Imagem identificando cargos sem unidade
    :align: center
    :name: png-Cargos sem Unidade
-
    Cargos sem Unidade.
 
 3) Abra a Planilha. **Você preencherá somente as informações que compõem a primeira aba (ComparativoEstruturas_AnexoIIa) e as demais informações serão preenchidas automaticamente.**  
 
 4) Cole a tabela do Decreto diretamente **na tabela da esquerda**, referente ao “Decreto Atual”.
+   
+
+.. figure:: ../_static/images/Planilha/Colar_AnexoII.*
+   :alt: Animação colando a tabela do Decreto e excluindo o cabeçalho repetido
+   :align: center
+   :name: gif-Colar_AnexoII
+   Colando a tabela do Decreto e excluindo o cabeçalho repetido.
+
+5) Se necessário, exclua linhas da tabela que tragam informações revogadas (linhas riscadas no Decreto).
+
+.. figure:: ../_static/images/Planilha/cargos_revogados.*
+   :alt: Imagem identificando cargos revogados
+   :align: center
+   :name: png-Cargos Revogados
+   Exemplo de cargos/funções revogados em meio ao decreto vigente.
 
 
-O poder executivo federal é responsável por executar as leis e as políticas públicas. Para isso, ele é dividido em ministérios e entidades, cada qual com sua própria estrutura organizacional.
+6) **Na tabela da direita**, intitulada “Estrutura Proposta”, insira as informações da estrutura que está sendo proposta, mantendo o formato utilizado na tabela da esquerda – para facilitar, você pode replicar, aqui, a tabela da esquerda e alterar somente as informações das unidades que serão revistas. Lembre-se de incluir também, **na proposta**, eventuais alterações realizadas por meio de Portaria do dirigente máximo do seu órgão ou entidade!
 
-A estrutura organizacional refere-se à configuração pela qual uma organização é estabelecida e gerenciada, visando a consecução eficaz de seus objetivos e a execução eficiente de suas operações.
 
-Vou fazer um teste com um gif.
+
+.. admonition:: Muito Importante
+
+   .. line-block::
+
+      As informações inseridas na coluna “CCE/FCE” devem ser idênticas aos dados que se encontram na aba “Legenda”. **Espaços adicionais ou caracteres especiais farão com que o cargo ou função informados na célula não sejam contabilizados**. Isso também vale para a quantidade de cargos ou funções (CARGO/FUNÇÃO Nº)! 
+
+
+7) Avalie se o custo de sua proposta está conforme planejado e acordado com as instâncias superiores e com o MGI, consultando a aba “QuadroResumo_AnexoIIb”. 
+
+.. figure:: ../_static/images/Planilha/Custo_Proposta.*
+   :alt: Imagem mostrando o custo da proposta
+   :align: center
+   :name: png-Custo_Proposta
+   Custo da Proposta.
+
+Para que uma reestruturação não implique impacto orçamentário, o valor 0 ou negativo deve ser observado: (i) na diferença, em CCE-unitário, entre a situação atual e a proposta; e (ii) no impacto anualizado total (disponível na aba “Impacto”). 
+
+PRONTO! Sua planilha traz, agora, todas as informações necessárias à construção dos anexos à sua minuta de Decreto!
+
+COMO EXTRAIR AS TABELAS QUE COMPÕEM OS ANEXOS DO DECRETO.
+
+- Anexo IIa: Quadro demonstrativo dos cargos em comissão e das funções de confiança.
+-  
+A tabela deve ser idêntica àquela inserida como “Estrutura Proposta”, na aba “ComparativoEstruturas_AnexoIIa”.
+
+- Anexo IIb: Quadro resumo de custos dos cargos em comissão e das funções de confiança.
+- 
+1) Copie a tabela da esquerda da aba intitulada “QuadroResumo_AnexoIIb”, sem as colunas que tratam da diferença (colunas G e H).
+
+
+.. figure:: ../_static/images/Planilha/AnexoIIb.*
+   :alt: Animação mostrando como Copiar o conteúdo do Anexo IIb
+   :align: center
+   :name: gif-Copiar_AnexoIIb
+   Copiando conteúdo do Anexo IIb.
+
+2) Após colar a tabela no documento word, apague as linhas em branco. 
+
+
+.. admonition:: Atenção!
+
+   .. line-block::
+
+      A exclusão de linhas deve ser feita no documento word ou em planilha alternativa (utilizando a função “Copiar” e depois a função “Colar Especial/Valores e Formatação Original”). **A exclusão de linhas na planilha original causará interferências e erros nas fórmulas da Planilha Anexo II**.
+
+
+- Anexo III: Remanejamento de Cargos Comissionados Executivos - CCE e de Funções Comissionadas Executivas – FCE
+- 
+a) Do [nome do órgão ou entidade] para a Secretaria de Gestão:
+
+Na aba “Remanejamentos”, copie a tabela da esquerda, a partir da linha 8 (onde consta o título da tabela) para a construção do item “a” do Anexo III, que trata dos remanejamentos do órgão ou entidade para a Seges.
+
 
 .. figure:: ../_static/images/Planilha/Anexo_III.*
-   :alt: Animação mostrando a seleção do Anexo_III
+   :alt: Animação mostrando como Copiar o conteúdo do Anexo III
    :align: center
-   :name: gif-preenchimento-1
+   :name: gif-Copiar_AnexoIII
+   Copiando Anexo III.
 
-   Demonstração: Como selecionar o Anexo II do Decreto.
 
-Como vimos na :numref:`gif-preenchimento-1`, o processo é bem direto.
+b) Da Secretaria de Gestão para o [nome do órgão ou entidade]:
+Na mesma aba, copie a tabela da direita para a construção do item “b” do Anexo III, que trata dos remanejamentos da Seges para o órgão ou entidade. 
+Após colar as tabelas no documento word, apague as linhas em branco.
+Lembre-se que os cargos apresentados nessa aba servirão para redigir o artigo na minuta que trata de remanejamentos (geralmente, o art. 2º).
 
-Existem muitos tipos de estruturas organizacionais, e a melhor estrutura para uma organização específica dependerá de uma série de fatores, como por exemplo o seu tamanho, a sua missão e a sua cultura. No entanto, existem alguns princípios gerais que podem ser aplicados a qualquer estrutura organizacional, como definição clara de papéis e responsabilidades, a alocação de recursos, bem como a maneira como os membros da equipe interagem e compartilham informações entre si. Em suma, a estrutura organizacional é o arcabouço que define a forma como uma entidade opera, quem está encarregado de quê e como a colaboração e a coordenação são facilitadas em todos os níveis da organização.
+- Anexo IV: Demonstrativo dos Cargos Comissionados Executivos – CCE e das Funções Comissionadas Executivas – FCE, transformados
+Essa tabela exige informações adicionais e será elaborada pelo órgão central.
 
-As características únicas e complexidades das organizações públicas exigem um quadro claro que delimite autoridade e responsabilidades. Assim, uma estrutura organizacional efetiva aprimora a responsabilidade, estabelecendo linhas claras de autoridade e responsabilidade, tornando mais fácil acompanhar o processo decisório e o desempenho.
+COMO UTILIZAR AS INFORMAÇÕES SOBRE O IMPACTO ORÇAMENTÁRIO
+Na célula K1, da aba intitulada “Impacto”, insira a quantidade de meses remanescente do ano corrente a partir da data estimada para entrada em vigor do novo decreto. 
+Por exemplo: se a proposta foi apresentada no mês de março, mas deverá vigorar a partir de maio, a proposta impactará oito meses do ano corrente (maio a dezembro). Dessa forma, a célula K1 deverá ser preenchida com o valor “8”.  
+A coluna J mostrará o impacto orçamentário no ano corrente e a coluna K mostrará o impacto orçamentário nos anos subsequentes. Essas informações devem constar na nota técnica e na minuta de exposição de motivos elaboradas pelo órgão ou entidade, ainda que seja necessário algum ajuste posterior pelo órgão central. 
 
-Uma estrutura organizacional bem projetada fornece um quadro para identificar e eliminar redundâncias, otimizar processos e utilizar recursos de forma otimizada. Ela facilita a alocação de pessoal, orçamentos e ativos com base em prioridades estratégicas e necessidades operacionais, permitindo que as organizações públicas operem dentro de limitações orçamentárias, maximizando a entrega de serviços.
 
-Além disso, uma estrutura organizacional bem desenhada promove a coordenação e colaboração entre diferentes órgãos no setor público. Ao quebrar barreiras e incentivar a colaboração, as organizações do setor público podem lidar de forma mais eficaz com desafios complexos e fornecer soluções integradas e holísticas para atender às necessidades dos cidadãos e partes interessadas.
+.. note::
 
-No poder executivo federal, as estruturas organizacionais são estabelecidas por meio de Decreto, levando-se por base a lei em vigor que estabelece a organização básica dos órgãos e dos ministérios. Os referidos Decretos de estruturas organizacional trazem o conjunto de competências de cada uma delas, bem como o conjunto de cargos em comissão, de funções de confiança e, em alguns casos, de gratificações que as compõem.
+   .. line-block::
 
-Os decretos de estrutura devem seguir um conjunto de regras que estão associadas às competências e aos cargos e funções. Este manual tem por objetivo auxiliar os servidores de órgãos e entidades do Poder Executivo Federal a desenharem decretos de estrutura de acordo com a normas e práticas que os regem. Além disso, o manual traz a sequência de etapas que compõem o processo de reestruturação, desde a sua concepção até a implementação de nova estrutura nos sistemas informatizados do governo federal.
-
-Nos últimos anos, o poder executivo federal, com o objetivo de simplificar a gestão de cargos em comissão e de funções de confiança, promoveu diversas inovações legislativas para o alcance deste objetivo, principalmente com a edição da lei nº 14.204, de 16 de setembro de 2021. A referida lei instituiu os cargos comissionados executivos (CCE) e as funções comissionadas executiva (FCE) que se tornaram o padrão atual para a montagem das estruturas organizacionais. Além disso, a mencionada lei prevê diversas exigências para que a ocupação de tais cargos e funções seja mais profissionalizada, dotando a administração pública de corpo funcional mais capaz de desempenhar suas atividades.
-
-O objetivo da revisão desta edição, portanto, é aperfeiçoar e orientar a elaboração de propostas de estruturas organizacionais pelos interessados, auxiliar a avaliação técnica e registrar os novos conhecimentos adquiridos ao longo dos anos, em consonância com a legislação vigente e as orientações do órgão central do SIORG.
-
-Caso seja o seu primeiro contato com o tema de estruturas organizacionais, recomenda-se a leitura completa do respectivo manual. Se você já possui familiaridade com o tema, mas necessita aprofundar em como elaborar uma proposta de decreto de estrutura, siga para o capítulo XYZ.
-
-Caso não tenha encontrado algo que estava procurando ou ainda persiste alguma dúvida sobre um ponto específico do respectivo manual, nos envie um e-mail para endereço eletrônico XXXXDEMOR.
-
-Boa leitura!
+      O cálculo do impacto orçamentário contempla as remunerações mensais acrescidas de férias, gratificação natalina e gastos previdenciários da União, em conformidade com as orientações da Secretaria de Orçamento Federal.
