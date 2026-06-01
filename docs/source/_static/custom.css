@@ -18,13 +18,22 @@ body {
 }
 
 /* =========================================
-   AUMENTAR A ÁREA DE LEITURA 
+   5. O "TRATOR" - FORÇAR LARGURA DO TEXTO
    ========================================= */
-/* Ataca exatamente as classes que o Furo usa para limitar a largura */
-div.content,
+
+/* 1. Remove as travas invisíveis das colunas principais */
+.page,
+.main,
 .main .content,
-.article-container {
-    max-width: 65rem !important;
+.page-content {
+    max-width: 100% !important;
+}
+
+/* 2. Estica a caixa final onde o texto realmente mora */
+.article-container,
+article[role="main"],
+.document {
+    max-width: 65rem !important; /* Altera o padrão de 46em para 65rem */
 }
 
 /* =========================================
