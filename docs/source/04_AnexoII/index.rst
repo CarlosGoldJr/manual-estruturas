@@ -10,7 +10,7 @@ Permite:
 - Geração dos anexos ao decreto que aprova nova estrutura ou altera a vigente; e
 - Cálculo do impacto orçamentário anual da estrutura proposta.
 
-.. note:: DICA
+.. admonition:: DICA
 
    .. line-block::
 
@@ -47,13 +47,14 @@ PASSO A PASSO
 
       Geralmente, a primeira linha de informações no Decreto traz cargo ou função ligado diretamente ao gabinete do dirigente máximo do órgão ou entidade. Assim, a coluna “Unidade” aparece em branco.
       Para evitar erros na colagem da planilha, selecione a tabela desde o cabeçalho e, após a colagem, exclua o cabeçalho repetido.
-      .. figure:: ../_static/images/Planilha/Cargos sem Unidade.*
+      
+
+.. figure:: ../_static/images/Planilha/Cargos sem Unidade.*
          :alt: Imagem identificando cargos sem unidade
          :align: center
          :name: png-Cargos sem Unidade
 
          Cargos sem Unidade.
-
 
 3) Abra a Planilha. **Você preencherá somente as informações que compõem a primeira aba (ComparativoEstruturas_AnexoIIa) e as demais informações serão preenchidas automaticamente.**  
 
@@ -66,8 +67,8 @@ A estrutura organizacional refere-se à configuração pela qual uma organizaç�
 
 Vou fazer um teste com um gif.
 
-.. figure:: ../_static/images/Planilha/AnexoII_Decreto.*
-   :alt: Animação mostrando a seleção do Anexo II no Decreto
+.. figure:: ../_static/images/Planilha/AnexoIII.*
+   :alt: Animação mostrando a seleção do Anexo III
    :align: center
    :name: gif-preenchimento-1
 
