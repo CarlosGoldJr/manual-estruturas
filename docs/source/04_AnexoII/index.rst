@@ -19,7 +19,7 @@ Permite:
       Utilize as informações constantes na aba “Legenda” para consultar os códigos dos cargos e funções considerados nos cálculos e seus valores remuneratórios e em CCE-Unitário. 
 
 
-PASSO A PASSO
+**PASSO A PASSO**
 
 1) Localize a última versão publicada do Decreto de Estrutura Organizacional do seu órgão ou entidade.
    
@@ -104,7 +104,7 @@ Para que uma reestruturação não implique impacto orçamentário, o valor 0 ou
 
 PRONTO! Sua planilha traz, agora, todas as informações necessárias à construção dos anexos à sua minuta de Decreto!
 
-COMO EXTRAIR AS TABELAS QUE COMPÕEM OS ANEXOS DO DECRETO
+**COMO EXTRAIR AS TABELAS QUE COMPÕEM OS ANEXOS DO DECRETO**
 
 - Anexo IIa: Quadro demonstrativo dos cargos em comissão e das funções de confiança.
   
@@ -133,7 +133,7 @@ A tabela deve ser idêntica àquela inserida como “Estrutura Proposta”, na a
 
 
 - Anexo III: Remanejamento de Cargos Comissionados Executivos - CCE e de Funções Comissionadas Executivas – FCE
-- 
+
 a) Do [nome do órgão ou entidade] para a Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos:
 
 Na aba “Remanejamentos”, copie a tabela da esquerda, a partir da linha 8 (onde consta o título da tabela) para a construção do item “a” do Anexo III, que trata dos remanejamentos do órgão ou entidade para a Seges.
@@ -156,7 +156,7 @@ Lembre-se que os cargos apresentados nessa aba servirão para redigir o artigo n
 - Anexo IV: Demonstrativo dos Cargos Comissionados Executivos – CCE e das Funções Comissionadas Executivas – FCE, transformados
 Essa tabela exige informações adicionais e será elaborada pelo órgão central.
 
-COMO UTILIZAR AS INFORMAÇÕES SOBRE O IMPACTO ORÇAMENTÁRIO
+**COMO UTILIZAR AS INFORMAÇÕES SOBRE O IMPACTO ORÇAMENTÁRIO**
 
 Na célula K1, da aba intitulada “Impacto”, insira a quantidade de meses remanescente do ano corrente a partir da data estimada para entrada em vigor do novo decreto. 
 Por exemplo: se a proposta foi apresentada no mês de março, mas deverá vigorar a partir de maio, a proposta impactará oito meses do ano corrente (maio a dezembro). Dessa forma, a célula K1 deverá ser preenchida com o valor “8”.  

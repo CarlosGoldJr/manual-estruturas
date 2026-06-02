@@ -30,13 +30,11 @@ figure figcaption .caption-number,
 }
 
 /* =========================================
-   4. EXPANDIR A CAIXA DE TEXTO (FURO OVERRIDE)
+   4. EXPANDIR A CAIXA DE TEXTO (NA RAIZ DO TEMA)
    ========================================= */
-/* Múltiplos alvos para sobrepor qualquer barreira do tema */
-html .content,
-body .content,
-div.content,
-.main .content,
-.article-container {
-    max-width: 65rem !important; 
+:root,
+body[data-theme="light"],
+body[data-theme="dark"] {
+    /* Força a variável mestre do Furo a mudar de 40rem para 70rem */
+    --content-width: 70rem !important; 
 }
