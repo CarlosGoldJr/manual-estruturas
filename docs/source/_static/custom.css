@@ -35,7 +35,7 @@ figure figcaption .caption-number,
 .main .content,
 div.content {
     /* Define um limite elegante para o texto não ficar nem muito espremido, nem muito largo */
-    max-width: 55rem !important; 
+    max-width: 75rem !important; 
     
     /* (Importante: removemos o antigo 'width: 100%' para devolver a margem direita da página inicial) */
 }
