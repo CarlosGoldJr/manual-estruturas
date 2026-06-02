@@ -1,54 +1,42 @@
-/* Para o tema Furo - seletores mais específicos */
+/* =========================================
+   1. JUSTIFICAR TEXTO
+   ========================================= */
 .rst-content p,
 article p,
-.content p {
-    text-align: justify !important;
-    text-justify: inter-word;
-}
-
-/* Alternativa ainda mais específica */
+.content p,
 main.main article.main-article div.content p {
     text-align: justify !important;
     text-justify: inter-word;
 }
 
-body {
-    /* Diminui a fonte de todo o site */
-    font-size: 14px;
-}
-
 /* =========================================
-   5. O "TRATOR" - FORÇAR LARGURA DO TEXTO
+   2. TAMANHO DA FONTE GLOBAL
    ========================================= */
-
-/* 1. Remove as travas invisíveis das colunas principais */
-.page,
-.main,
-.main .content,
-.page-content {
-    max-width: 100% !important;
-}
-
-/* 2. Estica a caixa final onde o texto realmente mora */
-.article-container,
-article[role="main"],
-.document {
-    max-width: 65rem !important; /* Altera o padrão de 46em para 65rem */
+body {
+    font-size: 14px !important;
 }
 
 /* =========================================
-   FORMATAÇÃO DE LEGENDAS DE FIGURAS E TABELAS
+   3. LEGENDAS DE IMAGENS E TABELAS
    ========================================= */
 figure figcaption,
 .figure .caption,
-table caption {
-    font-size: 12px !important; /* Como seu texto padrão é 14px, 12px fica ideal */
-    color: var(--color-foreground-muted) !important; /* Opcional: deixa a cor um cinza um pouquinho mais suave */
-    line-height: 1.4;
-}
-
-/* Reduz também o tamanho do número da figura (ex: "Figura 4") caso o tema separe do texto */
+table caption,
 figure figcaption .caption-number,
 .figure .caption .caption-number {
     font-size: 12px !important;
+    color: var(--color-foreground-muted) !important;
+    line-height: 1.4;
+}
+
+/* =========================================
+   4. EXPANDIR A CAIXA DE TEXTO (FURO OVERRIDE)
+   ========================================= */
+/* Múltiplos alvos para sobrepor qualquer barreira do tema */
+html .content,
+body .content,
+div.content,
+.main .content,
+.article-container {
+    max-width: 65rem !important; 
 }

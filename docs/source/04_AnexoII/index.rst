@@ -60,7 +60,7 @@ PASSO A PASSO
 
 3) Abra a Planilha. **Você preencherá somente as informações que compõem a primeira aba (ComparativoEstruturas_AnexoIIa) e as demais informações serão preenchidas automaticamente.**  
 
-4) Cole a tabela do Decreto diretamente **na tabela da esquerda**, referente ao “Decreto Atual”.
+4) Cole a tabela do Decreto diretamente **na tabela da esquerda**, referente ao “Decreto Vigente”.
    
 
 .. figure:: ../_static/images/Planilha/Colar_AnexoII.*
@@ -104,14 +104,14 @@ Para que uma reestruturação não implique impacto orçamentário, o valor 0 ou
 
 PRONTO! Sua planilha traz, agora, todas as informações necessárias à construção dos anexos à sua minuta de Decreto!
 
-COMO EXTRAIR AS TABELAS QUE COMPÕEM OS ANEXOS DO DECRETO.
+COMO EXTRAIR AS TABELAS QUE COMPÕEM OS ANEXOS DO DECRETO
 
 - Anexo IIa: Quadro demonstrativo dos cargos em comissão e das funções de confiança.
--  
+  
 A tabela deve ser idêntica àquela inserida como “Estrutura Proposta”, na aba “ComparativoEstruturas_AnexoIIa”.
 
 - Anexo IIb: Quadro resumo de custos dos cargos em comissão e das funções de confiança.
-- 
+
 1) Copie a tabela da esquerda da aba intitulada “QuadroResumo_AnexoIIb”, sem as colunas que tratam da diferença (colunas G e H).
 
 
@@ -134,7 +134,7 @@ A tabela deve ser idêntica àquela inserida como “Estrutura Proposta”, na a
 
 - Anexo III: Remanejamento de Cargos Comissionados Executivos - CCE e de Funções Comissionadas Executivas – FCE
 - 
-a) Do [nome do órgão ou entidade] para a Secretaria de Gestão:
+a) Do [nome do órgão ou entidade] para a Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos:
 
 Na aba “Remanejamentos”, copie a tabela da esquerda, a partir da linha 8 (onde consta o título da tabela) para a construção do item “a” do Anexo III, que trata dos remanejamentos do órgão ou entidade para a Seges.
 
@@ -147,7 +147,8 @@ Na aba “Remanejamentos”, copie a tabela da esquerda, a partir da linha 8 (on
    Copiando Anexo III.
 
 
-b) Da Secretaria de Gestão para o [nome do órgão ou entidade]:
+b) Da Secretaria de Gestão e Inovação para o [nome do órgão ou entidade]:
+
 Na mesma aba, copie a tabela da direita para a construção do item “b” do Anexo III, que trata dos remanejamentos da Seges para o órgão ou entidade. 
 Após colar as tabelas no documento word, apague as linhas em branco.
 Lembre-se que os cargos apresentados nessa aba servirão para redigir o artigo na minuta que trata de remanejamentos (geralmente, o art. 2º).
@@ -156,6 +157,7 @@ Lembre-se que os cargos apresentados nessa aba servirão para redigir o artigo n
 Essa tabela exige informações adicionais e será elaborada pelo órgão central.
 
 COMO UTILIZAR AS INFORMAÇÕES SOBRE O IMPACTO ORÇAMENTÁRIO
+
 Na célula K1, da aba intitulada “Impacto”, insira a quantidade de meses remanescente do ano corrente a partir da data estimada para entrada em vigor do novo decreto. 
 Por exemplo: se a proposta foi apresentada no mês de março, mas deverá vigorar a partir de maio, a proposta impactará oito meses do ano corrente (maio a dezembro). Dessa forma, a célula K1 deverá ser preenchida com o valor “8”.  
 A coluna J mostrará o impacto orçamentário no ano corrente e a coluna K mostrará o impacto orçamentário nos anos subsequentes. Essas informações devem constar na nota técnica e na minuta de exposição de motivos elaboradas pelo órgão ou entidade, ainda que seja necessário algum ajuste posterior pelo órgão central. 
