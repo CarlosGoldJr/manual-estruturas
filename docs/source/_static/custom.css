@@ -30,12 +30,14 @@ figure figcaption .caption-number,
 }
 
 /* =========================================
-   4. EXPANDIR A CAIXA DE TEXTO (AJUSTE FINO)
+   4. EXPANDIR A CAIXA DE TEXTO (AJUSTE FINO CORRIGIDO)
    ========================================= */
 .main .content,
 div.content {
-    /* Define um limite elegante para o texto não ficar nem muito espremido, nem muito largo */
-    max-width: 75rem !important; 
+    /* 1. O MOTOR: Força a caixa a crescer quebrando a trava do Furo */
+    width: 100% !important;
     
-    /* (Importante: removemos o antigo 'width: 100%' para devolver a margem direita da página inicial) */
+    /* 2. O FREIO: Define o limite elegante para o texto parar de crescer 
+       (55rem é um tamanho excelente, mas pode usar 60rem se preferir) */
+    max-width: 55rem !important; 
 }
