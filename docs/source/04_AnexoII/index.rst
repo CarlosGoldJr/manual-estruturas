@@ -20,6 +20,7 @@ Permite:
 
 
 **PASSO A PASSO**
++++++++++++++++++
 
 1) Localize a última versão publicada do Decreto de Estrutura Organizacional do seu órgão ou entidade.
    
@@ -41,6 +42,7 @@ Permite:
    :name: gif-AnexoII_Decreto
    
    Copiando as informações do Decreto.
+
 
 
 .. important::
@@ -103,6 +105,7 @@ Permite:
 Para que uma reestruturação não implique impacto orçamentário, o valor 0 ou negativo deve ser observado: (i) na diferença, em CCE-unitário, entre a situação atual e a proposta; e (ii) no impacto anualizado total (disponível na aba “Impacto”). 
 
 PRONTO! Sua planilha traz, agora, todas as informações necessárias à construção dos anexos à sua minuta de Decreto!
+
 
 **COMO EXTRAIR AS TABELAS QUE COMPÕEM OS ANEXOS DO DECRETO**
 
