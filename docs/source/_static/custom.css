@@ -30,13 +30,12 @@ figure figcaption .caption-number,
 }
 
 /* =========================================
-   4. EXPANDIR A CAIXA DE TEXTO (FORÇA BRUTA EM PIXELS)
+   4. EXPANDIR A CAIXA DE TEXTO (AJUSTE FINO)
    ========================================= */
 .main .content,
 div.content {
-    /* Ignora os limites do Furo e estica a caixa para até 1000 pixels */
-    max-width: 1000px !important; 
+    /* Define um limite elegante para o texto não ficar nem muito espremido, nem muito largo */
+    max-width: 55rem !important; 
     
-    /* Garante que a caixa ocupe todo o espaço disponível se a tela for menor que 1000px */
-    width: 100% !important;
+    /* (Importante: removemos o antigo 'width: 100%' para devolver a margem direita da página inicial) */
 }
