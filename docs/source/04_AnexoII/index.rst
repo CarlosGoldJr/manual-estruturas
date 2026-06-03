@@ -4,7 +4,6 @@ Planilha Comparativa de Estruturas
 O que é e por que usar
 ----------------------
 
-|
 
 Planilha idealizada e desenvolvida pela equipe técnica da Diretoria de Modelos Organizacionais da Seges/MGI. Faça o download da planilha |link_planilha|_.
 
