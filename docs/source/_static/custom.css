@@ -50,8 +50,8 @@ div.content {
     .sidebar-drawer,
     .sidebar-container {
         /* Aumenta a 'gaveta' e a 'caixa' do menu simultaneamente */
-        width: 22rem !important; 
-        max-width: 22rem !important; 
-        flex-basis: 22rem !important; 
+        width: 19rem !important; 
+        max-width: 19rem !important; 
+        flex-basis: 19rem !important; 
     }
 }
