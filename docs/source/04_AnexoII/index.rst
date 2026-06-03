@@ -182,6 +182,7 @@ Essa tabela exige informações adicionais e será elaborada pelo órgão centra
 Como utilizar as informações sobre o impacto orçamentário
 ---------------------------------------------------------
 
+
 Na célula K1, da aba intitulada “Impacto”, insira a quantidade de meses remanescente do ano corrente a partir da data estimada para entrada em vigor do novo decreto. 
 Por exemplo: se a proposta foi apresentada no mês de março, mas deverá vigorar a partir de maio, a proposta impactará oito meses do ano corrente (maio a dezembro). Dessa forma, a célula K1 deverá ser preenchida com o valor “8”.  
 A coluna J mostrará o impacto orçamentário no ano corrente e a coluna K mostrará o impacto orçamentário nos anos subsequentes. Essas informações devem constar na nota técnica e na minuta de exposição de motivos elaboradas pelo órgão ou entidade, ainda que seja necessário algum ajuste posterior pelo órgão central. 

@@ -1,12 +1,15 @@
 /* =========================================
-   1. JUSTIFICAR TEXTO
+   1. JUSTIFICAR TEXTO (TOTAL)
    ========================================= */
+/* Ataca os parágrafos em qualquer nível, inclusive dentro de subseções */
 .rst-content p,
 article p,
 .content p,
-main.main article.main-article div.content p {
+section p,
+div.section p,
+.document p {
     text-align: justify !important;
-    text-justify: inter-word;
+    text-justify: inter-word !important;
 }
 
 /* =========================================
@@ -50,8 +53,8 @@ div.content {
     .sidebar-drawer,
     .sidebar-container {
         /* Aumenta a 'gaveta' e a 'caixa' do menu simultaneamente */
-        width: 19rem !important; 
-        max-width: 19rem !important; 
-        flex-basis: 19rem !important; 
+        width: 17rem !important; 
+        max-width: 17rem !important; 
+        flex-basis: 17rem !important; 
     }
 }
