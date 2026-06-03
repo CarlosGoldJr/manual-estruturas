@@ -1,5 +1,5 @@
 /* =========================================
-   1. JUSTIFICAR TEXTO (TOTAL E SUBSEÇÕES)
+   1. JUSTIFICAR TEXTO E ESPAÇAMENTO (TOTAL)
    ========================================= */
 .main .content p,
 .main .content section p,
@@ -7,6 +7,9 @@
 .main .content div[id] > p {
     text-align: justify !important;
     text-justify: inter-word !important;
+    
+    /* Aumenta o espaço em branco DEPOIS de cada parágrafo */
+    margin-bottom: 1.5rem !important; 
 }
 
 /* =========================================
