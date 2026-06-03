@@ -43,13 +43,15 @@ div.content {
 }
 
 /* =========================================
-   5. AUMENTAR A LARGURA DO MENU LATERAL
+   5. AUMENTAR A LARGURA DO MENU LATERAL (CORRIGIDO)
    ========================================= */
-.sidebar-drawer {
-    /* Força o menu a usar 20 unidades de largura */
-    width: 25rem !important; 
-    max-width: 25rem !important; 
-    
-    /* Avisa o esqueleto do site para empurrar o texto e dar espaço ao menu */
-    flex-basis: 25rem !important; 
+/* A trava '@media' garante que isso só vai rodar em monitores, salvando o layout de celular! */
+@media (min-width: 67em) {
+    .sidebar-drawer,
+    .sidebar-container {
+        /* Aumenta a 'gaveta' e a 'caixa' do menu simultaneamente */
+        width: 22rem !important; 
+        max-width: 22rem !important; 
+        flex-basis: 22rem !important; 
+    }
 }

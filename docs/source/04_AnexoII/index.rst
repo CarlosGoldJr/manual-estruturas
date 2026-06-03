@@ -37,6 +37,7 @@ Passo a passo
       c) Em consulta ao sítio de estruturas mantido pelo MGI: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/consulta/estruturas-e-estatutos 
     
 
+
 2) Com o Decreto localizado, procure e copie o Quadro demonstrativo dos cargos em comissão e das funções de confiança (Anexo IIa do Decreto que aprovou a estrutura vigente).  
 
 .. figure:: ../_static/images/Planilha/AnexoII_Decreto.*
@@ -63,7 +64,9 @@ Passo a passo
    
    Cargos sem Unidade.
 
+
 3) Abra a Planilha. **Você preencherá somente as informações que compõem a primeira aba (ComparativoEstruturas_AnexoIIa) e as demais informações serão preenchidas automaticamente.**  
+
 
 4) Cole a tabela do Decreto diretamente **na tabela da esquerda**, referente ao “Decreto Vigente”.
    
@@ -75,6 +78,7 @@ Passo a passo
    
    Colando a tabela do Decreto e excluindo o cabeçalho repetido.
 
+
 5) Se necessário, exclua linhas da tabela que tragam informações revogadas (linhas riscadas no Decreto).
 
 .. figure:: ../_static/images/Planilha/cargos_revogados.*
@@ -83,6 +87,7 @@ Passo a passo
    :name: png-Cargos Revogados
    
    Exemplo de cargos/funções revogados em meio ao decreto vigente.
+
 
 
 6) **Na tabela da direita**, intitulada “Estrutura Proposta”, insira as informações da estrutura que está sendo proposta, mantendo o formato utilizado na tabela da esquerda – para facilitar, você pode replicar, aqui, a tabela da esquerda e alterar somente as informações das unidades que serão revistas. Lembre-se de incluir também, **na proposta**, eventuais alterações realizadas por meio de Portaria do dirigente máximo do seu órgão ou entidade!
@@ -94,6 +99,7 @@ Passo a passo
    .. line-block::
 
       As informações inseridas na coluna “CCE/FCE” devem ser idênticas aos dados que se encontram na aba “Legenda”. **Espaços adicionais ou caracteres especiais farão com que o cargo ou função informados na célula não sejam contabilizados**. Isso também vale para a quantidade de cargos ou funções (CARGO/FUNÇÃO Nº)! 
+
 
 
 7) Avalie se o custo de sua proposta está conforme planejado e acordado com as instâncias superiores e com o MGI, consultando a aba “QuadroResumo_AnexoIIb”. 
@@ -125,6 +131,7 @@ A tabela deve ser idêntica àquela inserida como “Estrutura Proposta”, na a
 
 - Anexo IIb: Quadro resumo de custos dos cargos em comissão e das funções de confiança.
 
+
 1) Copie a tabela da esquerda da aba intitulada “QuadroResumo_AnexoIIb”, sem as colunas que tratam da diferença (colunas G e H).
 
 
@@ -134,6 +141,7 @@ A tabela deve ser idêntica àquela inserida como “Estrutura Proposta”, na a
    :name: gif-Copiar_AnexoIIb
    
    Copiando conteúdo do Anexo IIb.
+
 
 2) Após colar a tabela no documento word, apague as linhas em branco. 
 
@@ -160,6 +168,7 @@ Na aba “Remanejamentos”, copie a tabela da esquerda, a partir da linha 8 (on
    Copiando Anexo III.
 
 
+
 b) Da Secretaria de Gestão e Inovação para o [nome do órgão ou entidade]:
 
 Na mesma aba, copie a tabela da direita para a construção do item “b” do Anexo III, que trata dos remanejamentos da Seges para o órgão ou entidade. 
@@ -169,7 +178,9 @@ Lembre-se que os cargos apresentados nessa aba servirão para redigir o artigo n
 - Anexo IV: Demonstrativo dos Cargos Comissionados Executivos – CCE e das Funções Comissionadas Executivas – FCE, transformados
 Essa tabela exige informações adicionais e será elaborada pelo órgão central.
 
-**COMO UTILIZAR AS INFORMAÇÕES SOBRE O IMPACTO ORÇAMENTÁRIO**
+
+Como utilizar as informações sobre o impacto orçamentário
+---------------------------------------------------------
 
 Na célula K1, da aba intitulada “Impacto”, insira a quantidade de meses remanescente do ano corrente a partir da data estimada para entrada em vigor do novo decreto. 
 Por exemplo: se a proposta foi apresentada no mês de março, mas deverá vigorar a partir de maio, a proposta impactará oito meses do ano corrente (maio a dezembro). Dessa forma, a célula K1 deverá ser preenchida com o valor “8”.  
