@@ -13,7 +13,7 @@ main.main article.main-article div.content p {
    2. TAMANHO DA FONTE GLOBAL
    ========================================= */
 body {
-    font-size: 14px !important;
+    font-size: 15px !important;
 }
 
 /* =========================================
@@ -40,4 +40,16 @@ div.content {
     /* 2. O FREIO: Define o limite elegante para o texto parar de crescer 
        (55rem é um tamanho excelente, mas pode usar 60rem se preferir) */
     max-width: 55rem !important; 
+}
+
+/* =========================================
+   5. AUMENTAR A LARGURA DO MENU LATERAL
+   ========================================= */
+.sidebar-drawer {
+    /* Força o menu a usar 20 unidades de largura */
+    width: 20rem !important; 
+    max-width: 20rem !important; 
+    
+    /* Avisa o esqueleto do site para empurrar o texto e dar espaço ao menu */
+    flex-basis: 20rem !important; 
 }

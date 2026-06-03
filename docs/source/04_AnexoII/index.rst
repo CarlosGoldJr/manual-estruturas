@@ -2,7 +2,7 @@ Planilha Comparativa de Estruturas
 ==================================
 
 O que é e por que usar
-----------------------
+++++++++++++++++++++++
 
 
 Planilha idealizada e desenvolvida pela equipe técnica da Diretoria de Modelos Organizacionais da Seges/MGI.
@@ -105,6 +105,12 @@ Passo a passo
    
    Custo da Proposta.
 
+.. important::
+
+   .. line-block::
+
+      Para que uma reestruturação não implique impacto orçamentário, é necessário que o valor 0,00 ou negativo seja também observado no cálculo do impacto anualizado total (disponível na aba “Impacto”).E
+      
 Para que uma reestruturação não implique impacto orçamentário, é necessário que o valor 0,00 ou negativo seja também observado no cálculo do impacto anualizado total (disponível na aba “Impacto”). 
 
 PRONTO! Sua planilha traz, agora, todas as informações necessárias à construção dos anexos à sua minuta de Decreto!

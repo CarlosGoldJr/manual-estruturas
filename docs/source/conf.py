@@ -63,8 +63,6 @@ StandaloneHTMLBuilder.supported_image_types = [
 
 html_theme_options = {
     "light_css_variables": {
-        # --- LARGURA DO MENU ESQUERDO ---
-        "sidebar-width": "20rem", # Aumenta a largura do menu lateral para caber mais texto
 
         # --- CORES PRINCIPAIS DO SITE ---
         "color-brand-primary": "#006778",  # Títulos e links principais
@@ -97,8 +95,6 @@ html_theme_options = {
         "color-admonition-title-background--danger": "#fee2e2",
     },
     "dark_css_variables": {
-        # --- LARGURA DO MENU ESQUERDO ---
-        "sidebar-width": "20rem", # Aumenta a largura do menu também no modo escuro
 
         # --- CORES PRINCIPAIS DO SITE (MODO ESCURO) ---
         "color-brand-primary": "#66d9ef",  
