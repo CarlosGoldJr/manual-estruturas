@@ -2,7 +2,7 @@ Planilha Comparativa de Estruturas
 ==================================
 
 O que é e por que usar
-++++++++++++++++++++++
+----------------------
 
 
 Planilha idealizada e desenvolvida pela equipe técnica da Diretoria de Modelos Organizacionais da Seges/MGI.
@@ -116,7 +116,8 @@ Para que uma reestruturação não implique impacto orçamentário, é necessár
 PRONTO! Sua planilha traz, agora, todas as informações necessárias à construção dos anexos à sua minuta de Decreto!
 
 
-**COMO EXTRAIR AS TABELAS QUE COMPÕEM OS ANEXOS DO DECRETO**
+Como extrair as tabelas que compõem os anexos do Decreto
+--------------------------------------------------------
 
 - Anexo IIa: Quadro demonstrativo dos cargos em comissão e das funções de confiança.
   

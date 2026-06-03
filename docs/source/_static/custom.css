@@ -47,9 +47,9 @@ div.content {
    ========================================= */
 .sidebar-drawer {
     /* Força o menu a usar 20 unidades de largura */
-    width: 20rem !important; 
-    max-width: 20rem !important; 
+    width: 25rem !important; 
+    max-width: 25rem !important; 
     
     /* Avisa o esqueleto do site para empurrar o texto e dar espaço ao menu */
-    flex-basis: 20rem !important; 
+    flex-basis: 25rem !important; 
 }
