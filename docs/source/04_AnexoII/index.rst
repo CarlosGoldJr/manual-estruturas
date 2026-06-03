@@ -1,7 +1,9 @@
 Planilha Comparativa de Estruturas
 ==================================
 
-**O QUE É E POR QUE USAR**
+O que é e por que usar
+----------------------
+
 
 Planilha idealizada e desenvolvida pela equipe técnica da Diretoria de Modelos Organizacionais da Seges/MGI.
 
@@ -19,8 +21,9 @@ Permite:
       Utilize as informações constantes na aba “Legenda” para consultar os códigos dos cargos e funções considerados nos cálculos e seus valores remuneratórios e em CCE-Unitário. 
 
 
-**PASSO A PASSO**
-+++++++++++++++++
+Passo a passo
+-------------
+
 
 1) Localize a última versão publicada do Decreto de Estrutura Organizacional do seu órgão ou entidade.
    
@@ -102,7 +105,7 @@ Permite:
    
    Custo da Proposta.
 
-Para que uma reestruturação não implique impacto orçamentário, o valor 0 ou negativo deve ser observado: (i) na diferença, em CCE-unitário, entre a situação atual e a proposta; e (ii) no impacto anualizado total (disponível na aba “Impacto”). 
+Para que uma reestruturação não implique impacto orçamentário, é necessário que o valor 0,00 ou negativo seja também observado no cálculo do impacto anualizado total (disponível na aba “Impacto”). 
 
 PRONTO! Sua planilha traz, agora, todas as informações necessárias à construção dos anexos à sua minuta de Decreto!
 
