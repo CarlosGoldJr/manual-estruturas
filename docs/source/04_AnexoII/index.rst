@@ -7,6 +7,11 @@ O que é e por que usar
 
 Planilha idealizada e desenvolvida pela equipe técnica da Diretoria de Modelos Organizacionais da Seges/MGI. Faça o download da planilha `clicando aqui <https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/anexoii_manual_v2604.xlsx>`_.
 
+Planilha idealizada e desenvolvida pela equipe técnica da Diretoria de Modelos Organizacionais da Seges/MGI. Faça o download da planilha |link_planilha|_.
+
+.. |link_planilha| replace:: **clicando aqui**
+.. _link_planilha: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/anexoii_manual_v2604.xlsx
+
 Permite:
 
 - Cálculo e comparação de custos, em CCE-Unitários, entre a estrutura organizacional vigente e aquela que se pretende implementar, para órgãos e entidades federais;
