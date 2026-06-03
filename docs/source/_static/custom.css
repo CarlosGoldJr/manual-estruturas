@@ -58,3 +58,16 @@ div.content {
         flex-basis: 17rem !important; 
     }
 }
+
+/* =========================================
+   6. JUSTIFICAR TÍTULOS E SUBTÍTULOS
+   ========================================= */
+/* Aplica o justificado para todos os tamanhos de título gerados pelo Sphinx */
+.main .content h1,
+.main .content h2,
+.main .content h3,
+.main .content h4,
+.main .content h5,
+.main .content h6 {
+    text-align: justify !important;
+}
