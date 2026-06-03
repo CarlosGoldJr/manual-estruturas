@@ -42,7 +42,7 @@ div.content {
     
     /* 2. O FREIO: Define o limite elegante para o texto parar de crescer 
        (55rem é um tamanho excelente, mas pode usar 60rem se preferir) */
-    max-width: 50rem !important; 
+    max-width: 51rem !important; 
 }
 
 /* =========================================
