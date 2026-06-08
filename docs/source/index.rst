@@ -29,6 +29,7 @@ No menu lateral você encontrará o Manual de Estruturas Organizacionais atualiz
    :titlesonly:
 
    04_AnexoII/index  
+   03_Teste/index
    
 
 .. only:: latex
