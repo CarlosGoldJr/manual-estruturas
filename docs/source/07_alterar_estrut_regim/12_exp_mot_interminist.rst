@@ -47,7 +47,7 @@ Não há um modelo pré‑definido obrigatório, mas o documento deve observar a
       **Fecho**: Deve-se utilizar o termo "Respeitosamente", imediatamente antes da assinatura dos ministros, como forma de encerrar o expediente com tom formal e devido respeito institucional, dado tratar-se de ato direcionado ao Presidente da República.
 
 .. _corpo-minuta-emi:
-.. figure:: ../_static/images/fig-corpo-minuta.PNG
+.. figure:: ../_static/images/fig-corpo-minuta.png
    :alt: Corpo de uma minuta de EMI
    :align: center
 
