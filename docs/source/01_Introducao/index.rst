@@ -1,10 +1,106 @@
 Introdução
 ==========
-O poder executivo federal é responsável por implementar direta ou indiretamente as políticas públicas. Para isso, ele é dividido em ministérios e entidades, cada qual com sua própria estrutura organizacional.
-A estrutura organizacional é a configuração pela qual uma organização é estabelecida e gerenciada, visando a execução eficiente de suas operações para a consecução eficaz de seus objetivos.
-
-Existem diferentes tipos de estruturas organizacionais, e a melhor estrutura para uma organização específica dependerá de uma série de fatores, como seu tamanho, sua missão e sua cultura. No entanto, existem alguns princípios gerais que podem ser aplicados a qualquer estrutura organizacional, como definição clara de papéis e responsabilidades, a alocação de recursos humanos e materiais, bem como a maneira como os membros da equipe interagem e compartilham informações entre si. Em suma, a estrutura organizacional é o arcabouço que define a forma como uma entidade opera, quem está encarregado de quê e como a colaboração e a coordenação são facilitadas em todos os níveis da organização.
-As características únicas e complexidades das organizações públicas exigem um quadro claro que delimite autoridade e responsabilidades. Assim, uma estrutura organizacional efetiva aprimora esses aspectos, tornando mais fácil acompanhar o processo decisório e os resultados.
-Uma estrutura organizacional bem projetada fornece um quadro para identificar e eliminar redundâncias, otimizar processos e utilizar recursos de forma otimizada. Ela facilita a alocação de pessoal, orçamentos e ativos com base em prioridades estratégicas e necessidades operacionais, permitindo que as organizações públicas operem dentro de limitações orçamentárias, maximizando a entrega de serviços. 
-Além disso, uma organização bem concebida promove a coordenação e colaboração entre diferentes órgãos no setor público. Ao quebrar barreiras e incentivar a colaboração, as organizações do setor público podem lidar de forma mais eficaz com desafios complexos e fornecer soluções integradas e holísticas para atender às necessidades dos cidadãos e partes interessadas.
-Para além dos aspectos de desenho da organização, mencionados acima, há um conjunto de normas que precisa ser observado quando se estrutura uma entidade da administração pública federal. Este manual propõe-se a ser um guia para auxiliar os servidores encarregados de promovorem reestruturações em seus respectivos órgãos a navegarem pelas diversas regras que permeiam esse tema.
+ 
+O Poder Executivo federal e a Estrutura Organizacional
+------------------------------------------------------
+ 
+O Poder Executivo federal é responsável por executar as leis e implementar as
+políticas públicas do país. Para isso, conta com estruturas próprias — ministérios,
+órgãos da Presidência e entidades vinculadas — e com parcerias junto à sociedade
+civil.
+ 
+Toda organização precisa de uma estrutura que defina como ela funciona, quem
+responde por cada entrega e como as decisões fluem. No setor público, isso é ainda
+mais relevante. Independentemente do tamanho, da missão ou da cultura de cada
+órgão, alguns princípios se aplicam a qualquer desenho institucional:
+ 
+* Definição clara de papéis e responsabilidades;
+ 
+* Alocação estratégica de recursos;
+ 
+* Alinhamento dos fluxos de comunicação e colaboração entre equipes.
+ 
+.. note::
+ 
+   A estrutura organizacional é o arcabouço que determina como uma entidade opera,
+   quem responde por cada entrega e de que forma a coordenação acontece em todos
+   os níveis.
+ 
+Por que a Estrutura Organizacional Importa?
+-------------------------------------------
+ 
+Organizações públicas têm complexidades e responsabilidades únicas. Uma estrutura
+bem projetada precisa delimitar com clareza a autoridade de cada ator — e isso
+gera impacto direto em três frentes:
+ 
+* **Responsabilização:** Linhas claras de comando facilitam o monitoramento das
+  decisões e a avaliação do desempenho institucional.
+ 
+* **Otimização de recursos:** Uma boa estrutura ajuda a identificar redundâncias e
+  a distribuir pessoal, orçamento e ativos com foco em prioridades estratégicas —
+  maximizando a entrega de serviços mesmo sob restrições orçamentárias.
+ 
+* **Colaboração integrada:** Ao quebrar barreiras burocráticas, permite que
+  diferentes órgãos atuem de forma coordenada e deem respostas mais abrangentes
+  aos desafios da sociedade.
+ 
+Base Legal: Decretos, CCE e FCE
+--------------------------------
+ 
+No Poder Executivo federal, as estruturas organizacionais são formalizadas por
+decreto. Esses atos normativos têm como fundamento a legislação de organização
+básica dos ministérios e da Presidência da República, além das leis específicas de
+cada entidade. Eles detalham as competências do órgão e o respectivo quadro de
+cargos em comissão e funções comissionadas.
+ 
+A partir de 2021, o governo federal modernizou esse processo com inovações
+legislativas importantes. O principal marco é a
+`Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_, que criou:
+ 
+* **CCE** — Cargos Comissionados Executivos;
+ 
+* **FCE** — Funções Comissionadas Executivas.
+ 
+Esses mecanismos tornaram-se o padrão atual para a montagem de estruturas
+organizacionais. Além de simplificar o processo, a lei estabeleceu requisitos de
+qualificação para o preenchimento dessas vagas, contribuindo para a
+profissionalização do quadro da administração pública.
+ 
+Sobre este Manual
+-----------------
+ 
+As estruturas organizacionais são formalizadas em decretos que seguem regras
+técnicas específicas sobre competências e cargos. Este manual ajuda os servidores
+do Poder Executivo federal a elaborar esses atos normativos de acordo com as
+melhores práticas e a legislação vigente.
+ 
+Esta edição consolida o conhecimento acumulado ao longo dos anos e está alinhada
+às orientações do órgão central do Sistema de Organização e Inovação Institucional
+(SIORG). Neste manual, encontra-se todo o passo a passo de um processo de
+reestruturação — da concepção técnica à implementação nos sistemas informatizados
+do governo federal.
+ 
+Como navegar por este documento:
+ 
+* **Primeiro contato com o tema?** Recomenda-se a leitura completa — os conceitos
+  e as regras gerais são apresentados de forma progressiva.
+ 
+* **Já domina o assunto e quer ir direto ao ponto?** Avance para :ref:`como_alterar`
+  e aprenda a elaborar e formalizar uma proposta de decreto de estrutura.
+ 
+* **Quer buscar um termo ou assunto?** Utilize a ferramenta de busca no canto
+  superior esquerdo.
+ 
+.. admonition:: Não encontrou o que procurava? Tem dúvidas?
+ 
+   Caso não encontre o que procura ou persista alguma dúvida, entre em contato
+   pelo e-mail **manualdeestruturas@mgi.gov.br**.
+ 
+Boa leitura!
+ 
+ 
+.. ---------------------------------------------------------------------------
+.. Referências externas — legislação
+.. ---------------------------------------------------------------------------
+ 
+.. _lei-14204: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14204.htm
