@@ -4,17 +4,38 @@ Estruturas Organizacionais
 .. figure:: _static/images/banner_inicial.png
 
 
-Seja bem vindo à página que compila as principais informações sobre o processo de revisão das estruturas organizacionais dos ministérios e entidades, desde sua concepção até o cadastro no sistema informatizado do SIORG!
+Este manual reúne as orientações necessárias para elaborar e revisar estruturas
+organizacionais de ministérios e entidades da administração pública federal.
+Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
+ 
+**O que você vai encontrar aqui:**
+ 
+1. Como o governo federal se organiza para implementar políticas públicas — por
+   meio de estruturas próprias e de parcerias com entidades privadas.
+ 
+2. Quais são os cargos em comissão e funções de confiança utilizados para compor
+   as estruturas hierárquicas de ministérios e entidades, com foco nos Cargos
+   Comissionados Executivos (CCE) e nas Funções Comissionadas Executivas (FCE).
+ 
+3. As regras para construir estruturas organizacionais, considerando as
+   competências atribuídas por lei ao ministério ou entidade e os cargos e
+   funções disponíveis.
+ 
+4. Como elaborar a minuta de decreto de estrutura regimental ou estatuto.
+ 
+5. Como tramita o processo de revisão organizacional — da concepção da proposta
+   ao cadastro da nova estrutura no SIORG e nos demais sistemas informatizados
+   do governo federal.
+ 
+**A quem se aplica**
 
-**O que é uma estrutura organizacional?**
-
-O poder executivo federal é dividido em administração direta (ministérios) e indireta (autarquias, fundações públicas e empresas estatais) :cite:`teste2`.
-
-Em sua organização interna, essas instituições são divididas em subunidades, com competências próprias; essas subunidades são interligadas, formando uma estrutura hierárquica. A essa estrutura hierárquica de subunidades dá-se o nome de estrutura organizacional.
-
-As atividades de desenvolvimento organizacional dos ministérios, das autarquias e das fundações públicas são, ainda, estruturadas sob a forma de sistema, denominado Sistema de Organização e Inovação Institucional do Governo Federal – SIORG. Como suporte às suas atividades, o SIORG conta com um sistema informatizado para o cadastro oficial das estruturas organizacionais dos ministérios e das entidades públicas. As empresas estatais tem um tratamento diferente, que é conduzido pela SEST.
-
-No menu lateral você encontrará o Manual de Estruturas Organizacionais atualizado e um FAQ com as principais dúvidas sobre Estruturas!
+   Este manual se aplica aos ministérios, órgãos da Presidência da República e à maioria das autarquias e fundações públicas.
+ 
+   As Agências Reguladoras, as Instituições Federais de Ensino e o Banco Central do Brasil têm regras próprias, tratadas em seções específicas do manual.
+ 
+**Não encontrou o que procurava?**
+ 
+   Caso reste alguma dúvida, entre em contato pelo endereço eletrônico **manualdeestruturas@mgi.gov.br**.
 
 
 .. only:: html
@@ -28,9 +49,13 @@ No menu lateral você encontrará o Manual de Estruturas Organizacionais atualiz
    :hidden:
    :titlesonly:
 
-   04_AnexoII/index  
-   03_Teste/index
-   
+   01_Introducao/index
+   02_Organizacao/index
+   04_Conceitos/index
+   05_Cargos/index
+   07_alterar_estrut_regim/index
+   11_AnexoII/index
+
 
 .. only:: latex
 
