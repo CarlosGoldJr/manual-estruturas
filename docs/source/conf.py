@@ -155,7 +155,7 @@ latex_elements = {
 \\vspace{{1cm}}
 \\begin{{center}}
 {{\\LARGE \\bfseries Ministério da Gestão e da Inovação em Serviços Públicos}}\\\\[0.2cm]
-{{\\Large \\bfseries Secretaria De Gestão e Inovação}}\\\\[0.2cm]
+{{\\Large \\bfseries Secretaria de Gestão e Inovação}}\\\\[0.2cm]
 {{\\large \\bfseries {author}}}
 \\end{{center}}
 
@@ -170,10 +170,9 @@ latex_elements = {
 \\newpage
 \\thispagestyle{{empty}}
 
-\\noindent\\textbf{{Ministério da Economia}}\\\\
-Secretaria Especial de Desburocratização, Gestão e Governo Digital\\\\
-Secretaria de Gestão\\\\
-Departamento de Modelos Organizacionais\\\\[1cm]
+\\noindent\\textbf{{Ministério da Gestão e da Inovação em Serviços Públicos}}\\\\
+Secretaria de Gestão e Inovação\\\\
+Diretoria de Modelos Organizacionais\\\\[1cm]
 
 \\textbf{{Colaboraram com a 1ª edição:}}\\\\
 Juliana Akiko Noguchi Suzuki (Org.), Danyela de Oliveira Felix (Org.), Antonio Augusto Ignacio Amaral, Giovanna de Sá Lúcio, Christiano Perez de Resende, Eduardo Monteiro Pastore, Kaiser Freiras, Manuel Ferreira Filho.\\\\[0.5cm]
