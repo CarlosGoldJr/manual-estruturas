@@ -23,8 +23,6 @@ Como alterar uma estrutura regimental
    :hidden:
 
    01_fluxo_reestruturacao
-   02_pecas_reestruturacao
-   03_tipos_decretos
    04_altera_minist_anex_1
    07_demais_tabelas
    08_altera_autarc_anex_1
@@ -32,7 +30,10 @@ Como alterar uma estrutura regimental
    10_unid_adm_indireta
    11_parecer_merito
    12_exp_mot_interminist
+   
 
 
 ..   05_altera_minist_anex_2
 ..   06_unid_adm_Direta
+..   02_pecas_reestruturacao
+..   03_tipos_decretos

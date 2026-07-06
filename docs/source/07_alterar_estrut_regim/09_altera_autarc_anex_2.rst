@@ -8,9 +8,9 @@ que sofre alterações.
  
 Essa tabela é formada por quatro colunas e traz todos os cargos em comissão e as
 funções comissionadas de que o órgão dispõe, representados por códigos, conforme
-mostra a :numref:`fig-anexo-ii-a`.
+mostra a :numref:`fig-anexo-ii-a2`.
  
-.. _fig-anexo-ii-a:
+.. _fig-anexo-ii-a2:
 .. figure:: ../_static/images/Fig3a_anexoiia.png
    :alt: Tabela do Anexo II a com colunas de unidade, quantidade, denominação e código
    :align: center
@@ -19,9 +19,9 @@ mostra a :numref:`fig-anexo-ii-a`.
    Exemplo de Anexo II a — quadro demonstrativo de cargos e funções.
  
 Cada cargo ou função tem um código que identifica o tipo, a categoria e o nível.
-A :numref:`fig-codigo-cce-fce` ilustra cada parte do código.
+A :numref:`fig-codigo-cce-fce2` ilustra cada parte do código.
  
-.. _fig-codigo-cce-fce:
+.. _fig-codigo-cce-fce2:
 .. figure:: ../_static/images/Fig3_codigo.png
    :alt: Estrutura do código de cargo em comissão (CCE) e função comissionada (FCE) com tipo, categoria e nível
    :align: center
