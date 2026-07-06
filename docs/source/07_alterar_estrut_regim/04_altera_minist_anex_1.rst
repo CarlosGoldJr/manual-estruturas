@@ -280,7 +280,7 @@ Como se observa na :numref:`fig-quadro-de-cargos`, a organização do quadro
 demonstrativo respeita a seguinte ordem para cada grupo:
  
 Primeira linha do grupo
-~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^
  
 * **Coluna 1:** nome da unidade específica em caixa alta (conforme art. 2º do
   Anexo I);
@@ -294,7 +294,7 @@ Primeira linha do grupo
   de categoria 1 (direção), no maior nível do grupo.
  
 Segunda linha
-~~~~~~~~~~~~~
++++++++++++++
  
 Cargo ou função da chefia adjunta, se o grupo for chefiado por cargo ou função
 de nível 17 ou 18:
