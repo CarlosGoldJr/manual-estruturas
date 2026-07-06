@@ -10,7 +10,8 @@ República e dos Ministérios. A estrutura regimental ocupa o Anexo I de um decr
 de estrutura.
 
 Unidades e competências obrigatórias
-------------------------------------
+++++++++++++++++++++++++++++++++++++
+
 As :ref:`competencias` de cada órgão são definidas pela
 `Lei nº 14.600, de 19 de junho de 2023 <lei-14600_>`_,
 que organiza a Administração Pública federal, usualmente publicada no início do
@@ -78,7 +79,7 @@ será necessário inserir ou excluir suas competências.
    alterações que gerem sombreamento de competências com outros órgãos.
  
 Organização básica e elementos da estrutura regimental
-------------------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
 A organização do Anexo I segue os princípios do
 `Decreto nº 12.002, de 22 de abril de 2024 <decreto-12002_>`_, que estabelece as
@@ -129,8 +130,6 @@ a seguinte lógica:
    V - entidades vinculadas (se houver): engloba autarquias, fundações públicas
    e empresas públicas vinculadas ao órgão.
 
-Exemplo simplificado2
-+++++++++++++++++++++
 
 Exemplo simplificado
 ~~~~~~~~~~~~~~~~~~~~
@@ -365,7 +364,7 @@ unidade. Para mais informações veja :ref:`categorias`
  
  
 Órgãos de assistência direta e imediata ao Ministro de Estado
--------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
 Gabinete do Ministro
 ~~~~~~~~~~~~~~~~~~~~
@@ -443,7 +442,7 @@ São Assessorias típicas:
  
  
 Órgãos setoriais
-----------------
+++++++++++++++++
  
 São aquelas unidades que executam atividades comuns a todos os órgãos, sob
 coordenação de um órgão central, formando um sistema estruturador.
@@ -525,7 +524,7 @@ Consultor-Geral da União e ao Advogado-Geral da União.
  
  
 Secretaria-Executiva
---------------------
+++++++++++++++++++++
  
 Unidade obrigatória: sim
  
@@ -593,7 +592,7 @@ Secretaria-Executiva:
  
  
 Órgãos específicos singulares
------------------------------
++++++++++++++++++++++++++++++
  
 Secretarias
 ~~~~~~~~~~~
@@ -735,7 +734,7 @@ descentralizadas:
  
  
 Órgãos colegiados
------------------
++++++++++++++++++
  
 Os órgãos colegiados são os órgãos integrados por mais de uma autoridade, nos
 quais a decisão é tomada de forma coletiva, com o aproveitamento de experiências
@@ -765,7 +764,7 @@ Capítulo VI do
  
  
 Entidades vinculadas
---------------------
+++++++++++++++++++++
  
 .. admonition:: Em desenvolvimento
  
@@ -773,7 +772,7 @@ Entidades vinculadas
  
  
 Estruturas atípicas
--------------------
++++++++++++++++++++
  
 Procuradoria-Geral da Fazenda Nacional
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -891,7 +890,7 @@ competências da Secretaria-Geral constam em seção específica — denominada
  
  
 Outras regras a serem observadas
---------------------------------
+++++++++++++++++++++++++++++++++
  
 * Não deve haver unidades administrativas denominadas "Presidência",
   "Vice-Presidência", "Diretoria-Adjunta", "Direção", "Chefia" e outras análogas.
