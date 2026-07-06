@@ -280,7 +280,7 @@ Como se observa na :numref:`fig-quadro-de-cargos`, a organização do quadro
 demonstrativo respeita a seguinte ordem para cada grupo:
  
 Primeira linha do grupo
-^^^^^^^^^^^^^^^^^^^^^^^
++++++++++++++++++++++++
  
 * **Coluna 1:** nome da unidade específica em caixa alta (conforme art. 2º do
   Anexo I);
@@ -315,7 +315,7 @@ de nível 17 ou 18:
    a todos os demais deve ser associada uma unidade sem nomenclatura específica.
  
 Linhas seguintes
-~~~~~~~~~~~~~~~~
+++++++++++++++++
  
 Observam a ordem decrescente de nível. Dentro do mesmo nível, observa-se a ordem
 crescente da categoria. Se existe um cargo e uma função com a mesma categoria e
