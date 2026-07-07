@@ -4,7 +4,7 @@ Reestruturação de órgãos da Presidência da República e dos Ministérios
 Este módulo orienta, de forma prática, a revisão de estruturas organizacionais de órgãos da Presidência da República e dos Ministérios, focando nos principais anexos de um decreto de aprovação de estrutura: o Anexo I, que trata fundamentalmente da organização e das competências do órgão e de suas unidades; e o Anexo IIa, que detalha os cargos e funções que o compõem.
 
 Anexo I: Estrutura Regimental
--------
+-----------------------------
 
 Esta seção aborda como elaborar estruturas regimentais de órgãos da Presidência da
 República e dos Ministérios. A estrutura regimental ocupa o Anexo I de um decreto
@@ -14,9 +14,7 @@ Unidades e competências obrigatórias
 ++++++++++++++++++++++++++++++++++++
 
 As :ref:`competencias` de cada órgão são definidas pela
-`Lei nº 14.600, de 19 de junho de 2023 <lei-14600_>`_,
-que organiza a Administração Pública federal, usualmente publicada no início do
-governo em exercício na forma de medida provisória.
+`Lei que organiza a Administração Pública federal <lei-14600_>`_, usualmente publicada no início do governo em exercício na forma de medida provisória.
 
 Propostas de alteração de estrutura devem, inicialmente, observar essa lei quanto:
  
@@ -29,8 +27,7 @@ Propostas de alteração de estrutura devem, inicialmente, observar essa lei qua
   da estrutura organizacional, inclusive quanto ao limite de Secretarias em cada
   Ministério.
 
-O `art. 50 da Lei nº 14.600, de 19 de junho de 2023 <lei-14600-art50_>`_ determina que são obrigatórias
-as seguintes unidades:
+O `art. 50 da Lei nº 14.600, de 19 de junho de 2023 <lei-14600-art50_>`_ determina que são obrigatórias as seguintes unidades, que devem ter suas competências descritas no Decreto de Estrutura:
  
 * Gabinete do Ministro;
 * Secretaria-Executiva, exceto no Ministério da Defesa e no Ministério das Relações
@@ -42,9 +39,8 @@ as seguintes unidades:
   gestão de pessoas, de serviços gerais, de orçamento e finanças, de contabilidade
   e de tecnologia da informação, vinculado à Secretaria-Executiva.
 
-Para essas e todas as demais unidades que compõem o órgão, o
-`Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_ determina a
-necessidade de definição das competências no decreto de estrutura:
+Para as demais unidades que compõem o órgão, deve-se observar o disposto no
+`Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_:
  
 .. admonition:: Decreto nº 10.829, de 5 de outubro de 2021 — art. 5º
  
@@ -445,27 +441,6 @@ Existem dois cenários para a geração dessa tabela:
    transformá-los, sem que esse ato implique aumento de despesa. A tabela deverá
    ser gerada pela equipe do Departamento de Modelos Organizacionais.
 
- 
-.. admonition:: Regras específicas para autarquias e fundações públicas
- 
-   As transformações e realocações de cargos em comissão e de funções de confiança
-   de autarquias e fundações públicas somente poderão ocorrer em seu próprio âmbito,
-   exceto nas seguintes hipóteses
-   (`arts. 6º e 7º da Lei nº 14.204, de 16 de setembro de 2021 <lei-14204-art6_>`_):
- 
-   * absorção de suas atividades por outros órgãos ou entidades;
-   * alteração nas competências da entidade;
-   * permuta com outros órgãos ou entidades; e
-   * obsolescência ou redimensionamento das atividades realizadas pela entidade.
- 
-   Observações adicionais:
- 
-   * Essa regra não se aplica às agências reguladoras e ao Banco Central.
-   * Para as Instituições Federais de Ensino, as realocações e transformações
-     poderão ocorrer dentro da própria instituição ou entre elas.
-   * Não há limitações para realocação de cargos em comissão e funções de confiança
-     da administração direta federal para autarquias ou fundações públicas.
- 
 
 Conhecendo as unidades administrativas da administração direta e suas regras específicas
 ----------------------------------------------------------------------------------------
