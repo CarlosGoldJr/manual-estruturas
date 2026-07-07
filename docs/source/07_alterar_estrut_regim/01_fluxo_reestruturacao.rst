@@ -3,7 +3,7 @@ Regras gerais para alteração de estruturas organizacionais
 
 Ministérios, órgãos da Presidência da República e entidades do Poder Executivo federal são criados por lei e têm suas estruturas regimentais e estatutos aprovados por decreto presidencial. Alterações desses instrumentos exigem, em regra, a edição de um novo decreto presidencial e devem seguir um rito específico, iniciado a partir da elaboração e submissão da proposta ao órgão central do SIORG.
 
-O fluxo normal de uma reestruturação organizacional de ministério ou entidade pode ser resumido na forma da :numref:`fluxo-reestruturacao`:
+O fluxo normal de uma reestruturação organizacional de ministério ou entidade pode ser resumido da seguinte forma:
 
 .. _fluxo-reestruturacao:
 .. figure:: ../_static/images/fluxo_reestruturacao.png
