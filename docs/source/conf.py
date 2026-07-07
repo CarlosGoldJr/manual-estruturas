@@ -167,16 +167,9 @@ latex_elements = {
 
 \vfill
 \noindent
-\begin{minipage}[b]{0.33\textwidth}
-\end{minipage}%
-\begin{minipage}[b]{0.34\textwidth}
-\centering
 \includegraphics[width=2.5cm]{qrcode.jpg}
-\end{minipage}%
-\begin{minipage}[b]{0.33\textwidth}
-\raggedleft
+\hfill
 \textbf{\today}
-\end{minipage}
 
 \newpage
 \thispagestyle{empty}
