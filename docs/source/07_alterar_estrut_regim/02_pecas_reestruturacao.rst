@@ -1,5 +1,3 @@
-.. _pecas_reestrut:
-
 Peças que compõem um processo de reestruturação organizacional
 ==============================================================
  

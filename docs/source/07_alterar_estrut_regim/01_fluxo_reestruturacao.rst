@@ -220,7 +220,7 @@ Organização sequencial padrão
 Na :numref:`tipos-decreto` apresenta-se uma visão geral dos tipos de decreto de
 estrutura, de acordo com as necessidades do órgão ou entidade.
  
-.. _tipos-decreto:
+.. tipos-decreto:
 .. figure:: ../_static/images/Fig1_tipos_de_decreto.png
    :alt: Diagrama dos tipos de decreto de estrutura organizacional — Tipo 1 (reestruturação completa), Tipo 2 (alterações pontuais) e Tipo 3 (cargos temporários)
    :align: center
