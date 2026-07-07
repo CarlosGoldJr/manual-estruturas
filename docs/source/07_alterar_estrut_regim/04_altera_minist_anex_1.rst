@@ -1,9 +1,9 @@
-Estruturas organizacionais de órgãos da Presidência da República e dos Ministérios 
+Reestruturação de órgãos da Presidência da República e dos Ministérios 
 ==============================================================================
 
-Este capítulo orienta, de forma prática, a revisão de estruturas organizacionais de órgãos da Presidência da República e dos Ministérios, focando nos principais anexos de um decreto de aprovação de estrutura: o Anexo I, que trata fundamentalmente da organização e das competências do órgão e de suas unidades; e o Anexo IIa, que detalha os cargos e funções que o compõem.
+Este módulo orienta, de forma prática, a revisão de estruturas organizacionais de órgãos da Presidência da República e dos Ministérios, focando nos principais anexos de um decreto de aprovação de estrutura: o Anexo I, que trata fundamentalmente da organização e das competências do órgão e de suas unidades; e o Anexo IIa, que detalha os cargos e funções que o compõem.
 
-Anexo I
+Anexo I: Estrutura Regimental
 -------
 
 Esta seção aborda como elaborar estruturas regimentais de órgãos da Presidência da
@@ -227,13 +227,10 @@ Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com
    manual.
  
  
-Anexo II a
-----------
+Anexo IIa: Quadro demonstrativo dos cargos em comissão e das funções comissionadas
+----------------------------------------------------------------------------------
  
-O quadro demonstrativo de cargos é um resumo do organograma do órgão descrito no
-art. 2º do Anexo I, representado por uma tabela. A fim de facilitar as consultas
-aos decretos vigentes, convencionou-se substituir esse quadro por inteiro sempre
-que sofre alterações.
+O quadro demonstrativo é um resumo do organograma do órgão descrito no art. 2º do Anexo I, representado por uma tabela. A fim de facilitar as consultas aos decretos vigentes, convencionou-se substituir esse quadro por inteiro sempre que sofre alterações.
  
 Essa tabela é formada por quatro colunas e traz todos os cargos em comissão e as
 funções comissionadas de que o órgão dispõe, representados por códigos, conforme mostra a :numref:`fig-anexo-ii-a`.
@@ -263,12 +260,7 @@ Cada código possui uma ou mais denominações específicas, conforme a :numref:
  
    Para saber mais sobre os diferentes tipos, categorias e níveis, consulte :ref:`cce_fce`.
  
-Os cargos e funções existentes no órgão são agrupados conforme regras dispostas
-no `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_, que já
-orientou o desenho do Anexo I: se a unidade consta no art. 2º, há competência
-descrita e a unidade precisa ser nomeada no quadro demonstrativo. Essa unidade
-e os cargos e funções a ela subordinados compõem um grupo, no qual as unidades
-subordinadas recebem nomenclatura genérica e são apresentadas de forma agrupada.
+Os cargos e funções existentes no órgão são agrupados conforme regras dispostas no `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_, que já orientou o desenho do Anexo I: se a unidade consta no art. 2º, há competência descrita e a unidade precisa ser nomeada no quadro demonstrativo. Essa unidade e os cargos e funções a ela subordinados compõem um grupo, no qual as unidades subordinadas recebem nomenclatura genérica e são apresentadas de forma agrupada.
  
 .. _fig-quadro-de-cargos:
 .. figure:: ../_static/images/Fig4_quadro_de_cargos.png
@@ -280,8 +272,8 @@ subordinadas recebem nomenclatura genérica e são apresentadas de forma agrupad
 Como se observa na :numref:`fig-quadro-de-cargos`, a organização do quadro
 demonstrativo respeita a seguinte ordem para cada grupo:
  
-Primeira linha do grupo
-+++++++++++++++++++++++
+**Primeira linha do grupo**
+
  
 * **Coluna 1:** nome da unidade específica em caixa alta (conforme art. 2º do
   Anexo I);
@@ -294,8 +286,8 @@ Primeira linha do grupo
 * **Coluna 4:** código do cargo ou função do chefe da unidade, necessariamente
   de categoria 1 (direção), no maior nível do grupo.
  
-Segunda linha
-+++++++++++++
+**Segunda linha**
+
  
 Cargo ou função da chefia adjunta, se o grupo for chefiado por cargo ou função
 de nível 17 ou 18:
@@ -315,8 +307,8 @@ de nível 17 ou 18:
    O Adjunto é o único cargo ou função de categoria 1 que não chefia unidade —
    a todos os demais deve ser associada uma unidade sem nomenclatura específica.
  
-Linhas seguintes
-++++++++++++++++
+**Linhas seguintes**
+
  
 Observam a ordem decrescente de nível. Dentro do mesmo nível, observa-se a ordem
 crescente da categoria. Se existe um cargo e uma função com a mesma categoria e
@@ -347,15 +339,13 @@ com a próxima unidade descrita no art. 2º do Anexo I.
       ser acatadas em sua integralidade, ainda que cumpram requisitos legais e de
       boas práticas.
  
-As demais tabelas integrantes do decreto que aprova a estrutura regimental seguem
-as mesmas regras.
 
 
 Demais tabelas que compõem um decreto de estrutura regimental
 -------------------------------------------------------------
  
-Quadro resumo de custos (Anexo II b)
-++++++++++++++++++++++++++++++++++++
+Anexo IIb: Quadro resumo de custos
+++++++++++++++++++++++++++++++++++
  
 O Quadro resumo de custos informa o tamanho da estrutura organizacional de um
 órgão ou entidade em CCE-unitários (:ref:`cce-unitario`).
@@ -383,8 +373,8 @@ pelo órgão.
    representando o retrato real da estrutura a ser substituída.
  
  
-Remanejamento de CCE e FCE (Anexos III a e III b)
-+++++++++++++++++++++++++++++++++++++++++++++++++
+Anexos IIIa e IIIb: Remanejamentos de CCE e FCE
++++++++++++++++++++++++++++++++++++++++++++++++
  
 .. seealso::
  
@@ -410,8 +400,8 @@ esses quadros automaticamente a partir do novo quadro demonstrativo informado
 pelo órgão.
  
  
-Transformações de CCE e FCE (Anexo IV)
-++++++++++++++++++++++++++++++++++++++
+Anexo IV: Transformações de CCE e FCE
++++++++++++++++++++++++++++++++++++++
  
 A tabela constante no Anexo IV é exigida pelo
 `art. 7º da Lei nº 14.204, de 16 de setembro de 2021 <lei-14204-art7_>`_ e

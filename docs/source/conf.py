@@ -145,7 +145,7 @@ latex_elements = {
     'pointsize': '11pt',
     'preamble': r'''
 \setcounter{secnumdepth}{4}
-\setcounter{tocdepth}{2}
+\setcounter{tocdepth}{3}
 \usepackage{graphicx}
 
 ''',
