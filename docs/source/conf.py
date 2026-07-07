@@ -134,7 +134,7 @@ html_static_path = ['_static']
 html_favicon = '_static/images/favicon.png'
 html_css_files = ['custom.css']
 
-latex_additional_files = ['_static/images/capa_pdf.png']
+latex_additional_files = ['_static/images/capa_pdf.png', '_static/images/qrcode.jpg']
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
@@ -165,8 +165,18 @@ latex_elements = {
 \\includegraphics[width=16cm]{{capa_pdf.png}}
 \\end{{center}}
 
-\\vfill
-\\hfill {{\\textbf{{\\today}}}}
+\vfill
+\noindent
+\begin{minipage}[b]{0.33\textwidth}
+\end{minipage}%
+\begin{minipage}[b]{0.34\textwidth}
+\centering
+\includegraphics[width=2.5cm]{qrcode.jpg}
+\end{minipage}%
+\begin{minipage}[b]{0.33\textwidth}
+\raggedleft
+\textbf{\today}
+\end{minipage}
 
 \\newpage
 \\thispagestyle{{empty}}

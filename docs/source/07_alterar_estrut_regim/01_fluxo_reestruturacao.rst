@@ -96,6 +96,8 @@ Organização sequencial padrão
      (CCE) e das funções comissionadas executivas (FCE) com as transformações
      necessárias à nova estrutura. Este anexo nem sempre é necessário.
  
+Faça o download do `modelo aqui <decreto-12002_>`_.
+
      .. TODO: inserir :ref: ao capítulo sobre critérios para o Anexo IV (CCE/FCE)
  
 .. admonition:: Ferramenta útil
@@ -238,3 +240,7 @@ estrutura, de acordo com as necessidades do órgão ou entidade.
 .. _decreto-10829: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm
 .. _decreto-10829-art12: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm#Art12
 .. _decreto-10829-art13: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm#Art13
+.. _modelo-tipo1: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/modelo-tipo-1_decreto-de-aprovacao-de-estrutura.docx
+.. _modelo-tipo2a: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/modelo-tipo-2a_-decreto-de-alteracao-de-estrutura_cargos.docx
+.. _modelo-tipo2b: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/modelo-tipo-2b_-decreto-de-alteracao-de-estrutura_competencias.docx
+.. _modelo-tipo2c: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/modelo-tipo-2c_-decreto-de-alteracao-de-estrutura_cargos-e-competencias.docx
