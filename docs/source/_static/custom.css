@@ -9,14 +9,14 @@
     text-justify: inter-word !important;
     
     /* Aumenta o espaço em branco DEPOIS de cada parágrafo */
-    margin-bottom: 1.5rem !important; 
+    margin-bottom: 1.1rem !important; 
 }
 
 /* =========================================
    2. TAMANHO DA FONTE GLOBAL
    ========================================= */
 body {
-    font-size: 15px !important;
+    font-size: 14px !important;
 }
 
 
