@@ -9,7 +9,7 @@ project_copyright = 'Estruturas Organizacionais'
 
 
 release = ''
-version = '0.1'
+version = '1.0'
 
 language = 'pt_BR'
 
@@ -156,7 +156,8 @@ latex_elements = {
 \\begin{{center}}
 {{\\LARGE \\bfseries Ministério da Gestão e da Inovação em Serviços Públicos}}\\\\[0.2cm]
 {{\\Large \\bfseries Secretaria de Gestão e Inovação}}\\\\[0.2cm]
-{{\\large \\bfseries {author}}}
+{{\\large \\bfseries {author}}}\\\\[0.2cm]
+{{\\large Versão {version}}}
 \\end{{center}}
 
 \\vspace{{3cm}}
