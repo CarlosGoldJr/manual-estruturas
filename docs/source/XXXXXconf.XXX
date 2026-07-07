@@ -149,21 +149,21 @@ latex_elements = {
 \usepackage{graphicx}
 
 ''',
-'maketitle': r'''
-\begin{titlepage}
-\thispagestyle{empty}
-\vspace{1cm}
-\begin{center}
-{\LARGE \bfseries Ministério da Gestão e da Inovação em Serviços Públicos}\\[0.2cm]
-{\Large \bfseries Secretaria de Gestão e Inovação}\\[0.2cm]
-{\large \bfseries __AUTHOR__}\\[0.2cm]
-{\large Versão __VERSION__}
-\end{center}
+'maketitle': f'''
+\\begin{{titlepage}}
+\\thispagestyle{{empty}}
+\\vspace{{1cm}}
+\\begin{{center}}
+{{\\LARGE \\bfseries Ministério da Gestão e da Inovação em Serviços Públicos}}\\\\[0.2cm]
+{{\\Large \\bfseries Secretaria de Gestão e Inovação}}\\\\[0.2cm]
+{{\\large \\bfseries {author}}}\\\\[0.2cm]
+{{\\large Versão {version}}}
+\\end{{center}}
 
-\vspace{3cm}
-\begin{center}
-\includegraphics[width=16cm]{capa_pdf.png}
-\end{center}
+\\vspace{{3cm}}
+\\begin{{center}}
+\\includegraphics[width=16cm]{{capa_pdf.png}}
+\\end{{center}}
 
 \vfill
 \noindent
@@ -178,41 +178,41 @@ latex_elements = {
 \textbf{\today}
 \end{minipage}
 
-\newpage
-\thispagestyle{empty}
+\\newpage
+\\thispagestyle{{empty}}
 
-\noindent\textbf{Ministério da Gestão e da Inovação em Serviços Públicos}\\
-Secretaria de Gestão e Inovação\\
-Diretoria de Modelos Organizacionais\\[1cm]
+\\noindent\\textbf{{Ministério da Gestão e da Inovação em Serviços Públicos}}\\\\
+Secretaria de Gestão e Inovação\\\\
+Diretoria de Modelos Organizacionais\\\\[1cm]
 
-\textbf{Colaboraram com a 1ª edição:}\\
-Juliana Akiko Noguchi Suzuki (Org.), Danyela de Oliveira Felix (Org.), Antonio Augusto Ignacio Amaral, Giovanna de Sá Lúcio, Christiano Perez de Resende, Eduardo Monteiro Pastore, Kaiser Freiras, Manuel Ferreira Filho.\\[0.5cm]
+\\textbf{{Colaboraram com a 1ª edição:}}\\\\
+Juliana Akiko Noguchi Suzuki (Org.), Danyela de Oliveira Felix (Org.), Antonio Augusto Ignacio Amaral, Giovanna de Sá Lúcio, Christiano Perez de Resende, Eduardo Monteiro Pastore, Kaiser Freiras, Manuel Ferreira Filho.\\\\[0.5cm]
 
-\textbf{Colaboraram com a 2ª edição:}\\
-Juliana Akiko Noguchi Suzuki, Danyela de Oliveira Felix, Frederico Porto de Souza, Marcos Santos Kroll, Giovanna de Sá Lúcio, Christiano Perez de Resende, Sheila Maria Reis Ribeiro, Eduardo Monteiro Pastore, Sylvia Helena Figueiredo Prata, Rodrigo Machado Bolina, Maria Beatriz Teixeira Barral Vidal, Iracema Pontes da Cruz.\\[0.5cm]
+\\textbf{{Colaboraram com a 2ª edição:}}\\\\
+Juliana Akiko Noguchi Suzuki, Danyela de Oliveira Felix, Frederico Porto de Souza, Marcos Santos Kroll, Giovanna de Sá Lúcio, Christiano Perez de Resende, Sheila Maria Reis Ribeiro, Eduardo Monteiro Pastore, Sylvia Helena Figueiredo Prata, Rodrigo Machado Bolina, Maria Beatriz Teixeira Barral Vidal, Iracema Pontes da Cruz.\\\\[0.5cm]
 
-\textbf{Elaboraram a 3ª edição:}\\
-Laerte Davi Cleto (Org.), Yana de Faria (Org.), Carlos Gold, Letícia Maria Gonçalves, Rodrigo Machado Bolina.\\[0.5cm]
+\\textbf{{Elaboraram a 3ª edição:}}\\\\
+Laerte Davi Cleto (Org.), Yana de Faria (Org.), Carlos Gold, Letícia Maria Gonçalves, Rodrigo Machado Bolina.\\\\[0.5cm]
 
-\textbf{Contribuiram para a 3ª edição:}\\
-Marcos Santos Kroll.\\[0.5cm]
+\\textbf{{Contribuiram para a 3ª edição:}}\\\\
+Marcos Santos Kroll.\\\\[0.5cm]
 
-Brasília (DF), 3 de julho de 2026\\[1cm]
+Brasília (DF), 3 de julho de 2026\\\\[1cm]
 
-\fbox{
-  \begin{minipage}{0.9\textwidth}
-  \small
-  XXXX\\
-  Brasil. Ministério da Gestão e da Inovação em Serviços Públicos.\\[0.5em]
-  Manual de Estruturas Organizacionais do Poder Executivo Federal / Ministério da Gestão e da Inovação em Serviços Públicos, Secretaria de Gestão e Inovação. – 3. ed. -- Brasília: Ministério da Gestão e da Inovação em Serviços Públicos, 2026.\\[0.5em]
-  XXX p.: il.\\[0.5em]
-  1. Administração Pública 2. Estrutura Organizacional 3. Poder Executivo Federal\\
-  I. Título II. Secretaria de Gestão e Inovação.\\
+\\fbox{{
+  \\begin{{minipage}}{{0.9\\textwidth}}
+  \\small
+  XXXX\\\\
+  Brasil. Ministério da Gestão e da Inovação em Serviços Públicos.\\\\[0.5em]
+  Manual de Estruturas Organizacionais do Poder Executivo Federal / Ministério da Gestão e da Inovação em Serviços Públicos, Secretaria de Gestão e Inovação. – 3. ed. -- Brasília: Ministério da Gestão e da Inovação em Serviços Públicos, 2026.\\\\[0.5em]
+  XXX p.: il.\\\\[0.5em]
+  1. Administração Pública 2. Estrutura Organizacional 3. Poder Executivo Federal\\\\
+  I. Título II. Secretaria de Gestão e Inovação.\\\\
   CDU XXX:XXX.XX
-  \end{minipage}
-}
-\end{titlepage}
-'''.replace('__AUTHOR__', author).replace('__VERSION__', version),
+  \\end{{minipage}}
+}}
+\\end{{titlepage}}
+''',
 }
 
 
