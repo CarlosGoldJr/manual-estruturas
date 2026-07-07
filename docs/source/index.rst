@@ -1,7 +1,7 @@
 Estruturas Organizacionais
 ==========================
 
-.. figure:: _static/images/banner_inicial.png
+.. figure:: _static/images/banner_inicial2.png
 
 
 Este manual reúne as orientações necessárias para elaborar e revisar estruturas
