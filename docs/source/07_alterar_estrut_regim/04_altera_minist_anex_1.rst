@@ -96,40 +96,42 @@ estruturas regimentais.
 No caso das estruturas, a divisão do texto que trata da estrutura regimental segue
 a seguinte lógica:
  
-.. admonition:: Capítulo I: DA NATUREZA E DA COMPETÊNCIA
+Capítulo I — DA NATUREZA E DA COMPETÊNCIA
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Por padrão, abrange somente o art. 1º, que traz as competências do órgão:
  
-   Por padrão, abrange somente o art. 1º, que traz as competências do órgão:
+"Art. 1º  O [*nome do órgão*], órgão da administração pública federal direta,
+tem como área de competência os seguintes assuntos:
  
-   "Art. 1º  O [*nome do órgão*], órgão da administração pública federal direta,
-   tem como área de competência os seguintes assuntos:
+[competências idênticas às constantes na `Lei nº 14.600, de 19 de junho de 2023 <lei-14600_>`_]"
  
-   [competências idênticas às constantes na `Lei nº 14.600, de 19 de junho de 2023 <lei-14600_>`_]"
- 
-.. admonition:: Capítulo II: DA ESTRUTURA ORGANIZACIONAL
- 
-   Por padrão, abrange somente o art. 2º, que traz a organização interna do órgão,
-   dividida da seguinte forma:
- 
-   I - órgãos de assistência direta e imediata ao Ministro de Estado: engloba todas
-   as unidades de assessoria direta (começando pelo Gabinete do Ministro e seguindo
-   com suas Assessorias Especiais), unidades setoriais (Ouvidoria, Corregedoria,
-   Consultoria Jurídica) e a Secretaria-Executiva, com suas Subsecretarias.
- 
-   II - órgãos específicos singulares: engloba as unidades finalísticas do órgão,
-   ou seja, as Secretarias e suas Diretorias ou Departamentos.
- 
-   III - unidades descentralizadas (se houver): engloba todas as unidades situadas
-   em município distinto ao da sede do órgão.
- 
-   IV - órgãos colegiados (se houver): engloba colegiados criados por lei, sob
-   responsabilidade do órgão.
- 
-   V - entidades vinculadas (se houver): engloba autarquias, fundações públicas
-   e empresas públicas vinculadas ao órgão.
+Capítulo II: DA ESTRUTURA ORGANIZACIONAL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Por padrão, abrange somente o art. 2º, que traz a organização interna do órgão,
+dividida da seguinte forma:
+
+I - órgãos de assistência direta e imediata ao Ministro de Estado: engloba todas
+as unidades de assessoria direta (começando pelo Gabinete do Ministro e seguindo
+com suas Assessorias Especiais), unidades setoriais (Ouvidoria, Corregedoria,
+Consultoria Jurídica) e a Secretaria-Executiva, com suas Subsecretarias.
+
+II - órgãos específicos singulares: engloba as unidades finalísticas do órgão,
+ou seja, as Secretarias e suas Diretorias ou Departamentos.
+
+III - unidades descentralizadas (se houver): engloba todas as unidades situadas
+em município distinto ao da sede do órgão.
+
+IV - órgãos colegiados (se houver): engloba colegiados criados por lei, sob
+responsabilidade do órgão.
+
+V - entidades vinculadas (se houver): engloba autarquias, fundações públicas
+e empresas públicas vinculadas ao órgão.  
 
 
-Exemplo simplificado
-~~~~~~~~~~~~~~~~~~~~
+**Exemplo simplificado**
+
  
 .. _organograma-ministerio:
 .. figure:: ../_static/images/Fig2_Organograma_Ministerio.png
@@ -138,13 +140,15 @@ Exemplo simplificado
  
    Organograma simplificado de ministério.
  
-.. admonition:: Capítulo III: DAS COMPETÊNCIAS DOS ÓRGÃOS
- 
-   Esse capítulo descreve as competências de todas as unidades organizacionais
-   elencadas no art. 2º, na exata ordem em que lá aparecem. Para cada grupo de
-   unidades, haverá uma Seção específica. Para cada unidade organizacional,
-   haverá um artigo.
- 
+
+Capítulo III — DAS COMPETÊNCIAS DOS ÓRGÃOS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Esse capítulo descreve as competências de todas as unidades organizacionais
+elencadas no art. 2º, na exata ordem em que lá aparecem. Para cada grupo de
+unidades, haverá uma Seção específica. Para cada unidade organizacional,
+haverá um artigo.
+
 .. note::
  
    A redação de competências segue as regras e boas práticas definidas no
@@ -213,28 +217,42 @@ Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com
  
    .. TODO: inserir link para a seção sobre o Anexo II
  
-.. admonition:: Capítulo IV: DAS ATRIBUIÇÕES DOS DIRIGENTES
- 
-   Esse capítulo descreve as atribuições dos principais dirigentes do órgão, destacando-se aqueles que ocupam cargos ou funções de nível 17 ou 18.
 
-   Adota-se seções específicas, com um artigo cada, para tratar, separada e respectivamente, das atribuições do Secretário-Executivo, dos Secretários ou equivalentes e dos demais dirigentes.
+Capítulo IV: DAS ATRIBUIÇÕES DOS DIRIGENTES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Esse capítulo descreve as atribuições dos principais dirigentes do órgão, destacando-se aqueles que ocupam cargos ou funções de nível 17 ou 18.
+
+Adota-se seções específicas, com um artigo cada, para tratar, separada e respectivamente, das atribuições do Secretário-Executivo, dos Secretários ou equivalentes e dos demais dirigentes.
 
  
 .. admonition:: Exemplo
  
    **CAPÍTULO IV**
+
    **DAS ATRIBUIÇÕES DOS DIRIGENTES**
+
    **Seção I**
+
    **Do Secretário-Executivo**
    Art. 67.  Ao Secretário-Executivo incumbe:
+
    I - coordenar, consolidar e submeter ao Ministro de Estado o plano de ação global do Ministério;
+
    II - supervisionar e avaliar a execução dos projetos e das atividades do Ministério; e
+
    III - supervisionar e coordenar a articulação dos órgãos do Ministério com os órgãos centrais dos sistemas relacionados ao âmbito de competência da Secretaria-Executiva.
+
    **Seção II**
+
    **Dos Secretários**
+
    Art. 68.  Aos Secretários incumbe planejar, dirigir, coordenar, orientar, acompanhar e avaliar a execução das atividades das unidades que integram as suas Secretarias e exercer outras atribuições que lhes forem cometidas em regimento interno.
+
    **Seção III**
+
    **Dos demais dirigentes**
+
    Art. 69.  Ao Chefe de Gabinete do Ministro de Estado, aos Chefes de Assessorias Especiais, ao Consultor Jurídico, aos Subsecretários, aos Diretores, ao Corregedor, ao Ouvidor-Geral, aos Coordenadores-Gerais, aos Coordenadores e aos demais dirigentes incumbe planejar, dirigir, coordenar e orientar a execução das atividades de suas unidades e exercer outras atribuições que lhes forem cometidas pelo Ministro de Estado no âmbito de sua competência.
 
  

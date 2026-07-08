@@ -98,7 +98,7 @@ Organização sequencial padrão
  
 Faça o download do `modelo aqui <modelo-tipo1_>`_.
 
-     .. TODO: inserir :ref: ao capítulo sobre critérios para o Anexo IV (CCE/FCE)
+.. TODO: inserir :ref: ao capítulo sobre critérios para o Anexo IV (CCE/FCE)
  
 .. admonition:: Ferramenta útil
  

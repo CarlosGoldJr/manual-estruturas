@@ -79,7 +79,7 @@ No caso das estruturas organizacionais das entidades, a divisão do texto que tr
 da estrutura regimental (autarquias) ou estatuto (fundação pública) segue, de forma
 geral, a seguinte lógica, com pequenas variações:
  
-Capítulo I — Da natureza e da finalidade
+Capítulo I — DA NATUREZA E DA COMPETÊNCIA
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 Por padrão, abrange o art. 1º, que informa a denominação e a sigla da entidade,
@@ -178,8 +178,8 @@ espelhando, tanto quanto possível, sua lei de criação ou autorização.
    Estado, de forma a aumentar a eficácia e a qualidade dos serviços prestados
    aos cidadãos; (...)"
  
-Capítulo II — Da estrutura organizacional
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Capítulo II: DA ESTRUTURA ORGANIZACIONAL
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 Por padrão, abrange somente um artigo, que traz a organização interna da entidade
 (uma descrição de seu organograma básico), dividida, geralmente, da seguinte forma:
@@ -221,8 +221,8 @@ Exemplo simplificado:
    órgãos colegiados quanto ao quadro demonstrativo (já que não são unidades
    administrativas).
  
-Capítulo III — Da direção e da nomeação
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Capítulo III — DA DIREÇÃO E DA NOMEAÇÃO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 Esse capítulo descreve as especificidades da estrutura diretiva da entidade, em
 alinhamento com a lei de criação: se é exercida pelo presidente ou por colegiado;
@@ -234,8 +234,8 @@ outros); e outras singularidades alinhadas à temática.
  
    O conteúdo desta seção será desenvolvido em versão posterior deste manual.
  
-Capítulo IV — Das competências dos órgãos
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Capítulo IV — DAS COMPETÊNCIAS DOS ÓRGÃOS
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 Esse capítulo descreve as competências de todas as unidades organizacionais
 elencadas no art. 2º, na exata ordem em que lá aparecem. Para cada grupo de
@@ -311,8 +311,8 @@ entidades, de forma que o Capítulo IV começa por ele:
  
    .. TODO: inserir referência cruzada à seção sobre o Anexo II
  
-Capítulo V — Das atribuições dos dirigentes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Capítulo V — DAS ATRIBUIÇÕES DOS DIRIGENTES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 Esse capítulo descreve as atribuições da autoridade máxima da entidade e dos
 cargos de chefia de todas as unidades organizacionais elencadas no Capítulo II,
