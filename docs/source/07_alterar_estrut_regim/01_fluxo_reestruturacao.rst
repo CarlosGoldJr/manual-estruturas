@@ -96,7 +96,7 @@ Organização sequencial padrão
      (CCE) e das funções comissionadas executivas (FCE) com as transformações
      necessárias à nova estrutura. Este anexo nem sempre é necessário.
  
-Faça o download do `modelo aqui <decreto-12002_>`_.
+Faça o download do `modelo aqui <modelo-tipo1_>`_.
 
      .. TODO: inserir :ref: ao capítulo sobre critérios para o Anexo IV (CCE/FCE)
  
@@ -140,6 +140,8 @@ dispositivo normativo (se houver) e a data de vigência da nova estrutura.
   contendo o quadro demonstrativo dos cargos em comissão e das funções de
   confiança e o quadro resumo de custos.
  
+Faça o download do `modelo aqui <modelo-tipo2a_>`_.
+
 .. admonition:: Atenção
  
    Algumas alterações na estrutura de cargos e funções podem ser realizadas por
@@ -155,6 +157,8 @@ categoria ou nível de cargos e funções.
 O texto principal trará as alterações propostas nas competências das unidades
 específicas, a revogação de algum ato ou dispositivo normativo (se houver) e a
 data de vigência da nova estrutura. Não há Anexos.
+
+Faça o download do `modelo aqui <modelo-tipo2b_>`_.
  
 **c) Alterações combinadas** — envolvendo cargos e funções com criação ou revisão
 de unidades de diretoria ou secretaria.
@@ -177,6 +181,8 @@ de vigência da nova estrutura.
 * **Anexo III** — se houver necessidade de substituição dos quadros em vigor,
   contendo o quadro demonstrativo dos cargos em comissão e das funções de
   confiança e o quadro resumo de custos.
+
+Faça o download do `modelo aqui <modelo-tipo2c_>`_.  
  
 .. admonition:: Nota
  
@@ -218,6 +224,7 @@ Organização sequencial padrão
  
      .. TODO: inserir :ref: ao capítulo sobre critérios para o Anexo CCE/FCE
  
+Faça o download do `modelo aqui <modelo-tipo3_>`_.  
  
 Na :numref:`tipos-decreto` apresenta-se uma visão geral dos tipos de decreto de
 estrutura, de acordo com as necessidades do órgão ou entidade.
@@ -244,3 +251,4 @@ estrutura, de acordo com as necessidades do órgão ou entidade.
 .. _modelo-tipo2a: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/modelo-tipo-2a_-decreto-de-alteracao-de-estrutura_cargos.docx
 .. _modelo-tipo2b: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/modelo-tipo-2b_-decreto-de-alteracao-de-estrutura_competencias.docx
 .. _modelo-tipo2c: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/modelo-tipo-2c_-decreto-de-alteracao-de-estrutura_cargos-e-competencias.docx
+.. _modelo-tipo3: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/modelo-tipo-3_decreto-de-remanejamento-temporario.docx

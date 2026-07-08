@@ -314,12 +314,12 @@ entidades, de forma que o Capítulo IV começa por ele:
 Capítulo V — Das atribuições dos dirigentes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
-Esse capítulo descreve as competências da autoridade máxima da entidade e dos
+Esse capítulo descreve as atribuições da autoridade máxima da entidade e dos
 cargos de chefia de todas as unidades organizacionais elencadas no Capítulo II,
 na exata ordem em que lá aparecem.
  
 Adota-se seções específicas, com um artigo cada, para tratar, separada e
-respectivamente, das competências da autoridade máxima, do Diretor-Executivo ou
+respectivamente, das atribuições da autoridade máxima, do Diretor-Executivo ou
 equivalente e dos demais dirigentes.
  
 .. admonition:: Exemplo — estrutura do Capítulo V
@@ -596,8 +596,8 @@ Existem dois cenários para a geração dessa tabela:
  
 
 
-Conhecendo as unidades administrativas da administração indireta e suas regras específicas
-------------------------------------------------------------------------------
+Unidades administrativas da administração indireta e suas regras específica
+---------------------------------------------------------------------------
  
 As regras a seguir focam na estruturação hierárquica das unidades, que são chefiadas
 por ocupantes de cargos e funções da categoria 1. No entanto, outros tipos de cargos

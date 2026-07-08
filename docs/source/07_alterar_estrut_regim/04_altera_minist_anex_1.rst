@@ -215,13 +215,28 @@ Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com
  
 .. admonition:: Capítulo IV: DAS ATRIBUIÇÕES DOS DIRIGENTES
  
-   Esse capítulo define as atribuições dos dirigentes do órgão.
+   Esse capítulo descreve as atribuições dos principais dirigentes do órgão, destacando-se aqueles que ocupam cargos ou funções de nível 17 ou 18.
+
+   Adota-se seções específicas, com um artigo cada, para tratar, separada e respectivamente, das atribuições do Secretário-Executivo, dos Secretários ou equivalentes e dos demais dirigentes.
+
  
-.. admonition:: Em desenvolvimento
+.. admonition:: Exemplo
  
-   O conteúdo relativo ao Capítulo IV será desenvolvido em versão posterior deste
-   manual.
- 
+   **CAPÍTULO IV**
+   **DAS ATRIBUIÇÕES DOS DIRIGENTES**
+   **Seção I**
+   **Do Secretário-Executivo**
+   Art. 67.  Ao Secretário-Executivo incumbe:
+   I - coordenar, consolidar e submeter ao Ministro de Estado o plano de ação global do Ministério;
+   II - supervisionar e avaliar a execução dos projetos e das atividades do Ministério; e
+   III - supervisionar e coordenar a articulação dos órgãos do Ministério com os órgãos centrais dos sistemas relacionados ao âmbito de competência da Secretaria-Executiva.
+   **Seção II**
+   **Dos Secretários**
+   Art. 68.  Aos Secretários incumbe planejar, dirigir, coordenar, orientar, acompanhar e avaliar a execução das atividades das unidades que integram as suas Secretarias e exercer outras atribuições que lhes forem cometidas em regimento interno.
+   **Seção III**
+   **Dos demais dirigentes**
+   Art. 69.  Ao Chefe de Gabinete do Ministro de Estado, aos Chefes de Assessorias Especiais, ao Consultor Jurídico, aos Subsecretários, aos Diretores, ao Corregedor, ao Ouvidor-Geral, aos Coordenadores-Gerais, aos Coordenadores e aos demais dirigentes incumbe planejar, dirigir, coordenar e orientar a execução das atividades de suas unidades e exercer outras atribuições que lhes forem cometidas pelo Ministro de Estado no âmbito de sua competência.
+
  
 Anexo IIa: Quadro demonstrativo dos cargos em comissão e das funções comissionadas
 ----------------------------------------------------------------------------------
@@ -442,8 +457,8 @@ Existem dois cenários para a geração dessa tabela:
    ser gerada pela equipe do Departamento de Modelos Organizacionais.
 
 
-Conhecendo as unidades administrativas da administração direta e suas regras específicas
-----------------------------------------------------------------------------------------
+Unidades administrativas da administração direta e suas regras específicas
+--------------------------------------------------------------------------
  
 As regras a seguir focam na estruturação hierárquica das unidades, chefiadas por
 ocupantes de cargos e funções da categoria 1. No entanto, outros tipos de cargos
