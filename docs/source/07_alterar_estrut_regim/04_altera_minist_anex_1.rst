@@ -106,7 +106,7 @@ tem como área de competência os seguintes assuntos:
  
 [competências idênticas às constantes na `Lei nº 14.600, de 19 de junho de 2023 <lei-14600_>`_]"
  
-Capítulo II: DA ESTRUTURA ORGANIZACIONAL
+Capítulo II — DA ESTRUTURA ORGANIZACIONAL
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Por padrão, abrange somente o art. 2º, que traz a organização interna do órgão,
@@ -218,7 +218,7 @@ Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com
    .. TODO: inserir link para a seção sobre o Anexo II
  
 
-Capítulo IV: DAS ATRIBUIÇÕES DOS DIRIGENTES
+Capítulo IV — DAS ATRIBUIÇÕES DOS DIRIGENTES
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Esse capítulo descreve as atribuições dos principais dirigentes do órgão, destacando-se aqueles que ocupam cargos ou funções de nível 17 ou 18.
@@ -235,6 +235,7 @@ Adota-se seções específicas, com um artigo cada, para tratar, separada e resp
    **Seção I**
 
    **Do Secretário-Executivo**
+
    Art. 67.  Ao Secretário-Executivo incumbe:
 
    I - coordenar, consolidar e submeter ao Ministro de Estado o plano de ação global do Ministério;

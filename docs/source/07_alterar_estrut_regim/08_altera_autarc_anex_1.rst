@@ -178,7 +178,7 @@ espelhando, tanto quanto possível, sua lei de criação ou autorização.
    Estado, de forma a aumentar a eficácia e a qualidade dos serviços prestados
    aos cidadãos; (...)"
  
-Capítulo II: DA ESTRUTURA ORGANIZACIONAL
+Capítulo II — DA ESTRUTURA ORGANIZACIONAL
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  
 Por padrão, abrange somente um artigo, que traz a organização interna da entidade
