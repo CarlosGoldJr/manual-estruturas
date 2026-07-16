@@ -16,7 +16,7 @@ Passo a passo
 .. figure:: ../_static/images/latest.png
    :alt: Menu de Versões
    :align: center
-   :scale: 40
+   :scale: 20
 
    Menu de versões "latest".
 
@@ -31,7 +31,7 @@ Passo a passo
 .. figure:: ../_static/images/download_pdf.png
    :alt: Download do Manual em PDF
    :align: center
-   :scale: 60
+   :scale: 80
 
    Opção para download do manual em pdf
 
