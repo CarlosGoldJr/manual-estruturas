@@ -122,13 +122,15 @@ table.center-table th {
 figure figcaption,
 .figure .caption,
 table caption,
-figure figcaption .caption-number,
-.figure .caption .caption-number {
+figure figcaption p,
+.figure .caption p,
+table caption p {
     font-size: 12px !important;
     color: var(--color-foreground-muted) !important;
     line-height: 1.4;
-
-    text-align: center !important;
+    
+    /* Agora sim, a ordem de centralizar vai atingir o parágrafo da legenda! */
+    text-align: center !important; 
 }
 
 /* =========================================
