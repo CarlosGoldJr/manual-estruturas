@@ -40,6 +40,10 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
 
 .. only:: html
    
+   **Precisa gerar o PDF do Manual?**
+
+   Caso precise do Manual para consultas offline ou mesmo para impressão acesse :ref:`gerar_pdf`.
+
    .. admonition:: Bibliografia
 
       Acesse :doc:`bibliografia` para ter acesso a todos os materiais e links utilizados neste documento.
