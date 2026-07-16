@@ -45,6 +45,14 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
       Acesse :doc:`bibliografia` para ter acesso a todos os materiais e links utilizados neste documento.
 
 
+.. only:: html
+
+   .. toctree::
+      :hidden:
+      :titlesonly:
+
+      00_como_gerar_pdf/index
+
 .. toctree::
    :hidden:
    :titlesonly:
