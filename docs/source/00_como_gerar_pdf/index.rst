@@ -10,13 +10,13 @@ para obtê-lo — basta seguir os passos abaixo.
 Passo a passo
 -------------
 
-1. Localize o menu de versões no canto inferior direito da página. Ele mostra a versão atual da documentação.
+1. Localize o menu de versões no canto inferior direito da página. 
 
 .. _latest:
 .. figure:: ../_static/images/latest.png
    :alt: Menu de Versões
    :align: center
-   :scale: 60
+   :scale: 40
 
    Menu de versões "latest".
 

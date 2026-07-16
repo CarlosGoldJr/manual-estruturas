@@ -127,6 +127,8 @@ figure figcaption .caption-number,
     font-size: 12px !important;
     color: var(--color-foreground-muted) !important;
     line-height: 1.4;
+
+    text-align: center !important;
 }
 
 /* =========================================
