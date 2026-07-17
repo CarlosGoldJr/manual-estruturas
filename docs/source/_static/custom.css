@@ -122,15 +122,21 @@ table.center-table th {
 figure figcaption,
 .figure .caption,
 table caption,
-figure figcaption p,
-.figure .caption p,
-table caption p {
+figure figcaption .caption-number,
+.figure .caption .caption-number {
     font-size: 12px !important;
     color: var(--color-foreground-muted) !important;
     line-height: 1.4;
-    
-    /* Agora sim, a ordem de centralizar vai atingir o parágrafo da legenda! */
-    text-align: center !important; 
+}
+
+/* Centraliza a legenda das figuras, para acompanhar a imagem centralizada
+   (:align: center). Precisa da mesma especificidade da regra de
+   justificação da Seção 1 (.main .content p) para conseguir sobrepô-la. */
+.main .content figure figcaption,
+.main .content figure figcaption p,
+.main .content .figure .caption,
+.main .content .figure .caption p {
+    text-align: center !important;
 }
 
 /* =========================================
