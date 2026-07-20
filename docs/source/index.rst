@@ -1,7 +1,7 @@
 Estruturas Organizacionais
 ==========================
 
-.. figure:: _static/images/banner_inicial2.png
+.. figure:: _static/images/banner_inicial.png
 
 
 Este manual reúne as orientações necessárias para elaborar e revisar estruturas
@@ -55,18 +55,18 @@ Acesse o conteúdo pelo menu lateral ou faça o download da versão em PDF.
       :hidden:
       :titlesonly:
 
-      00_como_gerar_pdf/index
+      gerar_pdf/index
 
 .. toctree::
    :hidden:
    :titlesonly:
 
-   01_Introducao/index
-   02_Organizacao/index
-   04_Conceitos/index
-   05_Cargos/index
-   07_alterar_estrut_regim/index
-   11_AnexoII/index
+   Introducao/index
+   Organizacao/index
+   Conceitos/index
+   Cargos/index
+   Como_alterar_estrut_regim/index
+   AnexoII/index
 
 
 .. only:: latex

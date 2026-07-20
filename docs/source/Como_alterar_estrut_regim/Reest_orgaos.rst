@@ -127,7 +127,9 @@ IV - órgãos colegiados (se houver): engloba colegiados criados por lei, sob
 responsabilidade do órgão.
 
 V - entidades vinculadas (se houver): engloba autarquias, fundações públicas
-e empresas públicas vinculadas ao órgão.  
+e empresas públicas vinculadas ao órgão. 
+
+Observe que a ordem das unidades estabelecida no art. 2º definirá a ordem das unidades dispostas no Capítulo III e no :ref:`AnexoIIa`.  
 
 
 **Exemplo simplificado**
@@ -144,19 +146,7 @@ e empresas públicas vinculadas ao órgão.
 Capítulo III — DAS COMPETÊNCIAS DOS ÓRGÃOS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Esse capítulo descreve as competências de todas as unidades organizacionais
-elencadas no art. 2º, na exata ordem em que lá aparecem. Para cada grupo de
-unidades, haverá uma Seção específica. Para cada unidade organizacional,
-haverá um artigo.
-
-.. note::
- 
-   A redação de competências segue as regras e boas práticas definidas no
-   `Decreto nº 12.002, de 22 de abril de 2024 <decreto-12002_>`_.
- 
-   Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas
-   específicas e, em alguns casos, a redação de suas competências foi padronizada
-   pelo órgão central do sistema.
+Esse capítulo descreve as competências de todas as unidades organizacionais elencadas no art. 2º, na exata ordem em que lá aparecem. Para cada grupo de unidades, haverá uma Seção específica. Para cada unidade organizacional, haverá um artigo.
 
 Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com status ministerial, conforme a `Lei nº 14.600, de 19 de junho de 2023 <lei-14600_>`_, o Capítulo III começa por ele.
 
@@ -172,6 +162,58 @@ Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com
  
    I - xxx"
  
+Regras sobre a redação de competências
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+O detalhamento das competências, no Decreto, não pode extrapolar o escopo de atuação fixado na Lei. O objetivo é apenas detalhá-las e organizar a sua distribuição entre as Secretarias ou Departamentos, de forma harmoniosa e clara, visando a implementação da estratégia organizacional. É relevante, ainda, garantir que não haja conflitos de competência internos, entre as diversas unidades administrativas, ou externos, em relação a outros órgãos ou entidades.
+
+.. note::
+ 
+   A redação de competências obedece as regras gerais e boas práticas definidas no `Decreto nº 12.002, de 22 de abril de 2024 <decreto-12002_>`_.
+ 
+   Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas específicas e, em alguns casos, a redação de suas competências foi padronizada pelo órgão central do sistema.
+
+Também é importante dar preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce, **e evitar o uso** de:
+
+* expressões ou locuções verbais;
+
+ **Exemplos de construções a serem evitadas:**
+  * “tratar de assuntos relativos a ...”;
+  * “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
+  * “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
+  * “empreender a articulação das ações governamentais”; e
+  * “manter registro” – substituir por registrar e armazenar;
+
+* verbos usualmente utilizados para definir objetivos institucionais ou políticas públicas, mas que não costumam ser adequados para competências de unidades, como “promover”, “assegurar” e “garantir”; 
+
+* verbos no gerúndio, que indicam a forma como a competência é realizada, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
+
+* adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
+
+* competências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
+
+.. warning::
+ 
+   Não devem ser inseridas no Decreto as atividades de rotina administrativa interna, as atividades que são comuns ou que podem ser realizadas por todas as unidades, nem atribuições indefinidas, tais como:
+   
+   * preparar ou participar de reuniões;
+   * coletar, sistematizar, consolidar, analisar dados e/ou informações;
+   * elaborar regimento interno;
+   * articular-se ou realizar articulação com outras unidades do Ministério;
+   * acompanhar assuntos de sua competência;
+   * fornecer subsídios;
+   * propor, realizar ou promover estudos, projetos e/ou análises;
+   * subsidiar a elaboração da proposição orçamentária da unidade;
+   * assistir o Ministro nos assuntos de competência da Secretaria;
+   * assistir o Secretário nos assuntos de competência do Departamento;
+   * representar a Secretaria;
+   * realizar outras atividades correlatas estabelecidas pelo Ministro ou Secretário; e
+   * exercer outras atribuições determinadas pelo Ministro ou Secretário.
+   
+   Por ser bastante comum, o último exemplo acima merece um comentário adicional. As 
+   competências são estabelecidas pelo decreto que aprova a estrutura regimental do órgão, motivo pelo qual não cabe o uso da expressão “exercer outras competências que lhe forem cometidas”.
+   Caso o órgão julgue necessário atribuir tais atividades a unidades ou subunidades administrativas, isso poderá ser feito no regimento interno. 
+
 .. hint::
  
    Alterações pontuais de competências de unidades existentes serão feitas na forma
@@ -219,7 +261,7 @@ Como o Gabinete do Ministro é uma unidade obrigatória em todos os órgãos com
  
 
 Capítulo IV — DAS ATRIBUIÇÕES DOS DIRIGENTES
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Esse capítulo descreve as atribuições dos principais dirigentes do órgão, destacando-se aqueles que ocupam cargos ou funções de nível 17 ou 18.
 
@@ -257,6 +299,8 @@ Adota-se seções específicas, com um artigo cada, para tratar, separada e resp
    Art. 69.  Ao Chefe de Gabinete do Ministro de Estado, aos Chefes de Assessorias Especiais, ao Consultor Jurídico, aos Subsecretários, aos Diretores, ao Corregedor, ao Ouvidor-Geral, aos Coordenadores-Gerais, aos Coordenadores e aos demais dirigentes incumbe planejar, dirigir, coordenar e orientar a execução das atividades de suas unidades e exercer outras atribuições que lhes forem cometidas pelo Ministro de Estado no âmbito de sua competência.
 
  
+.. _AnexoIIa:
+
 Anexo IIa: Quadro demonstrativo dos cargos em comissão e das funções comissionadas
 ----------------------------------------------------------------------------------
  
@@ -271,7 +315,7 @@ funções comissionadas de que o órgão dispõe, representados por códigos, co
    :align: center
    :scale: 60
  
-   Exemplo de Anexo II a — quadro demonstrativo de cargos e funções.
+   Exemplo de Anexo IIa — quadro demonstrativo de cargos e funções.
  
 Cada cargo ou função tem um código que identifica o tipo, a categoria e o nível. A :numref:`fig-codigo-cce-fce` ilustra cada parte do código.
  
@@ -338,7 +382,6 @@ de nível 17 ou 18:
    a todos os demais deve ser associada uma unidade sem nomenclatura específica.
  
 **Linhas seguintes**
-
  
 Observam a ordem decrescente de nível. Dentro do mesmo nível, observa-se a ordem
 crescente da categoria. Se existe um cargo e uma função com a mesma categoria e
@@ -349,27 +392,23 @@ com a próxima unidade descrita no art. 2º do Anexo I.
  
 .. admonition:: Pontos de atenção
  
-   #. O cargo do Ministro não consta no quadro.
+    #. O cargo do Ministro não consta no quadro.
  
-   #. Os primeiros cargos e funções constantes na tabela serão os que assessoram
-      diretamente o Ministro (categorias 2 ou 3).
+    #. Os primeiros cargos e funções constantes na tabela serão os que assessoram diretamente o Ministro (categorias 2 ou 3).
  
-   #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação
-      entre si.
+    #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação entre si.
  
-   #. Todas as alterações realizadas por portaria ministerial devem ser consideradas
-      no novo quadro demonstrativo (e no quadro resumo de custos), já que esse será
-      o retrato mais recente da estrutura do órgão. Alterações não incorporadas
-      — ainda que acidentalmente — exigirão nova portaria ministerial de realocação
-      ou permuta e, provavelmente, novos atos de nomeação ou designação.
+    #. Todas as alterações realizadas por portaria ministerial devem ser consideradas no novo quadro demonstrativo (e no quadro resumo de custos), já que esse será o retrato mais recente da estrutura do órgão. Alterações não incorporadas — ainda que acidentalmente — exigirão nova portaria ministerial de realocação ou permuta e, provavelmente, novos atos de nomeação ou designação.
  
-   #. O custo da estrutura proposta deve ser avaliado antes de sua construção.
-      Propostas com impacto orçamentário dependem da disponibilidade de cargos e
-      funções na reserva técnica e exigem articulação junto à Seges, podendo não
-      ser acatadas em sua integralidade, ainda que cumpram requisitos legais e de
-      boas práticas.
- 
+    #. O custo da estrutura proposta deve ser avaliado antes de sua construção. Propostas com impacto orçamentário dependem da disponibilidade de cargos e funções na reserva técnica e exigem articulação junto à Seges, podendo não ser acatadas em sua integralidade, ainda que cumpram requisitos legais e de boas práticas.
 
+    #. Sugere-se que a data de vigência (*vacatio legis*) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
+    
+     Esses são os prazos estabelecidos pelo `art. 14 do Decreto nº 9.739, de 2019 <decreto-9739-art14_>`_:
+
+     * o dia útil anterior à data de entrada em vigor do decreto; ou
+     * vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
+ 
 
 Demais tabelas que compõem um decreto de estrutura regimental
 -------------------------------------------------------------
@@ -378,7 +417,7 @@ Anexo IIb: Quadro resumo de custos
 ++++++++++++++++++++++++++++++++++
  
 O Quadro resumo de custos informa o tamanho da estrutura organizacional de um
-órgão ou entidade em CCE-unitários (:ref:`cce-unitario`).
+órgão, em CCE-unitários (:ref:`cce-unitario`).
  
 Quando a estrutura está sendo alterada, esse quadro demonstra a situação nova em
 relação à situação atual, agregando os cargos e funções de mesmo código e
@@ -391,7 +430,7 @@ mostrando seu somatório.
  
    Exemplo de quadro resumo de custos
  
-A planilha disponibilizada pelo Departamento de Modelos Organizacionais produz
+A :ref:`planilha` disponibilizada pelo Diretoria de Modelos Organizacionais produz
 esse quadro automaticamente a partir do novo quadro demonstrativo informado
 pelo órgão.
  
@@ -425,7 +464,7 @@ nessas tabelas devem ser idênticas àquelas listadas no corpo do decreto.
  
    Exemplo de tabela de remanejamento e o correspondente texto no corpo do decreto
  
-A planilha disponibilizada pelo Departamento de Modelos Organizacionais produz
+A :ref:`planilha` disponibilizada pela Diretoria de Modelos Organizacionais produz
 esses quadros automaticamente a partir do novo quadro demonstrativo informado
 pelo órgão.
  
@@ -442,9 +481,9 @@ ou negativa.
  
 Existem dois cenários para a geração dessa tabela:
  
-#. **A proposta parte dos cargos e funções já disponíveis no órgão ou entidade**
+#. **A proposta parte dos cargos e funções já disponíveis no órgão**
    — os cargos e funções que deixam de existir têm custo total igual ou maior ao
-   dos novos. Nesse caso, a planilha disponibilizada pelo Departamento de Modelos
+   dos novos. Nesse caso, a :ref:`planilha` disponibilizada pela Diretoria de Modelos
    Organizacionais produz o quadro automaticamente a partir do novo quadro
    demonstrativo informado pelo órgão.
 
@@ -600,7 +639,7 @@ Sobre as competências: necessariamente descritas em Decreto, definidas pelo
  
    A nomeação, a designação, a exoneração ou a dispensa dos titulares das
    unidades setoriais do Sistema de Ouvidoria do Poder Executivo federal será
-   submetida, pelo dirigente máximo do órgão ou da entidade, à aprovação da
+   submetida, pelo dirigente máximo do órgão, à aprovação da
    Controladoria-Geral da União.
  
 Corregedoria
@@ -740,13 +779,13 @@ todas as competências definidas na lei que estabelece a organização básica d
  
 Regras específicas sobre a estrutura de cargos e funções que compõem as Secretarias:
  
-#. As Secretarias usualmente contam com um Gabinete (chefiado por um Chefe de
+#. As Secretarias mais robustas usualmente contam com um Gabinete (chefiado por um Chefe de
    Gabinete, ocupante de CCE ou FCE de código 1.13 ou 1.14, sem competências ou
    estrutura discriminada em Decreto) e um Secretário-Adjunto, de código 1.15 ou
    1.16.
  
 #. Às Secretarias se subordinam Diretorias ou Departamentos, responsáveis por
-   executar as atividades, políticas e programas planejados no âmbito da Secretaria.
+   executar as atividades, políticas e programas planejados no âmbito da Secretaria. Devem ser evitadas Secretarias formadas por apenas uma Diretoria ou Departamento.
  
 #. É possível estruturar uma ou mais unidades de nível 14 ou menor para atuação
    na assistência direta ao Secretário. No entanto, sugere-se cautela nessa medida,
@@ -774,9 +813,9 @@ e Departamentos:
  
 #. Não é desejável a estruturação de gabinete em Diretorias e Departamentos.
  
-#. Às Diretorias e Departamentos podem se subordinar todas as unidades e cargos
+#. Às Diretorias e aos Departamentos podem se subordinar todas as unidades e cargos
    e funções de nível inferior àquele atribuído ao Diretor, à exceção das unidades
-   reservadas à assessoria direta e imediata ao Ministro.
+   reservadas à assessoria direta e imediata ao Ministro. Devem ser evitadas Diretorias e Departamentos formados por apenas uma Coordenação-Geral, salvo quando sua natureza justificar uma estrutura formada por Gerentes de Projeto.
  
 #. Todas as unidades, cargos e funções subordinados às Diretorias e Departamentos
    comporão um único bloco, organizando-se conforme regras associadas ao Quadro
@@ -789,30 +828,27 @@ Unidades obrigatórias: não
  
 Nomenclatura permite complemento: não
  
-Sobre o titular:
+Sobre o titular: conforme :ref:`denominacoesCCEFCE`, para Código 1.14 ou menor. 
  
 .. TODO: inserir referência à tabela de titulares por tipo de unidade
  
 Sobre as competências: não constam em Decreto, mas precisam ser inseridas no
 sistema informatizado Siorg.
  
-Regra específica sobre a estrutura de cargos e funções que compõem as demais
-unidades: devem ser agrupados, abaixo da Diretoria ou Departamento superior,
-conforme regras associadas ao Quadro demonstrativo dos cargos em comissão e das
-funções comissionadas.
+Regra específica sobre a estrutura de cargos e funções que compõem essas unidades: devem ser agrupados, abaixo da Diretoria ou Departamento superior, conforme regras associadas ao Quadro demonstrativo dos cargos em comissão e das funções comissionadas.
  
 Unidades descentralizadas
 ~~~~~~~~~~~~~~~~~~~~~~~~~
  
 O termo se refere à descentralização física, ou seja, às unidades do órgão
-situadas em município diferente do da sede e que executam ações em nível local.
+situadas em município diferente do da sede e que executam ações em nível local ou regional.
  
 Unidades obrigatórias: não
  
 Sobre a nomenclatura da unidade: definida conforme atuação. São exemplos comuns
 as Superintendências Federais.
  
-Sobre o titular: nomenclatura definida conforme a da unidade (por exemplo,
+Sobre o titular: nomenclatura definida conforme unidade (por exemplo,
 Superintendente). O titular será ocupante de CCE ou FCE de categoria 1, com nível
 definido pelo órgão, conforme volume de processos e pessoas alocadas, e nível de
 complexidade.
@@ -825,7 +861,7 @@ complexidade.
    "Diretoria" e "Coordenação-Geral".
  
 Sobre as competências: necessariamente descritas em Decreto, em seção própria,
-independentemente da subordinação. A subordinação deve constar no caput do artigo
+independentemente da subordinação. A subordinação deve constar no *caput* do artigo
 específico.
  
 .. admonition:: Exemplo
@@ -868,20 +904,15 @@ diferenciadas. Seus representantes podem ser originários do setor público, do
 setor privado ou da sociedade civil, segundo a natureza da representação. São
 conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões, entre outros.
  
-Alguns órgãos ou entidades do Poder Executivo federal dispõem, dentro de seu
+Alguns órgãos do Poder Executivo federal dispõem, dentro de seu
 sistema de governança organizacional, de órgãos colegiados de caráter
 deliberativo, consultivo ou judicante, criados com o propósito de contribuir para
 o processo decisório institucional de condução de determinada política pública.
 Esses colegiados participam das decisões sobre os rumos das políticas e não sobre
 questões de gestão interna dos órgãos aos quais se vinculam.
  
-Esses órgãos, embora previstos na estrutura organizacional, não dispõem de
-estrutura interna de cargos e se constituem por representantes de órgãos e
-entidades do Poder Público e, em alguns casos, também de entidades privadas
-(composição pluripessoal). Seus membros não detêm cargos pela participação no
-conselho e não recebem remuneração de qualquer natureza por essa função.
-Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior
-do órgão ou entidade ao qual ele está subordinado.
+Esses órgãos, embora previstos na estrutura organizacional, não costumam dispor de estrutura interna de cargos (exceto se houver previsão legal para tanto), e usualmente se constituem por representantes de órgãos e entidades do Poder Público e, em alguns casos, também de entidades privadas (composição pluripessoal). Seus membros não detêm cargos pela participação no conselho e não recebem remuneração de qualquer natureza por essa função.
+Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade ao qual ele está subordinado.
  
 A criação de colegiados, a ser tratada em ato normativo à parte do decreto de
 estrutura regimental ou estatuto, deve observar os critérios estabelecidos no
@@ -1025,13 +1056,8 @@ Outras regras a serem observadas
   diversa da prevista no `art. 50 da Lei nº 14.600, de 19 de junho de 2023 <lei-14600-art50_>`_.
  
 * Evitar a divisão vertical da estrutura organizacional em mais de quatro níveis
-  hierárquicos (a contar da unidade DAS/FCPE nível 6 ou, na ausência deste, a
-  contar da unidade de nível imediatamente inferior, no caso dos Ministérios e
-  Órgãos da Presidência da República, e a contar do nível 5 no caso das autarquias
-  e fundações), para agilizar a tomada de decisão e reduzir a necessidade de
-  ajustes no curto prazo nos níveis mais baixos. Esta diretriz não se aplica às
-  unidades descentralizadas nem às Funções Gratificadas.
- 
+  hierárquicos (a contar da unidade CCE/FCE de nível 17, no caso dos Ministérios e Órgãos da Presidência da República; e do nível 15 no caso das autarquias e fundações). Estruturas menos verticais tornam mais ágeis a tomada de decisão e reduzem a necessidade de ajustes no curto prazo, nos níveis mais baixos. Esta diretriz não se aplica às unidades descentralizadas nem às Funções Gratificadas.
+  
   .. TODO: inserir :numref: das figuras sobre níveis hierárquicos máximos
  
 * Evitar a existência ou criação de unidades administrativas com menos de sete
@@ -1043,6 +1069,7 @@ Outras regras a serem observadas
 .. Referências externas — legislação
 .. ---------------------------------------------------------------------------
  
+.. _decreto-9739-art14: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9739.htm#Art14
 .. _lei-14600: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14600.htm
 .. _lei-14600-art50: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14600.htm#Art50
 .. _decreto-10829: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm

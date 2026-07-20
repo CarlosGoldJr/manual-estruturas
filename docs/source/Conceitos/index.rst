@@ -3,7 +3,7 @@ Conceitos básicos
 =================
 .. admonition:: Sobre este capítulo
  
-   Neste capítulo você encontrará as definições dos principais conceitos
+   Neste capítulo, você encontrará as definições dos principais conceitos
    relacionados às estruturas organizacionais do Poder Executivo Federal.
  
 .. _estrut_regim:
@@ -17,7 +17,7 @@ Para ministérios e órgãos da Presidência da República, a estrutura regiment
 descreve as áreas de competência, desdobra o conjunto de órgãos e unidades
 administrativas integrantes da estrutura básica e relaciona as respectivas
 competências, atribuições dos dirigentes e outros assuntos inerentes à sua
-organização como disposições gerais ou transitórias.
+organização, como disposições gerais ou transitórias.
  
 Para autarquias do Poder Executivo Federal, a estrutura regimental descreve as
 finalidades, competências, natureza, sede, conforme estabelecidas em lei, bem como
@@ -179,38 +179,25 @@ regimental, mas deve ser expressa pelas suas áreas de competências.
 Reserva técnica
 ---------------
 
-Usualmente, a expressão *reserva técnica* designa o conjunto de cargos e de
-funções, criados por lei, que transitam pela SEGES para administrar a distribuição
-para órgãos e entidades do Poder Executivo. Embora se utilize a denominação *reserva
-técnica*, trata-se, tão somente, de local específico para realizar remanejamentos temporários ou trocas ou transformações necessárias para revisão das estruturas organizacionais em análise.
+Usualmente, a expressão *reserva técnica* designa o local de armazenamento do conjunto de cargos e de
+funções, criados por lei, que transitam pelo órgão central do Sistema de Organização e Inovação Institucional - Siorg. A *reserva técnica* permite, assim, administrar a distribuição dos cargos e funções para órgãos e entidades do Poder Executivo, seja visando remanejamentos temporários, trocas ou transformações necessárias à revisão das estruturas organizacionais.
 
- 
-Dessa forma, os decretos de estrutura organizacional tipicamente envolvem trocas de
-cargos e funções com a *reserva técnica*. Mesmo nas propostas em que o órgão ou
-entidade já dispõe dos cargos necessários à alteração ou à aprovação de uma nova estrutura organizacional, os decretos determinam expressamente:
+Dessa forma, os decretos que aprovam ou alteram uma estrutura organizacional tipicamente descrevem trocas de
+cargos e funções com a *reserva técnica*, e determinam expressamente:
  
 1. o remanejamento de um conjunto de cargos em comissão e funções de confiança para
    a *reserva técnica* e, em seguida,
  
 2. o remanejamento de outro conjunto de volta ao proponente.
  
-Esse procedimento reflete o próprio sentido do termo *remanejar* — realocar cargos e
-funções de forma a viabilizar as modificações necessárias na estrutura organizacional.
-A *reserva técnica* é, portanto, o ponto de passagem que torna possível as alterações na 
-estrutura organizacional.
+Esse procedimento reflete o próprio sentido do termo *remanejar*: realocar cargos e
+funções de forma a viabilizar as modificações necessárias na estrutura organizacional que envolvam seu fortalecimento, alteração da categoria de cargos e funções existentes na estrutura ou sua transformação em cargos e funções de níveis diferentes.
  
 O montante disponível na *reserva técnica* depende do dia em que se avalia o seu
-quantitativo, pois trata-se de montante dinâmico sujeito a permanentes alterações em
-razão das diversas revisões organizacionais promovidas durante determinado período.
+quantitativo, pois trata-se de montante dinâmico, sujeito a permanentes alterações em razão das diversas revisões organizacionais promovidas durante determinado período.
 Não existe um tamanho mínimo ou máximo definido: sua oscilação depende das propostas
 de revisão de estruturas organizacionais e de novos atos normativos que envolvem a
-criação de novos cargos e funções.
- 
-O montante disponível da *reserva técnica* tende a zero, pois não há interesse da
-SEGES, como órgão central do SIORG, em manter cargos em comissão e funções de
-confiança sem distribuição, já que, uma vez criados por lei, devem ser distribuídos
-para utilização.
- 
+criação de novos cargos e funções. 
  
 Sistemas Estruturadores
 -----------------------
@@ -241,10 +228,12 @@ controle e eficiência na implementação das políticas públicas.
    * **Sistema de Controle Interno:** Auditoria e fiscalização dos gastos.
    * **Sistema de Correição:** Apuração de irregularidades e aplicação de sanções.
    * **Sistema de Ouvidorias:** Canal de comunicação e participação do cidadão.
+   * **Sigpar (Gestão de Parcerias da União):** Instituído pelo `Decreto nº 11.271, de 5 de dezembro de 2022 <decreto-11271_>`_, com vistas a organizar as atividades de planejamento, coordenação, orientação e gestão das parcerias para implementação de políticas públicas de forma descentralizada, no âmbito dos órgãos e das entidades da administração pública federal integrantes dos Orçamentos Fiscal e da Seguridade Social da União.
    * **SITAI (Integridade, Transparência e Acesso à Informação):** Sistema unificado
      instituído pelo `Decreto nº 11.529, de 16 de maio de 2023 <decreto-11529_>`_
      para fortalecer a ética, a transparência e o cumprimento da Lei de Acesso à
      Informação.
+   * **SISEST (Coordenação da Governança e da Supervisão Ministerial das Empresas Estatais Federais):** Instituído pelo `Decreto nº 12.302, de 9 de dezembro de 2024 <decreto-12302_>`_, com a finalidade de organizar as atividades de supervisão ministerial e de coordenação da governança das empresas estatais federais no âmbito do Poder Executivo federal.
  
 A diretriz normativa para os Sistemas Estruturadores é o art. 30
 `Decreto-Lei nº 200, de 25 de fevereiro de 1967 <dl-200_>`_.
@@ -303,10 +292,9 @@ Sistemas Estruturantes
  
 .. note::
  
-   O termo *Sistemas Estruturantes* refere-se às plataformas de TI e sistemas de
-   software que operacionalizam as funções dos Sistemas Estruturadores. Por exemplo:
-   o SIAFI (sistema) operacionaliza o Sistema de Administração Financeira; o SIAPE
-   (sistema) operacionaliza o SIPEC.
+   O termo *Sistemas Estruturantes* refere-se às plataformas de tecnologia da informação e sistemas informatizados que operacionalizam as funções dos Sistemas Estruturadores. Por exemplo:
+   o SIAFI (sistema informatizado) operacionaliza o Sistema de Administração Financeira; o SIAPE
+   (sistema informatizado) operacionaliza o SIPEC.
  
  
 .. _siorg:
@@ -532,3 +520,5 @@ Classificação doutrinária conforme :cite:`di_pietro_2023` e
 .. _decreto-12002: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D12002.htm
 .. _decreto-11529: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/decreto/D11529.htm
 .. _decreto-12904: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/D12904.htm
+.. _decreto-12302: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d12302.htm
+.. _decreto-11271: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11271.htm

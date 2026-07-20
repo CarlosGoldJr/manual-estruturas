@@ -22,10 +22,10 @@ Como alterar uma estrutura regimental
 .. toctree::
    :hidden:
 
-   01_fluxo_reestruturacao
-   04_altera_minist_anex_1
-   08_altera_autarc_anex_1
-   11_parecer_merito
+   Regras gerais
+   Reest_orgaos
+   Reest_entidades
+   Parecer_merito
    
 
 

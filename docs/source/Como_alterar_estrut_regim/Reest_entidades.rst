@@ -184,25 +184,16 @@ Capítulo II — DA ESTRUTURA ORGANIZACIONAL
 Por padrão, abrange somente um artigo, que traz a organização interna da entidade
 (uma descrição de seu organograma básico), dividida, geralmente, da seguinte forma:
  
-* **I —** órgãos de assistência direta e imediata à autoridade máxima da entidade:
-  engloba todas as unidades de assessoria direta, começando pelo Gabinete da
-  autoridade máxima e seguindo com suas Assessorias (vide :ref:`assistencia-entidade`).
+I — órgãos de assistência direta e imediata à autoridade máxima da entidade: engloba todas as unidades de assessoria direta, começando pelo Gabinete da autoridade máxima e seguindo com suas Assessorias (vide :ref:`assistencia-entidade`).
  
-* **II —** órgãos seccionais: unidades que atuam como suporte administrativo
-  setorial. São exemplos de órgãos seccionais a Ouvidoria, a Corregedoria, a
-  Auditoria Interna, a Procuradoria Federal e a Diretoria responsável pelas
-  atividades de planejamento, administração, gestão, finanças, logística,
-  governança, inovação e tecnologia da informação.
+II — órgãos seccionais: unidades que atuam como suporte administrativo setorial. São exemplos de órgãos seccionais a Ouvidoria, a Corregedoria, a Auditoria Interna, a Procuradoria Federal e a Diretoria responsável pelas atividades de planejamento, administração, gestão, finanças, logística, governança, inovação e tecnologia da informação.
  
-* **III —** órgãos específicos singulares: engloba as unidades finalísticas do
-  órgão, ou seja, as Diretorias e Departamentos.
+III —órgãos específicos singulares: engloba as unidades finalísticas do órgão, ou seja, as Diretorias e Departamentos.
  
-* **IV —** unidades descentralizadas (se houver): engloba todas as unidades
-  situadas em município distinto ao da sede do órgão.
+IV — unidades descentralizadas (se houver): engloba todas as unidades situadas em município distinto ao da sede do órgão.
  
-* **V —** órgãos colegiados (se houver): engloba colegiados criados por lei, sob
-  responsabilidade do órgão.
- 
+V — órgãos colegiados (se houver): engloba colegiados criados por lei, sob responsabilidade do órgão. 
+
 Exemplo simplificado:
  
 .. _organograma-entidade:
@@ -215,10 +206,7 @@ Exemplo simplificado:
 .. warning::
  
    A ordem definida nesse artigo determinará a ordem das competências descritas no
-   Capítulo IV e do Quadro demonstrativo de cargos e funções (Anexo II). A regra
-   é: se a unidade está elencada no art. 2º, ela deve ter suas competências
-   descritas e sua estrutura de cargos e funções definida. A exceção é válida para
-   órgãos colegiados quanto ao quadro demonstrativo (já que não são unidades
+   Capítulo IV e do :ref:`AnexoIIa. A regra é: se a unidade está elencada no art. 2º, ela deve ter suas competências descritas e sua estrutura de cargos e funções definida. A exceção é válida para órgãos colegiados quanto ao quadro demonstrativo (já que não são usualmente unidades
    administrativas).
  
 Capítulo III — DA DIREÇÃO E DA NOMEAÇÃO
@@ -242,17 +230,7 @@ elencadas no art. 2º, na exata ordem em que lá aparecem. Para cada grupo de
 unidades, haverá uma Seção específica. Para cada unidade organizacional, haverá
 um artigo.
  
-.. note::
- 
-   A redação de competências segue regras e boas práticas gerais definidas no
-   `Decreto nº 12.002, de 22 de abril de 2024 <decreto-12002_>`_.
- 
-   Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas
-   específicas e, em alguns casos, a redação de suas competências foi padronizada
-   pelo órgão central do sistema.
- 
-O Gabinete da autoridade máxima constitui-se como unidade obrigatória das
-entidades, de forma que o Capítulo IV começa por ele:
+O Gabinete da autoridade máxima constitui-se como unidade obrigatória das entidades, de forma que o Capítulo IV começa por ele:
  
 .. admonition:: Exemplo — abertura do Capítulo IV
  
@@ -265,6 +243,58 @@ entidades, de forma que o Capítulo IV começa por ele:
  
    I - xxx"
  
+Regras sobre a redação de competências
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+O detalhamento das competências, no Decreto, não pode extrapolar o escopo de atuação fixado na Lei para a entidade. O objetivo é apenas detalhá-las e organizar a sua distribuição entre as Diretorias ou Departamentos, de forma harmoniosa e clara, visando a implementação da estratégia organizacional. É relevante, ainda, garantir que não haja conflitos de competência internos, entre as diversas unidades administrativas, ou externos, em relação a outros órgãos ou entidades.
+
+.. note::
+ 
+   A redação de competências obedece as regras gerais e boas práticas definidas no `Decreto nº 12.002, de 22 de abril de 2024 <decreto-12002_>`_.
+ 
+   Todas as unidades setoriais têm suas atribuições gerais estabelecidas por normas específicas e, em alguns casos, a redação de suas competências foi padronizada pelo órgão central do sistema.
+
+Também é importante dar preferência a construções simples e diretas, compostas pelo verbo que exprime a função pública que a unidade exerce **e evitar o uso** de:
+
+* expressões ou locuções verbais;
+
+ **Exemplos de expressões a serem evitadas:**
+  * “tratar de assuntos relativos a ...”;
+  * “realizar a coordenação de políticas...” ou “realizar gestões junto a ...”;
+  * “atuar para promover a articulação e a orientação” ou ainda “promover a articulação”;
+  * “empreender a articulação das ações governamentais”; e
+  * “manter registro” – substituir por registrar e armazenar;
+
+* verbos usualmente utilizados para definir objetivos institucionais ou políticas públicas, mas que não costumam ser adequados para competências de unidades, como “promover”, “assegurar” e “garantir”; 
+
+* verbos no gerúndio, que indicam a forma como a competência é realizada, como “disseminando”, “articulando”, “realizando”, “ampliando o acesso”;
+
+* adjetivos na descrição das competências, como “estreita articulação”, “articulação abrangente”, “gestão eficiente dos recursos”;
+
+* competências redundantes, para a mesma unidade, como “coordenar a formulação de políticas setoriais” e “subsidiar a formulação de políticas públicas setoriais”.
+
+.. warning::
+ 
+    Não devem ser inseridas no Decreto as atividades de rotina administrativa interna, as atividades que são comuns ou que podem ser realizadas por todas as unidades, nem atribuições indefinidas, tais como:
+   
+   * preparar ou participar de reuniões;
+   * coletar, sistematizar, consolidar, analisar dados e/ou informações;
+   * elaborar regimento interno;
+   * articular-se ou realizar articulação com outras unidades do Ministério ou da entidade;
+   * acompanhar assuntos de sua competência;
+   * fornecer subsídios;
+   * propor, realizar ou promover estudos, projetos e/ou análises;
+   * subsidiar a elaboração da proposição orçamentária da unidade;
+   * assistir o Ministro nos assuntos de competência da Secretaria;
+   * assistir o Secretário nos assuntos de competência do Departamento;
+   * representar a Secretaria;
+   * realizar outras atividades correlatas estabelecidas pelo Ministro ou Secretário; e
+   * exercer outras atribuições determinadas pelo Ministro ou Secretário.
+   
+   Por ser bastante comum, o último exemplo acima merece um comentário adicional. As 
+   competências são estabelecidas pelo decreto que aprova a estrutura regimental ou o estatuto da entidade, motivo pelo qual não cabe o uso da expressão “exercer outras competências que lhe forem cometidas”.
+   Caso a entidade julgue necessário atribuir tais atividades a unidades ou subunidades administrativas, isso poderá ser feito no regimento interno. 
+
 .. hint::
  
    Alterações pontuais de competências de unidades existentes serão feitas na forma
@@ -366,13 +396,14 @@ equivalente e dos demais dirigentes.
    de um órgão diretor, por exemplo, pode ensejar a inclusão de capítulo que trate
    "Da Diretoria Colegiada".
  
- 
+.. _AnexoIIaent:
+
 Anexo IIa: Quadro demonstrativo dos cargos em comissão e das funções comissionadas
 ----------------------------------------------------------------------------------
  
 O quadro demonstrativo de cargos em comissão e das funções comissionadas é um resumo do organograma da entidade descrito no art. 2º do Anexo I, representado por uma tabela. A fim de facilitar as consultas aos decretos vigentes, convencionou-se substituir esse quadro por inteiro sempre que sofre alterações.
  
-Essa tabela é formada por quatro colunas e traz todos os cargos em comissão e as funções comissionadas de que o órgão dispõe, representados por códigos, conforme mostra a :numref:`fig-anexo-ii-a2`.
+Essa tabela é formada por quatro colunas e traz todos os cargos em comissão e as funções comissionadas de que a entidade dispõe, representados por códigos, conforme mostra a :numref:`fig-anexo-ii-a2`.
  
 .. _fig-anexo-ii-a2:
 .. figure:: ../_static/images/Fig3a_anexoiia.png
@@ -407,7 +438,7 @@ Cada código possui uma ou mais denominações específicas, conforme a
    .. TODO: inserir :ref: ao capítulo sobre tipos, categorias e níveis quando
       rótulo definido
  
-Os cargos e funções existentes no órgão são agrupados conforme regras dispostas
+Os cargos e funções existentes na entidade são agrupados conforme regras dispostas
 no `Decreto nº 10.829, de 5 de outubro de 2021 <decreto-10829_>`_, que já
 orientou o desenho do Anexo I: se a unidade consta no art. 2º, há competência
 descrita e a unidade precisa ser nomeada no quadro demonstrativo. Essa unidade
@@ -450,24 +481,20 @@ com a próxima unidade descrita no art. 2º do Anexo I.
  
 .. admonition:: Pontos de atenção
  
-   #. Os primeiros cargos e funções constantes na tabela serão os que assessoram
-      diretamente a autoridade máxima (categorias 2 ou 3).
+    #. Os primeiros cargos e funções constantes na tabela serão os que assessoram diretamente a autoridade máxima (categorias 2 ou 3).
  
-   #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação
-      entre si.
+    #. Os CCE ou as FCE de mesma denominação não podem ter relação de subordinação entre si.
  
-   #. Todas as alterações realizadas por portaria da autoridade máxima devem ser
-      consideradas no novo quadro demonstrativo (e no quadro resumo de custos), já
-      que esse será o retrato mais recente da estrutura da entidade. Alterações não
-      incorporadas — ainda que acidentalmente — exigirão nova portaria de realocação
-      ou permuta e, provavelmente, novos atos de nomeação ou designação.
+    #. Todas as alterações realizadas por portaria da autoridade máxima devem ser consideradas no novo quadro demonstrativo (e no quadro resumo de custos), já que esse será o retrato mais recente da estrutura da entidade. Alterações não incorporadas — ainda que acidentalmente — exigirão nova portaria de realocação ou permuta e, provavelmente, novos atos de nomeação ou designação.
  
-   #. O custo da estrutura proposta deve sempre ser considerado no ato de sua
-      construção. Propostas com impacto orçamentário dependem da disponibilidade de
-      cargos e funções na reserva técnica e exigem articulação junto à Seges,
-      podendo não ser acatadas em sua integralidade, ainda que cumpram requisitos
-      legais e de boas práticas.
- 
+    #. O custo da estrutura proposta deve sempre ser considerado no ato de sua construção. Propostas com impacto orçamentário dependem da disponibilidade de cargos e funções na reserva técnica e exigem articulação junto à Seges, podendo não ser acatadas em sua integralidade, ainda que cumpram requisitos legais e de boas práticas.
+   
+    #. Sugere-se que a data de vigência (vacatio legis) do decreto que aprovar ou alterar a estrutura regimental seja de, no mínimo, 21 dias após sua publicação, a fim de que haja tempo hábil para o detalhamento, no sistema informatizado do Siorg, de todas as unidades administrativas constantes do quadro demonstrativo de cargos e funções. 
+     
+     São prazos estabelecidos pelo `art. 14 do Decreto nº 9.739, de 2019 <decreto-9739-art14_>`_:
+
+     * o dia útil anterior à data de entrada em vigor do decreto; ou
+     * vinte dias após a data de publicação do decreto, na hipótese de a vacatio legis do decreto ser superior a esse prazo.
 
 Demais tabelas que compõem um decreto de estrutura regimental
 -------------------------------------------------------------
@@ -475,8 +502,7 @@ Demais tabelas que compõem um decreto de estrutura regimental
 Anexo IIb: Quadro resumo de custos
 ++++++++++++++++++++++++++++++++++
  
-O Quadro resumo de custos informa o tamanho da estrutura organizacional de um
-órgão ou entidade em CCE-unitários (:ref:`cce-unitario`).
+O Quadro resumo de custos informa o tamanho da estrutura organizacional de uma entidade, em CCE-unitários (:ref:`cce-unitario`).
  
 Quando a estrutura está sendo alterada, esse quadro demonstra a situação nova em
 relação à situação atual, agregando os cargos e funções de mesmo código e
@@ -489,9 +515,9 @@ mostrando seu somatório.
  
    Exemplo de quadro resumo de custos
  
-A planilha disponibilizada pelo Departamento de Modelos Organizacionais produz
+A :ref:`planilha` disponibilizada pela Diretoria de Modelos Organizacionais produz
 esse quadro automaticamente a partir do novo quadro demonstrativo informado
-pelo órgão.
+pela entidade.
  
 .. warning::
  
@@ -510,7 +536,7 @@ Anexos IIIa e IIIb: Remanejamentos de CCE e FCE
    :ref:`reserva_tec`.
  
 As tabelas constantes nos Anexos III a e III b trazem, respectivamente, a lista
-dos cargos e funções remanejados do órgão para a Seges e da Seges para o órgão.
+dos cargos e funções remanejados da entidade para a Seges e da Seges para a entidade.
  
 Assim como nos demais anexos, essas tabelas consideram a estrutura publicada no
 decreto vigente e contêm os custos de cada remanejamento. As informações constantes
@@ -523,11 +549,12 @@ nessas tabelas devem ser idênticas àquelas listadas no corpo do decreto.
  
    Exemplo de tabela de remanejamento e o correspondente texto no corpo do decreto
  
-A planilha disponibilizada pelo Departamento de Modelos Organizacionais produz
+A :ref:`planilha` disponibilizada pelo Diretoria de Modelos Organizacionais produz
 esses quadros automaticamente a partir do novo quadro demonstrativo informado
-pelo órgão.
+pela entidade.
  
- 
+.. _transformacoes:
+
 Anexo IV: Transformações de CCE e FCE
 +++++++++++++++++++++++++++++++++++++
  
@@ -540,11 +567,11 @@ ou negativa.
  
 Existem dois cenários para a geração dessa tabela:
  
-#. **A proposta parte dos cargos e funções já disponíveis no órgão ou entidade**
+#. **A proposta parte dos cargos e funções já disponíveis na entidade**
    — os cargos e funções que deixam de existir têm custo total igual ou maior ao
-   dos novos. Nesse caso, a planilha disponibilizada pelo Departamento de Modelos
+   dos novos. Nesse caso, a :ref:`planilha` disponibilizada pela Diretoria de Modelos
    Organizacionais produz o quadro automaticamente a partir do novo quadro
-   demonstrativo informado pelo órgão.
+   demonstrativo informado pela entidade.
 
    No exemplo ilustrado, foram retirados da reserva técnica dois CCE de nível 15,
    resultando na tabela apresentada na :numref:`sem-impacto2`
@@ -601,7 +628,7 @@ Unidades administrativas da administração indireta e suas regras específica
  
 As regras a seguir focam na estruturação hierárquica das unidades, que são chefiadas
 por ocupantes de cargos e funções da categoria 1. No entanto, outros tipos de cargos
-e funções (categorias 2, 3 e 4), que não são visíveis no organograma do órgão, podem
+e funções (categorias 2, 3 e 4), que não são visíveis no organograma da entidade, podem
 compor a estrutura de cada unidade.
  
 A regra básica para definir se um cargo ou função pode ser inserido em dada unidade
@@ -680,7 +707,7 @@ São Assessorias típicas:
 Órgãos seccionais
 +++++++++++++++++
  
-São aquelas unidades que executam atividades comuns a todos os órgãos, sob
+São aquelas unidades que executam atividades comuns a todos as entidades, sob
 coordenação de um órgão central, formando um sistema estruturador.
  
 Ouvidoria
@@ -713,7 +740,7 @@ definidas pelo
    federal (`art. 6º do Decreto nº 9.492, de 5 de setembro de 2018 <decreto-9492-art6_>`_).
  
    Assim, a nomeação, a designação, a exoneração ou a dispensa dos titulares dessas
-   unidades deve ser submetida, pelo dirigente máximo do órgão ou da entidade, à
+   unidades deve ser submetida, pelo dirigente máximo da entidade, à
    aprovação da Controladoria-Geral da União.
  
 Corregedoria
@@ -851,6 +878,10 @@ Sobre as competências: necessariamente descritas em Decreto.
 Os órgãos específicos singulares devem ser definidos e organizados de forma que
 a entidade seja capaz de exercer a finalidade e as competências definidas em sua
 lei de criação.
+
+.. admonition:: Importante
+ 
+  Devem ser evitadas Diretorias e Departamentos formados por apenas uma Coordenação-Geral, salvo quando sua natureza justificar uma estrutura formada por Gerentes de Projeto.
  
 Outras Unidades
 ~~~~~~~~~~~~~~~
@@ -859,7 +890,7 @@ Unidades obrigatórias: não
  
 Nomenclatura permite complemento: não
  
-Sobre o titular: conforme :ref:`denominacoes`
+Sobre o titular: conforme :ref:`denominacoesCCEFCE`, para Código 1.14 ou menor.
 
 Sobre as competências: não constam em Decreto, mas precisam ser inseridas no
 sistema informatizado Siorg.
@@ -874,7 +905,7 @@ Unidades descentralizadas
 +++++++++++++++++++++++++
  
 O termo se refere à descentralização física, ou seja, às unidades da entidade
-situadas em município diferente do da sede e que executam ações em nível local.
+situadas em município diferente do da sede e que executam ações em nível local ou regional.
  
 Unidades obrigatórias: não
  
@@ -883,7 +914,7 @@ as Superintendências Regionais.
  
 Sobre o titular: nomenclatura definida conforme a da unidade (por exemplo,
 Superintendente). O titular será ocupante de CCE ou FCE de categoria 1, com nível
-definido pelo órgão, conforme volume de processos e pessoas alocadas, e nível de
+definido pela entidade, conforme volume de processos e pessoas alocadas, e nível de
 complexidade.
  
 .. warning::
@@ -934,25 +965,21 @@ diferenciadas. Seus representantes podem ser originários do setor público, do
 setor privado ou da sociedade civil, segundo a natureza da representação. São
 conhecidos pelos nomes de Conselhos, Comitês, Câmaras, Comissões, entre outros.
  
-Alguns órgãos ou entidades do Poder Executivo federal dispõem, dentro de seu
+Algumas entidades do Poder Executivo federal dispõem, dentro de seu
 sistema de governança organizacional, de órgãos colegiados de caráter deliberativo,
 consultivo ou judicante, criados com o propósito de contribuir para o processo
 decisório institucional de condução de determinada política pública. Esses
 colegiados participam das decisões sobre os rumos das políticas e não sobre
 questões de gestão interna dos órgãos aos quais se vinculam.
  
-Esses órgãos, embora previstos na estrutura organizacional, não dispõem de
-estrutura interna de cargos, e se constituem por representantes de órgãos e
-entidades do Poder Público e, em alguns casos, também de entidades privadas
-(composição pluripessoal). Seus membros não detêm cargos pela participação no
-conselho e não recebem remuneração de qualquer natureza por essa função.
-Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior
-do órgão ou entidade ao qual ele está subordinado.
+Esses órgãos, embora previstos na estrutura organizacional, não costumam dispor de estrutura interna de cargos (exceto se houver previsão legal para tanto), e usualmente se constituem por representantes de órgãos e entidades do Poder Público e, em alguns casos, também de entidades privadas (composição pluripessoal). Seus membros não detêm cargos pela participação no conselho e não recebem remuneração de qualquer natureza por essa função.
+Normalmente, a presidência do conselho é atribuição do cargo de dirigente maior do órgão ou entidade ao qual ele está subordinado.
  
 São exemplos: Comitê Gestor, Câmara Recursal, Conselho Técnico-Científico,
 Conselho Superior, Conselho Deliberativo, Conselho Consultivo.
  
- 
+.. _particularidades_agencias:
+
 Particularidades da estrutura regimental das Agências Reguladoras
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
@@ -966,16 +993,26 @@ Consequentemente, possuem significativa flexibilidade para organizar sua estrutu
 regimental e não precisam de um novo decreto presidencial quando a alteram,
 contanto que não extrapolem o custo de sua atual estrutura. Assim, a estrutura
 mais atualizada de uma agência reguladora é aquela que consta em seu regimento
-interno — aprovado por Resolução de sua Diretoria Colegiada —, razão pela qual
-o decreto que aprova sua estrutura traz apenas as competências e finalidades da
+interno — aprovado por Resolução de sua Diretoria Colegiada e cadastrado no sistema informatizado do Siorg —, razão pela qual o decreto que aprova sua estrutura traz apenas as competências e finalidades da
 agência e de suas unidades obrigatórias, as regras de funcionamento de seus
-colegiados e as atribuições de seus dirigentes.
+colegiados e as atribuições de seus dirigentes. 
  
 Se a agência visar um aumento de sua estrutura de cargos e funções, o pedido segue
 o mesmo rito das demais autarquias.
- 
-Em ambas as situações, a alteração da estrutura regimental, por definição legal,
-deverá observar o seguinte:
+
+Entretanto, o Quadro demonstrativo de cargos e funções que compõe o Anexo IIa dessas entidades tem particularidades: descreve-se apenas as nomenclaturas das unidades obrigatórias e de seus titulares, mantendo em branco as demais denominações. Objetiva-se, assim, oferecer autonomia e flexibilidade à Agência reguladora para que utilize as referências, termos e denominações compatíveis com suas necessidades organizacionais e com as especificidades de sua atuação institucional. Tal compreensão revela-se compatível com a prerrogativa já exercida por essas entidades em relação aos seus cargos de uso exclusivo e preserva a autonomia que lhes foi conferida pela legislação.
+
+.. warning::
+
+   Apesar da flexibilidade para adotar as nomeclaturas mais adequadas a suas realidades, descolando-se da tabela de referência constante do Anexo II do Decreto nº 10.829, de 2021, as Agências reguladoras devem observar os demais dispositivos e diretrizes estabelecidos no referido Decreto. Em especial, permanecem plenamente aplicáveis as regras relacionadas ao posicionamento hierárquico das unidades e dos cargos na estrutura organizacional, a exemplo do disposto nos incisos I e III de seu `art. 4º <decreto-10829-art4_>`_, por se tratar de normas gerais destinadas aos órgãos e entidades da Administração Pública Federal e essenciais para a adequada conformação das estruturas organizacionais:
+
+   * o titular da unidade administrativa será o único ocupante de CCE ou FCE de maior nível;
+
+   * os CCE ou as FCE de mesma denominação não poderão ter relação de subordinação entre si.
+
+   Nas situações em que determinada denominação possa induzir a interpretação divergente da posição hierárquica efetivamente atribuída à unidade, ao cargo ou à função, caberá à entidade adotar nomenclatura alternativa que preserve a coerência com o regramento geral aplicável.
+
+Toda alteração da estrutura regimental, por definição legal, deverá observar o seguinte:
  
 * Terão como órgão máximo o Conselho Diretor ou a Diretoria Colegiada, composto
   por até 5 (cinco) membros, sendo até 4 (quatro) Conselheiros ou Diretores e
@@ -1026,13 +1063,15 @@ deverá observar o seguinte:
      `Lei nº 13.848, de 25 de junho de 2019 <lei-13848_>`_.
  
  
+.. _tranformacao-cargos-ifes:
+
 Particularidades da estrutura regimental das Instituições Federais de Ensino
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  
 As Instituições Federais de Ensino englobam as Instituições Federais de Ensino
 Superior — Ifes (autarquias ou fundações públicas), os Institutos Federais de
 Educação, Ciência e Tecnologia — IFET (autarquias) e, por equiparação a esses
-últimos: o Instituto Nacional de Educação de Surdos e o Instituto Benjamin Constant (ambos unidades organizacionais do Ministério da Educação), as Escolas Técnicas e Colégios de Aplicação vinculados às Ifes, os centros federais de educação tecnológica e o Colégio Pedro II.
+últimos: o Instituto Nacional de Educação de Surdos e o Instituto Benjamin Constant (ambos unidades organizacionais do Ministério da Educação), as Escolas Técnicas e Colégios de Aplicação vinculados às Ifes, os centros federais de educação tecnológica, o Colégio Pedro II e as Instituições Federais de Ensino Militar.
  
 .. seealso::
  
@@ -1041,7 +1080,7 @@ Educação, Ciência e Tecnologia — IFET (autarquias) e, por equiparação a e
    organizacional. Essa lei deve ser consultada quanto aos critérios para nomeação
    de seus dirigentes. De forma geral, é relevante apontar que cada IFET:
  
-   * é organizado em estrutura multicampi;
+   * é organizado em estrutura *multicampi*;
  
    * é administrado por dois órgãos superiores, ambos presididos pelo Reitor: o
      Colégio de Dirigentes e o Conselho Superior. Cabe ao estatuto dispor sobre
@@ -1053,11 +1092,11 @@ Educação, Ciência e Tecnologia — IFET (autarquias) e, por equiparação a e
  
    * seus campi são dirigidos por Diretores-Gerais, nomeados pelo Reitor.
  
-   As Ifes são criadas por leis específicas, onde constam informações sobre a sede,
+   Já as Ifes são criadas por leis específicas, onde constam informações sobre a sede,
    sua organização, finalidade, patrimônio e regras de transição.
  
 Todas as Instituições Federais de Ensino dispõem de cargos e funções específicos,
-desenhados para uma adequada gestão de organizações voltadas ao ensino (veja :ref:`cargos-ifes`).
+desenhados para uma adequada gestão de organizações voltadas ao ensino (veja :ref:`cargos-ifes`), criados no âmbito do Ministério da Educação, a quem cabe definir a distribuição entre as instituições federais de ensino.
  
 .. warning::
  
@@ -1068,60 +1107,26 @@ desenhados para uma adequada gestão de organizações voltadas ao ensino (veja 
    O órgão responsável pela gestão e distribuição desses cargos e funções é o
    Ministério da Educação, a quem compete analisar as demandas das instituições
    federais de ensino. Se necessárias transformações, cabe ao MEC instruir o
-   processo necessário à edição de decreto presidencial e submetê-lo ao MGI,
-   garantindo que o ato ocorra sem aumento de despesa.
- 
-   .. TODO: inserir link para download do modelo de decreto (substituir
-      "(download de modelo)")
- 
-   .. TODO: inserir link para planilha de cálculo de impacto orçamentário
-      (substituir "Aqui, é possível baixar planilha...")
- 
-Cargos e funções das instituições federais de ensino
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
-As instituições federais de ensino se estruturam a partir dos Cargos de Direção
-— CD, divididos em quatro níveis, das Funções Gratificadas, divididas em
-nove níveis, e das Funções Comissionadas de Coordenação de Curso — FCC.
- 
-Todos esses cargos e funções são criados no âmbito do Ministério da Educação,
-a quem cabe definir a distribuição entre as instituições federais de ensino.
- 
-Cargos de Direção (CD)
-""""""""""""""""""""""
- 
-Foram instituídos pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>`_.
-Os Reitores ocupam, necessariamente, o CD-I.
- 
-Funções Gratificadas (FG)
-""""""""""""""""""""""""""
- 
-Foram instituídas pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>`_.
- 
-Funções Comissionadas de Coordenação de Curso (FCC)
-""""""""""""""""""""""""""""""""""""""""""""""""""""
- 
-Foram instituídas pelo `art. 7º da Lei nº 12.677, de 25 de junho de 2012 <lei-12677_>`_.
- 
-Devem ser exercidas, exclusivamente, por servidores que desempenhem atividade de
-coordenação acadêmica de cursos técnicos, tecnológicos, de graduação e de
-pós-graduação *stricto sensu*, regularmente instituídos no âmbito das instituições
-federais de ensino.
- 
-Esses servidores devem ser, necessariamente, titulares de cargos da Carreira do
-Magistério Superior de que trata a `Lei nº 7.596, de 10 de abril de 1987 <lei-7596_>`_,
-e Professores do Magistério do Ensino Básico, Técnico e Tecnológico, integrantes
-do Plano de Carreira e Cargos de Magistério do Ensino Básico, Técnico e
-Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <lei-11784_>`_.
- 
+   processo necessário à edição de decreto presidencial e submetê-lo ao MGI, para posterior encaminhamento à Casa Civil, garantindo que o ato ocorra sem aumento de despesa.
 
+   `Aqui <planilha-ifes_>`_ é possível baixar planilha elaborada pela Diretoria de Modelos Organizacionais, capaz de informar se a transformação proposta ocorre sem impacto orçamentário, facilitando eventuais ajustes antes de sua submissão à análise do MGI.
+
+   Já o modelo de decreto pode ser baixado `aqui <modelo-tipo6_>`_. 
+
+   Lembre-se: o Anexo ao Decreto deve seguir as mesmas orientações da elaboração do :ref:`transformacoes`.  
+
+
+ 
+ 
 
 
 .. ---------------------------------------------------------------------------
 .. Referências externas — legislação
 .. ---------------------------------------------------------------------------
  
+.. _decreto-9739-art14: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/decreto/D9739.htm#Art14
 .. _decreto-10829: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm
+.. _decreto-10829-art4: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm#Art4
 .. _decreto-12002: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/D12002.htm
 .. _decreto-11232: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11232.htm
 .. _decreto-12586: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12586.htm
@@ -1148,3 +1153,5 @@ Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <lei-117
 .. _lei-14204: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14204.htm
 .. _lei-14204-art6: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14204.htm#Art6
 .. _lei-14204-art7: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14204.htm#Art7
+.. _planilha-ifes: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/2026_planilha-transformacoes-e-impacto_ifes.xlsx
+.. _modelo-tipo6: https://www.gov.br/gestao/pt-br/assuntos/gestaoeinovacao/modelos-organizacionais/estruturas-organizacionais/arquivos/manual-online/modelo-6_decreto-de-transformacao-ife.docx

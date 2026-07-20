@@ -37,11 +37,9 @@ eleito.
  
 O art. 84, VI, "a", da `Constituição Federal <cf-1988_>`_, com redação dada pela
 Emenda Constitucional nº 32, de 11 de setembro de 2001, estabelece a competência
-privativa do Presidente da República para dispor, mediante decreto, sobre a
-organização e o funcionamento da administração federal, desde que não implique
-aumento de despesa nem a criação ou extinção de órgãos públicos. Diante das
-transformações políticas e tecnológicas, essas estruturas são constantemente
-aperfeiçoadas para garantir a eficiência da ação estatal.
+privativa do Presidente da República para dispor, mediante decreto, sobre a organização e o funcionamento da administração federal, desde que não implique aumento de despesa nem a criação ou extinção de órgãos públicos, bem como sobre a extinção de funções ou cargos públicos, quando vagos. 
+
+A carta magna garante, assim, que, diante das transformações políticas e tecnológicas, as estruturas organizacionais possam ser constantemente aperfeiçoadas, visando garantir a eficiência da ação estatal.
  
 O `Decreto-Lei nº 200, de 25 de fevereiro de 1967 <dl-200_>`_, parcialmente
 vigente, classifica os órgãos e as entidades da administração federal em dois grandes
@@ -169,7 +167,7 @@ serviços públicos ou à exploração de atividade econômica, nos termos da
  
 Sua criação depende de autorização legislativa e é efetivada por decreto do Poder
 Executivo, por razões de segurança nacional ou relevante interesse coletivo. A empresa
-estatal pode assumir duas configurações jurídicas:
+estatal pode assumir duas configurações jurídicas: sociedade de economia mista ou empresa pública.
  
 Sociedade de economia mista
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^

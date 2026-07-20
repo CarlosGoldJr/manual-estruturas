@@ -1,3 +1,5 @@
+.. _planilha:
+
 Planilha Comparativa de Estruturas
 ==================================
 

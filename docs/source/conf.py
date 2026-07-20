@@ -9,7 +9,7 @@ project_copyright = 'Estruturas Organizacionais'
 
 
 release = ''
-version = '1.0'
+version = '1.1'
 
 language = 'pt_BR'
 
@@ -190,7 +190,7 @@ Laerte Davi Cleto (Org.), Yana de Faria (Org.), Carlos Gold, Letícia Maria Gon�
 \textbf{Contribuiram para a 3ª edição:}\\
 Marcos Santos Kroll.\\[0.5cm]
 
-Brasília (DF), 3 de julho de 2026\\[1cm]
+Versão 1.0 - Brasília (DF), 3 de julho de 2026\\[1cm]
 
 \fbox{
   \begin{minipage}{0.9\textwidth}

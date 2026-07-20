@@ -78,8 +78,6 @@ Organização sequencial padrão
    estrutura, regramentos específicos, revogação do decreto que trata da estrutura
    atual e, se for o caso, de outros que a alteraram, e data de vigência.
  
-   .. TODO: inserir link para download do modelo de decreto
- 
    * **Anexo I** — descreve toda a estrutura regimental ou estatuto, com as
      competências e atribuições de suas unidades;
  
@@ -102,12 +100,7 @@ Faça o download do `modelo aqui <modelo-tipo1_>`_.
  
 .. admonition:: Ferramenta útil
  
-   A Diretoria de Modelos Organizacionais, da Seges, desenvolveu uma planilha
-   que constrói automaticamente os Anexos II e III a partir do quadro
-   demonstrativo dos cargos e funções. A planilha também informa se a alteração
-   implicará impacto orçamentário.
- 
-   .. TODO: inserir link para download da planilha e passo a passo de uso
+   A Diretoria de Modelos Organizacionais, da Seges, desenvolveu uma :ref:`planilha`, que constrói automaticamente os Anexos II e III a partir do quadro demonstrativo dos cargos e funções. A planilha também informa se a alteração implicará impacto orçamentário.
 
 
 Tipo 2 — Alterações pontuais e simples
@@ -126,8 +119,6 @@ ou extinção de unidades de diretoria ou secretaria nem revisão de suas compet
 O texto principal trará os remanejamentos necessários, a referência ao Anexo de
 transformação de cargos e funções (se houver), a revogação de algum ato ou
 dispositivo normativo (se houver) e a data de vigência da nova estrutura.
- 
-.. TODO: inserir link para download do modelo de decreto
  
 * **Anexo I** — quadros com os remanejamentos descritos no texto principal, com
   custo unitário e total;
@@ -168,10 +159,8 @@ transformação de cargos e funções (se houver), as alterações propostas na 
 básica e nas competências das unidades específicas, regramentos específicos (se
 houver), a revogação de algum ato ou dispositivo normativo (se houver) e a data
 de vigência da nova estrutura.
- 
-.. TODO: inserir link para download do modelo de decreto
 
- **Anexo I** — quadros com os remanejamentos descritos no texto principal, com
+* **Anexo I** — quadros com os remanejamentos descritos no texto principal, com
   custo unitário e total;
  
 * **Anexo II (quando necessário)** — quadro demonstrativo dos CCE e FCE com as
@@ -217,10 +206,8 @@ Organização sequencial padrão
    (se houver), regramentos específicos (se houver), revogação de algum ato ou
    dispositivo normativo (se houver) e data de vigência.
  
-   .. TODO: inserir link para download do modelo de decreto
- 
    * **Anexo (quando necessário)** — quadro demonstrativo dos CCE e FCE
-     transformados. Este anexo nem sempre é necessário.
+     transformados.
  
      .. TODO: inserir :ref: ao capítulo sobre critérios para o Anexo CCE/FCE
  

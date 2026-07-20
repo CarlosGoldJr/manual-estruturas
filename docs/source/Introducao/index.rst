@@ -53,16 +53,15 @@ básica dos ministérios e da Presidência da República, além das leis especí
 cada entidade. Eles detalham as competências do órgão e o respectivo quadro de
 cargos em comissão e funções comissionadas.
  
-A partir de 2021, o governo federal modernizou esse processo com inovações
-legislativas importantes. O principal marco é a
-`Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_, que criou:
+A partir de 2021, a Administração Pública federal conduziu inovações
+legislativas importantes voltadas a modernizar seus processos de estruturação organizacional. Essas inovações encontram-se consolidadas, principalmente, na `Lei nº 14.204, de 16 de setembro de 2021 <lei-14204_>`_, que criou:
  
 * **CCE** — Cargos Comissionados Executivos;
  
 * **FCE** — Funções Comissionadas Executivas.
  
 Esses mecanismos tornaram-se o padrão atual para a montagem de estruturas
-organizacionais. Além de simplificar o processo, a lei estabeleceu requisitos de
+organizacionais na maior parte dos órgãos e entidades do Poder Executivo federal. Além de simplificar o processo, a lei estabeleceu requisitos de
 qualificação para o preenchimento dessas vagas, contribuindo para a
 profissionalização do quadro da administração pública.
  
@@ -77,8 +76,7 @@ melhores práticas e a legislação vigente.
 Esta edição consolida o conhecimento acumulado ao longo dos anos e está alinhada
 às orientações do órgão central do Sistema de Organização e Inovação Institucional
 (SIORG). Neste manual, encontra-se todo o passo a passo de um processo de
-reestruturação — da concepção técnica à implementação nos sistemas informatizados
-do governo federal.
+reestruturação organizacional.
  
 Como navegar por este documento:
  

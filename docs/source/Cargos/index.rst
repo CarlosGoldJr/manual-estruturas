@@ -32,7 +32,7 @@ Os cargos efetivos na administração pública destinam-se a preencher funções
 Cargos em comissão
 ------------------
 
-Os cargos em comissão são criados por lei, geralmente, para o exercício das atribuições de direção, chefia e assessoramento. Seu provimento dispensa concurso público - são vocacionados à ocupação em caráter transitório, por pessoas de confiança da autoridade competente para preenchê-los, a qual também pode exonerá-los *ad nutum*, isto é, livremente, e a qualquer momento.
+Os cargos em comissão são criados por lei, para o exercício das atribuições de direção, chefia e assessoramento. Seu provimento dispensa concurso público - são vocacionados à ocupação em caráter transitório, por pessoas de confiança da autoridade competente para preenchê-los, a qual também pode exonerá-los *ad nutum*, isto é, livremente, e a qualquer momento.
 
 São exceções a essa regra os cargos em comissão destinados a autoridades com mandato, cuja exoneração só pode ocorrer ao fim do mandato ou nas hipóteses previstas em lei, como é caso dos diretores das agências reguladoras e do Banco Central.
 
@@ -77,11 +77,11 @@ Dos cargos em comissão existentes na administração pública federal direta, a
 Funções de confiança
 --------------------
 
-As funções de confiança, assim como os cargos em comissão, são criadas por lei ou por transformação para o exercício das atribuições de direção, chefia e assessoramento. Seu provimento também dispensa concurso público - são vocacionadas à ocupação em caráter transitório, por pessoas de confiança da autoridade competente para preenchê-los, a qual também pode exonerar ad nutum, isto é, livremente, e a qualquer momento.
+As funções de confiança, assim como os cargos em comissão, são criadas por lei, para o exercício das atribuições de direção, chefia e assessoramento. Seu provimento também dispensa concurso público - são vocacionadas à ocupação em caráter transitório, por pessoas de confiança da autoridade competente para preenchê-los, a qual também pode dispensar *ad nutum*, isto é, livremente, e a qualquer momento.
 
-A diferença das funções de confiança para os cargos em comissão é que as funções são exclusivas de servidores públicos ocupantes de cargo efetivo. Para ocupar função de confiança no Poder Executivo Federal o servidor pode ter seu cargo efetivo vinculado a qualquer Poder e de qualquer ente da federação.
+A diferença entre as funções de confiança e os cargos em comissão é que as funções são exclusivas para servidores públicos ocupantes de cargo efetivo. Embora a lei possa limitar a ocupação de algumas funções a cargos efetivos e carreiras específicas, em geral, para ocupar função de confiança no Poder Executivo Federal, o servidor pode ter seu cargo efetivo vinculado a qualquer Poder e de qualquer ente da federação.
 
-Considerando o disposto no inc. V do art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, as funções de confiança não podem ser ocupadas por pessoas que não ocupam cargo efetivo, **nem por empregados públicos (pessoas empregadas em empresas estatais), nem por servidores aposentados, nem por militares, sejam da ativa ou da reserva**.
+Considerando o disposto no inc. V do art. 37 da `Constituição Federal <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm>`_, as funções de confiança não podem ser ocupadas por pessoas que não ocupam cargo efetivo, **nem por empregados públicos (pessoas empregadas em empresas estatais), nem por servidores aposentados, nem por militares, sejam da ativa ou da reserva**. Os mesmos requisitos devem ser observados pelo substitutos dos titulares dessas funções.
 
 
 A tabela abaixo resume as características dos diferentes tipos de cargos públicos.
@@ -106,8 +106,8 @@ A tabela abaixo resume as características dos diferentes tipos de cargos públi
      * A qualquer momento, a critério da autoridade superior
      * A qualquer momento, a critério da autoridade superior
 
-   - * Demissão/Exoneração
-     * Somente após processo administrativo
+   - * Exoneração/Dispensa
+     * A pedido (exoneração) ou somente após processo administrativo (demissão)
      * A qualquer momento, a pedido ou a critério da autoridade superior. Exceção: cargos com mandato
      * A qualquer momento, a pedido ou a critério da autoridade superior
 
@@ -180,7 +180,13 @@ As atribuições de chefia e direção estão associadas às categorias direçã
 
 .. note::
 
-   Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categoria e denominação do cargo ou função, por meio de portaria do dirigente máximo do órgão ou da entidade, ainda que tenha sido definido em decreto (inc. III do §2º do art. 13, `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_).
+   Para CCE e FCE de nível 14 ou inferior é possível alterar a alocação, categoria e denominação do cargo ou função, por meio de portaria do dirigente máximo do órgão ou da entidade, ainda que tenha sido definido em decreto (inc. III do §2º do art. 13, `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_), salvo se:
+   
+   * houver destinação específica prevista em lei para os CCE ou para as FCE;
+
+   * a nomeação, a designação, a exoneração ou a dispensa do ocupante depender de ato ou anuência do Presidente da República ou de outro Ministro de Estado; ou
+
+   * as atribuições do CCE ou da FCE estiverem especificadas em ato normativo superior. 
 
 **Categoria Direção (código 1)**
    CCE e FCE da categoria Direção (código 1) destinam-se, sobretudo, aos titulares de unidades administrativas nas estruturas organizacionais de órgãos da administração direta e para parte das entidades de direito público da administração indireta.
@@ -294,7 +300,7 @@ Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
 
 Conforme citado anteriormente, há uma estreita relação entre os cargos e funções e a estrutura organizacional. Essa interdependência se expressa de forma precisa: a cada nível hierárquico da estrutura organizacional corresponde um intervalo de níveis de CCE ou FCE, determinado pela complexidade das atribuições e pela abrangência de responsabilidades daquela posição.
 
-É importante lembrar que a estrutura hierárquica é construída somente com CCE e FCE da categoria 1 (chefia e direção). Os CCE e as FCE das demais categorias integram a estrutura, mas não podem ser titulares de unidade adminstrativa. Portanto, não contribuem para o estabelecimento da estrutura hierárquica.
+É importante lembrar que a estrutura hierárquica é construída somente com CCE e FCE da categoria 1 (chefia e direção). Os CCE e as FCE das demais categorias integram a estrutura, mas não podem ser titulares de unidade adminstrativa. Portanto, não compõem a estrutura hierárquica.
 
 A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionando as principais categorias de unidade administrativa — da Secretaria à Coordenação — aos níveis de cargo ou função que lhes são típicos (vide Anexo II do `Decreto nº 10.829, de 5 de outubro de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/d10829.htm>`_).
 
@@ -305,7 +311,7 @@ A :numref:`fig-niveis-cargos-funcoes` ilustra essa correspondência, relacionand
 
    Correspondência entre a posição hierárquica e o nível dos CCE e das FCE
 
-.. _denominacoes:
+.. _denominacoesCCEFCE:
 
 Denominações associadas aos níveis e categorias dos CCE e das FCE
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -343,20 +349,20 @@ O CCE-Unitário tem por objetivo facilitar o cálculo da despesa com cargos em c
 
    A `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_, autoriza o Poder Executivo federal a transformar cargos em comissão, funções de confiança e gratificações por meio de decreto.
 
-   Na prática, isso significa que é possível *criar* novos cargos e funções por meio da transformação daqueles existentes na estrutura da instituição demandante ou na reserva técnica da Secretaria de Gestão e Inovação, sem a edição de nova lei.
+   Na prática, isso significa que é possível dispor de novos cargos e funções por meio da transformação daqueles já existentes na estrutura da instituição demandante ou na reserva técnica da Secretaria de Gestão e Inovação, sem a edição de nova lei.
 
    Essa transformação ocorre, necessariamente, sem aumento de despesa. Assim, a tabela que traz o demonstrativo dos Cargos Comissionados Executivos (CCE) e das Funções Comissionadas Executivas (FCE) transformados deve, obrigatoriamente, demonstrar o custo zero ou negativo, em CCE-unitários.
 
    É interessante notar que essa tabela não demonstra o impacto orçamentário da reestruturação organizacional em si, que pode ser positivo. Nesse caso, a nova estrutura terá um custo em CCE-unitários superior à estrutura atual, demonstrado no quadro resumo de custos dos cargos em comissão e das funções de confiança do órgão ou entidade.
 
-   A tabela que demonstra as transformações necessárias à nova estrutura, nesse caso, incorporará cargos e funções vagos, disponíveis na chamada *reserva técnica*, de forma a demonstrar que não houve custo no ato da transformação. A consulta à reserva técnica é feita, atualmente, pela Secretaria de Gestão e Inovação, a quem cabe a construção da referida tabela.
+   A tabela que demonstra as transformações necessárias à nova estrutura, nesse caso, incorporará cargos e funções vagos, disponíveis na chamada *reserva técnica*, de forma a demonstrar que não houve custo no ato da transformação. O controle da reserva técnica é feita, atualmente, pela Secretaria de Gestão e Inovação, a quem cabe a construção da referida tabela, que figura como um dos anexos ao decreto que aprova ou altera a estrutura.
 
 .. _outros_tipos:
 
 Outros cargos em comissão e funções de confiança
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
-A maioria das estruturas dos ministérios, órgãos e entidades do Poder Executivo federal é composta de Cargos Comissionados Executivos (CCE) e Funções Comissionadas Executivas (FCE). Porém, existem outras tipologias de cargos em comissão e de funções de confiança, em geral específicas para certos órgãos e entidades, que podem ser mencionadas como exceção a essa regra.
+Grande parte das estruturas dos ministérios, órgãos e entidades do Poder Executivo federal é composta de Cargos Comissionados Executivos (CCE) e Funções Comissionadas Executivas (FCE). Porém, existem outras tipologias de cargos em comissão e de funções de confiança, em geral específicas para certos órgãos e entidades, que podem ser mencionadas como exceção a essa regra.
 
 Cargos de Natureza Especial — NE
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -371,21 +377,50 @@ Os servidores investidos em cargos de Natureza Especial podem ter substitutos, a
 
 .. _cargos-ifes:
 
-Cargos de Direção (CD), Funções Gratificadas (FG) e Função Comissionada de Coordenador de Curso (FCC)
+Cargos de Direção (CD), Funções Gratificadas (FG) e Funções Comissionadas de Coordenação de Curso (FCC)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 As instituições federais de ensino (Instituições Federais de Ensino Superior, Institutos Federais de Educação, Ciência e Tecnologia, Centros Federais de Educação Tecnológica, Escolas Agrotécnicas Federais, Escolas Técnicas Federais e Instituições Federais de Ensino Militar) se estruturam a partir dos Cargos de Direção – CD, divididos em quatro níveis, das Funções Gratificadas, divididas em nove níveis, e das Funções Comissionadas de Coordenação de Curso – FCC.
 
-De acordo com o § 3º do art. 1º da `Lei nº 8.168, de 1991 <https://www.planalto.gov.br/ccivil_03/leis/l8168.htm>`_, podem ser nomeados para Cargo de Direção ou designados para Função Gratificada os servidores públicos federais da administração direta, autárquica ou fundacional não pertencentes ao quadro permanente da instituição de ensino, respeitado o limite de 10% (dez por cento) do total dos cargos e funções da instituição, admitindo-se, quanto aos Cargos de Direção, a nomeação de servidores já aposentados.
+Todos esses cargos e funções são criados no âmbito do Ministério da Educação, a quem cabe definir a distribuição entre as instituições federais de ensino e propor sua transformação, quando necessário (veja :ref:`tranformacao-cargos-ifes`).
 
-Por sua vez, a Função Comissionada de Curso - FCC foi instituída pelo art. 7º da `Lei nº 12.677, de 25 de junho de 2012 <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12677.htm>`_, para ser exercida, exclusivamente, por servidores que desempenhem atividade de coordenação acadêmica de cursos técnicos, tecnológicos, de graduação e de pós-graduação stricto sensu, regularmente instituídos no âmbito das instituições federais de ensino. De acordo com o § 1º do art. 7º, somente poderão ser designados para FCC os titulares de cargos da Carreira do Magistério Superior de que trata a `Lei nº 7.596, de 10 de abril de 1987 <https://www.planalto.gov.br/ccivil_03/leis/l7596.htm>`_, e os Professores do Magistério do Ensino Básico, Técnico e Tecnológico, integrantes do Plano de Carreira e Cargos de Magistério do Ensino Básico, Técnico e Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11784.htm>`_. Por fim, conforme o § 2º do art. 7º da `Lei nº 12.677, de 25 de junho de 2012 <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12677.htm>`_, é vedada a percepção de FCC cumulativa com a retribuição de funções gratificadas, cargos de direção ou com qualquer outra forma de retribuição pelo exercício de cargo em comissão ou função de confiança.
+Cargos de Direção (CD)
+""""""""""""""""""""""
+ 
+Foram instituídos pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>_.
+Os Reitores ocupam, necessariamente, o CD-I.
+ 
+Funções Gratificadas (FG)
+""""""""""""""""""""""""""
+ 
+Foram instituídas pela `Lei nº 8.168, de 16 de janeiro de 1991 <lei-8168_>`_.
+ 
+
+  .. admonition:: Saiba mais sobre critérios de nomeação e designação para CD e FG
+
+  De acordo com o § 3º do art. 1º da `Lei nº 8.168, de 1991 <https://www.planalto.gov.br/ccivil_03/leis/l8168.htm>`_, podem ser nomeados para Cargo de Direção ou designados para Função Gratificada os servidores públicos federais da administração direta, autárquica ou fundacional não pertencentes ao quadro permanente da instituição de ensino, respeitado o limite de 10% (dez por cento) do total dos cargos e funções da instituição, admitindo-se, quanto aos Cargos de Direção, a nomeação de servidores já aposentados.
+
+  Esses servidores devem ser, necessariamente, titulares de cargos da Carreira do Magistério Superior de que trata a `Lei nº 7.596, de 10 de abril de 1987 <lei-7596_>`_, e Professores do Magistério do Ensino Básico, Técnico e Tecnológico, integrantes do Plano de Carreira e Cargos de Magistério do Ensino Básico, Técnico e Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <lei-11784_>`_.
+
+Funções Comissionadas de Coordenação de Curso (FCC)
+""""""""""""""""""""""""""""""""""""""""""""""""""""
+ 
+Foram instituídas pelo `art. 7º da Lei nº 12.677, de 25 de junho de 2012 <lei-12677_>`_.
+ 
+Devem ser exercidas, exclusivamente, por servidores que desempenhem atividade de coordenação acadêmica de cursos técnicos, tecnológicos, de graduação e de pós-graduação *stricto sensu*, regularmente instituídos no âmbito das instituições federais de ensino.
+ 
+Somente poderão ser designados para FCC os titulares de cargos da Carreira do Magistério Superior de que trata a `Lei nº 7.596, de 10 de abril de 1987 <https://www.planalto.gov.br/ccivil_03/leis/l7596.htm>`_, e os Professores do Magistério do Ensino Básico, Técnico e Tecnológico, integrantes do Plano de Carreira e Cargos de Magistério do Ensino Básico, Técnico e Tecnológico, de que trata a `Lei nº 11.784, de 22 de setembro de 2008 <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11784.htm>`_. 
+
+Por fim, conforme o § 2º do art. 7º da `Lei nº 12.677, de 25 de junho de 2012 <https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12677.htm>`_, é vedada a percepção de FCC cumulativa com a retribuição de funções gratificadas, cargos de direção ou com qualquer outra forma de retribuição pelo exercício de cargo em comissão ou função de confiança.
 
 .. _cargos_agencias:
 
 Cargos comissionados das agências reguladoras
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-As agências reguladoras possuem Cargos em Comissão de Direção – CD, de Gerência Executiva – CGE, de Assessoria – CA e de Assistência – CAS, e os Cargos em Comissão Técnicos – CCT, conforme estabelecido na `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_, mas podem transformar seus cargos e funções em CCE e FCE, se assim optarem até 31 de março de 2026. Essas autarquias especiais possuem autonomia para alterar seus respectivos quantitativos de cargos e distribuí-los, no âmbito de cada grupo, sem aumento de despesa (art. 14 da `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_), independentemente da tipologia de cargos e funções adotada.
+As agências reguladoras possuem Cargos em Comissão de Direção – CD, de Gerência Executiva – CGE, de Assessoria – CA e de Assistência – CAS, e os Cargos em Comissão Técnicos – CCT, conforme estabelecido na `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_, mas podem transformar seus cargos e funções em CCE e FCE, se assim optaram até 31 de março de 2026 (para saber mais sobre o que muda para as agências, nesse caso, consulte :ref:`particularidades_agencias`). 
+
+Essas autarquias especiais possuem autonomia para alterar seus respectivos quantitativos de cargos e distribuí-los, no âmbito de cada grupo, sem aumento de despesa (art. 14 da `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_), independentemente da tipologia de cargos e funções adotada.
 
 De acordo com a `Lei nº 9.986, de 18 de julho de 2000 <https://www.planalto.gov.br/ccivil_03/leis/l9986.htm>`_, e a `Lei nº 14.204, de 2021 <https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14204.htm>`_:
   * os Cargos Comissionados de Gerência Executiva, de Assessoria e de Assistência são de livre nomeação e exoneração da instância de deliberação máxima da Agência;
@@ -410,8 +445,8 @@ As Funções Comissionadas do Banco Central – FCBC foram criadas pela `Lei nº
 
 Seus quantitativos também poderão ser alterados por ato do Presidente do Banco Central do Brasil, desde que não impliquem aumento de despesa.
 
-Cargos em comissão e funções de confiança temporários
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cargos em comissão e funções de confiança alocados temporariamente em órgão ou entidade
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 É possível o remanejamento, por Decreto, de cargos em comissão e de funções de confiança da Secretaria de Gestão e Inovação, do Ministério da Gestão e da Inovação em Serviços Públicos, para órgãos e entidades em caráter temporário, até uma data máxima fixada no mesmo Decreto e com objetivo definido. Nesses casos, deverão estar explícitos no Decreto:
   * quais os cargos e/ou funções remanejados temporariamente;
@@ -423,9 +458,9 @@ Cargos em comissão e funções de confiança temporários
 
    Art. 1º Ficam remanejados em caráter temporário, os seguintes Cargos Comissionados Executivos - CCE e Funções Comissionadas Executivas - FCE da Secretaria de Gestão e Inovação do Ministério da Gestão e da Inovação em Serviços Públicos para o (órgão ou entidade):
 
-   - ..........
+   I - ..........
 
-   - .........
+   II - .........
 
    § 1º Os cargos de que trata o caput:
 
@@ -434,3 +469,15 @@ Cargos em comissão e funções de confiança temporários
    II - serão restituídos à Secretaria de Gestão e Inovação em (data completa de restituição), quando seus ocupantes ficarão automaticamente exonerados ou dispensados.
 
    § 2º Os cargos referidos no caput não integrarão a Estrutura Regimental (ou Estatuto) do (órgão ou entidade) e os atos de nomeação ou designação relacionados terão seu caráter de transitoriedade expressos, mediante remissão ao caput do art. 1º.
+
+
+
+.. ---------------------------------------------------------------------------
+.. Referências externas — legislação
+.. ---------------------------------------------------------------------------
+
+.. _decreto-10829: https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/decreto/D10829.htm
+.. _lei-8168: https://www.planalto.gov.br/ccivil_03/leis/L8168.htm
+.. _lei-7596: https://www.planalto.gov.br/ccivil_03/leis/L7596.htm
+.. _lei-11784: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11784.htm
+.. _lei-12677: https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12677.htm
